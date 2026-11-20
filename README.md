@@ -1,4 +1,4 @@
-# IAG 2026/27 - Area 2: Mobilidade sustentavel (William Mest)
+# IAG 2026/27 - Area 2: Mobilidade sustentavel
 
 ## Instalacao
 Ver "Guia de instalacao" do grupo (Ollama + `gemma4:12b` + `qwen3-embedding:0.6b`, chave `GROQ_API_KEY` em variavel de ambiente).
