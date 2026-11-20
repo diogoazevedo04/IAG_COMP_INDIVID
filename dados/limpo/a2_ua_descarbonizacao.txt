@@ -1,0 +1,1811 @@
+INTRODUÇÃO
+
+“Oh! Guimarães, teu progresso tua vida,
+É toda a nossa aspiração;
+Terra bendita, oh! Pátria querida,
+Tens um altar dos filhos teus no coração (…)”1
+
+1. INTRODUÇÃO
+Pensar e planear a cidade traz muitos desafios, sendo que entre eles, a perda de controlo sobre o
+seu progresso é um dos mais relevantes.
+A problemática associada à gestão da oferta de espaço, sobretudo nos centros urbanos, reflete
+muitas vezes essa mesma perda de controlo nomeadamente pela quantidade de conflitos
+funcionais que surgem. Desta forma torna-se importante estabelecer uma estratégia, uma visão
+que compatibilize as diferentes necessidades e exigências dos diversos utilizadores do espaço
+urbano, produzindo mecanismos que permitam que qualquer cidadão se possa deslocar dentro
+da cidade (Ascher, 2000, citado por Teles, 2003).
+Historicamente, no séc. XIX, com a descoberta de novas fontes de energia associadas à Revolução
+Industrial, proporcionou-se o primeiro grande salto no desenvolvimento dos transportes surgindo
+o comboio a vapor (que trouxe uma intensa mobilidade residencial gerada pela dissociação entre
+residência e trabalho) (Teles, 2003).
+Esta “nova era urbana”, gerou uma expansão de edifícios e armazéns que por sua vez levou a que
+a cidade ultrapassasse os seus limites físicos. Isto gerou uma mobilidade ainda mais intensa,
+criando congestionamento nos grandes centros urbanos (e grandes unidades fabris), gerando
+movimento para as periferias, fazendo com que o território urbano passasse a ter os seus limites
+incertos (Davoudi, 2003; Hall, 1997; Teles, 2003).
+O aparecimento do automóvel iniciou a “era da motorização” e as estratégias urbanas
+começaram, fundamentalmente, a centrar-se em torno da circulação automóvel. O automóvel
+veio diminuir a distância geográfica, ou melhor, a alterar a unidade de distância (de metros para
+minutos), possibilitando percorrer vários quilómetros em poucos minutos, alimentando uma
+dispersão territorial acentuada e sem precedentes (Costa, 2007).
+A mobilidade motorizada veio melhorar o nível de vida das pessoas, aumentando mesmo o seu
+número de horas livres, o que por si gerou o aparecimento de mais e novas atividades que por sua
+vez, vieram reforçar a necessidade de movimentação e o papel do próprio automóvel privado
+(Teles, 2003) sendo o seu uso praticamente imbatível, sempre apetecível e competitivo devido à
+sua flexibilidade, à permanente disponibilidade, à comodidade e ao conforto que oferece (CCDRN,
+2008b).
+No entanto, o crescimento da motorização e uma mobilidade sujeita cada vez mais ao transporte
+individual resultou numa dependência excessiva do uso do automóvel (Teles, 2003), provocando
+grandes fluxos de tráfego, criando pressão sobre as infraestruturas viárias e resultando num
+congestionamento permanente (CCDRN, 2008b).
+Este fenómeno incitou à desumanização das cidades e gerou desqualificação ambiental do espaço
+urbano, nomeadamente em zonas históricas, “com consequências severas para a qualidade de
+vida dos seus cidadãos" (“Estratégia «Cidades Sustentáveis 2020»,” 2015), provocando, por
+
+1 Hino da cidade de Guimarães (disponível em: http://www.cm-guimaraes.pt/pages/228)
+
+exemplo, a deterioração da qualidade do ar (devido, por exemplo, às emissões de Gases com
+Efeito de Estufa (GEE)(Sardinha, 2016)), o aumento do ruído e o abuso na ocupação do espaço
+disponível (CCDRN, 2008b).
+Estas repercussões incitam à evidente necessidade do planeamento da mobilidade e sublinham a
+elevada importância da agenda da descarbonização da mobilidade urbana.
+1.1 Motivação, objetivos e metodologia
+MOTIVAÇÃO
+A alteração de paradigma associada à descarbonização da mobilidade desde o imediato me
+cativou e ao longo do curso de PRU (Planeamento Regional e Urbano), foi-me suscitando cada vez
+mais interesse, e fez-me ter vontade de estudar o planeamento da mobilidade, designadamente
+os desafios associados ao desincentivo da mobilidade motorizada.
+A tão desejada aplicação da teoria apreendida, na “vida real”, com repercussões na prática, fez
+com que optasse pela modalidade de estágio curricular.
+A cidade de Guimarães, cidade ímpar, Património Mundial, foi a escolhida para a realização deste
+trabalho, devido fundamentalmente, ao apego que tenho à minha terra de origem. Terra onde
+nasci e cresci, que conheço bem e pela qual tenho especial apreço.
+Mas, mais importante que isto, importa referir que sendo Guimarães uma cidade de média
+dimensão2 onde predomina destacadamente a preferência pelo uso do transporte individual3 (o
+que a torna muito motorizada) e ao mesmo tempo com ambição de ser Capital Verde Europeia
+(CVE), este estágio tem toda a pertinência.
+A instituição de acolhimento de estágio elegida foi a Câmara Municipal de Guimarães (CMG), em
+funcionamento no Convento de Santa Clara4, desde 1975. O estágio ocorreu, especificamente, na
+Divisão de Urbanismo (DU) que faz parte do Departamento de Urbanismo e Promoção do
+Desenvolvimento (DUPD). No decorrer do estágio curricular, após eleições municipais, a estrutura
+do executivo sofreu algumas alterações. A divisão e o departamento obtiveram novas
+designações, nomeando-se Divisão de Planeamento e Gestão Urbanística (DPGU) e Departamento
+de Urbanismo (DU).
+O estágio teve a duração de aproximadamente sete meses, tendo começado no mês de outubro
+de 2017, e terminado no final do mês de maio de 2018. Este estágio, na instituição, foi orientado
+pelo arquiteto Filipe Fontes, diretor do Departamento de Urbanismo (DU), e supervisionado pela
+sua equipa, sendo acompanhado mais assiduamente pela arquiteta Diana Moita.
+O tema do relatório de estágio escolhido inicialmente foi: “O Papel da Mobilidade na
+Descarbonização Urbana”. No entanto, no início do estágio, após a leitura de diversos
+documentos municipais, foi sugerido pela arquiteta Diana Moita a realização de um plano de
+trabalhos livre que viesse a resultar num estudo sobre a descarbonização da mobilidade. Para que
+o estudo deixasse um contributo significativo à instituição, foram considerados os principais
+problemas da cidade, de modo a contemplar ações e recomendações. Consequentemente
+
+2 Uma cidade de média dimensão é aquela cujo número de habitantes está compreendido ente 20 mil e 200 mil habitantes (Fundação
+Europeia, 1994, citada por Kunzmann, n.d.).
+3 Mais de 60% da população utiliza o transporte individual.
+4 Um dos monumentos mais importantes de Guimarães - Fonte: Guia da Cidade, CMG.
+
+entendeu-se rever a designação do trabalho (passou a ser “A Descarbonização da Mobilidade”) e
+reestruturar a abordagem ao tema.
+OBJETIVOS
+Foram estipulados três grandes objetivos:
+1. Investigar como alcançar uma mobilidade livre de carbono, refletindo acerca das
+principais oportunidades e dos seus principais entraves.
+2. Analisar e sintetizar de que forma é realizada a exploração dos desafios da
+descarbonização da mobilidade por parte da CMG, de maneira a entender qual a sua
+aplicação e a sua utilidade prática na cidade.
+3. Conhecer por dentro o funcionamento e a organização de uma câmara municipal, em
+particular na área da mobilidade e do urbanismo.
+
+METODOLOGIA
+A concretização destes objetivos acima mencionados implicou seis etapas distintas que
+genericamente foram cronologicamente sequenciais, e uma vez que a metodologia se trata de um
+processo flexível que permite a melhor compreensão de todos os elementos tratados, foram
+adotadas técnicas específicas para alcançar esses mesmos objetivos, nomeadamente:
+Etapa 1
+Revisão de documentos municipais:
+Leitura de documentos técnicos e estratégicos relativos ao planeamento e à mobilidade em
+Guimarães da CMG (nomeadamente PDM, PMUS, Estudo Sobre Estacionamento na área central
+de Guimarães e PARU), bem como outros estudos, projetos e propostas com incidência territorial
+no centro da cidade relativos à mobilidade.
+
+Etapa 2
+Revisão de literatura:
+Seleção e análise de literatura referente à mobilidade e aos desafios inerentes da
+descarbonização da mesma.
+
+Etapa 3
+Caraterização institucional da CMG e caraterização territorial da cidade de Guimarães
+(fundamentalmente do centro urbano):
+Compreensão da funcionalidade da estrutura da CMG, antes e depois de 2018, de modo a
+compreender qual o ajustamento da sua orgânica em resposta às opções de mobilidade
+existentes.
+Caraterização do território da cidade de Guimarães, fundamentalmente da situação atual.
+
+Etapa 4
+Conceção de estudo:
+Definição do plano de trabalhos e estruturação de índice do estudo realizado, comtemplando
+recomendações e ações que visam a descarbonização da mobilidade no centro urbano de
+Guimarães. O estudo tem a finalidade de poder vir a servir de apoio a tomadas de decisão.
+As etapas antecedentes foram cruciais para o desenvolvimento do estudo no estágio. Considerouse relevante para o desenvolvimento deste relatório de estágio selecionar dois dos projetos
+analisados (da responsabilidade da CMG, aprofundando a análise dos mesmos) bem como
+auscultar agentes face à temática em estudo, de modo a ser exequível apontar um conjunto de
+recomendações plausíveis.
+
+Etapa 5
+Atividades acessórias decorrentes no estágio, propostas pela respetiva equipa de orientação na
+instituição:
+a) Acompanhamento de dois projetos em execução, isto é, de duas obras distintas, uma
+localizada no centro urbano, e outra localizada na periferia imediata ao centro urbano.
+Ambas as obras foram de reperfilamento do espaço público. Foram efetuadas várias
+visitas aos locais, de modo a acompanhar a evolução dos trabalhos.
+
+b) Emissão de pareceres resultantes da análise de casos isolados acerca:
+ da pertinência do município exercer o direito legal de preferência (em terrenos,
+moradias, fábricas…);
+ do fecho da circular urbana;
+ da fixação de termos e condições programáticas de requalificação de um troço
+pertencente a uma antiga estrada nacional (para posterior realização de projeto);
+ do requerimento de um presidente de junta de freguesia sobre a criação de uma
+nova via em paralelo à ecovia em construção;
+ do ofício de um presidente de junta de freguesia sobre a contestação do fecho ao
+trânsito de duas ruas;
+ do requerimento de um munícipe sobre o sentido de circulação da rua onde
+mora.
+
+Etapa 6
+Reflexão crítica acompanhada de considerações finais acerca do desafio da descarbonização da
+mobilidade, nomeadamente no centro urbano de Guimarães.
+
+1.1.1 Cronograma das atividades
+A tabela seguinte pretende apresentar de forma esquemática o calendário relativo a cada uma
+das etapas e fases do trabalho.
+
+Tabela 1: Cronograma relativo às atividades realizadas
+
+ Meses
+ outubro novembro dezembro janeiro fevereiro março abril maio
+ 2017 2018
+Atividades
+Etapa 1
+ Etapa 2
+ Etapa 3
+Etapa 4
+Etapa 5 (acompanhamento de obras)
+ Etapa 5 (emissão de pareceres)
+ Etapa 6
+
+Os prazos pré-estabelecidos foram cumpridos, à exceção do da etapa 2, que foi sendo executada
+ao longo de todos os meses de trabalho, sempre aquando à necessidade de obtenção de
+informação adicional.
+1.2 Clarificação de conceitos
+Neste ponto são clarificados conceitos importantes para a compreensão do conteúdo do presente
+documento, os conceitos de mobilidade, descarbonização da mobilidade e acessibilidade.
+
+Mobilidade
+Relativamente ao conceito de mobilidade, não existe um consenso relativo à sua definição.
+Para Costa (2007) a mobilidade é a capacidade de deslocação “entre dois pontos recorrendo aos
+diferentes modos de transporte disponíveis” (2007, p. 24).
+No entanto, Teles (2003) considera esta definição insuficiente. Para a autora, mobilidade é
+referente não só à deslocação de pessoas, bens e informação, mas também representa a relação
+de “sítios de trabalho com acessos a bens de consumo, com as residências e espaços de
+entretenimento e lazer, com as compras e com as relações de amizades” (2003, p. 35).
+Deste modo, a mobilidade, sobretudo urbana, não pode ser vista apenas na vertente espacial e
+temporal, mas complementarmente também na vertente social e cultural (Bonnet, 2000, citado
+por Teles, 2003).
+A noção de mobilidade está ainda relacionada com o grau de liberdade com que as pessoas se
+podem movimentar em determinado espaço, sendo um conceito que traduz o modo e a
+intensidade com que as deslocações são feitas (Caldeira, 2009).
+
+A mobilidade pode ser associada a diferentes contextos. Neste relatório de estágio, importa
+explorar a mobilidade sobretudo no contexto urbano, visto que a forma e vida das cidades estão
+fortemente ligadas e até por vezes condicionadas pelas condições de mobilidade existentes, já
+que as cidades se têm vindo a expandir à medida que os meios de transporte evoluem (tal como
+explicitado na parte introdutória).
+
+A Descarbonização da Mobilidade
+Descarbonização no dicionário da língua portuguesa é o ato ou efeito de remover o carbono. Para
+Pacheco (2013) a descarbonização compreende a “tendência de redução de emissões de carbono”
+(2013, p. 15).
+Por tal, no presente relatório, o conceito descarbonização corresponde à redução progressiva de
+emissões de carbono, sempre referentes à mobilidade.
+Consequentemente, a “descarbonização da mobilidade” é entendida como sendo a progressiva
+eliminação do carbono nos modos de deslocação, que influenciam a vida social e a liberdade de
+deslocação da população.
+Sendo desejável que, através da descarbonização da mobilidade e do alcançar da neutralidade
+nas emissões de carbono dos transportes, se obtenha uma mobilidade sustentável, capaz de “dar
+resposta às necessidades da sociedade em deslocar-se livremente, aceder, comunicar,
+transacionar e estabelecer relações, sem sacrificar outros valores humanos e ecológicos, hoje e no
+futuro” (World Business Council for Sustainable Development, 2004, p. 12).
+Isto pressupõe que a descarbonização da mobilidade se baseie na diminuição do uso dos veículos
+particulares de combustão interna (denominados por veículos convencionais, movidos a
+combustíveis fósseis, «responsáveis por libertar grandes quantidades de Dióxido de Carbono
+(CO2)» (Shataloff, 2013)); através do incentivo à utilização em primazia dos modos suaves, do
+transporte público, dos veículos elétricos e também da partilha de veículos.
+
+Acessibilidade
+O conceito de “acessibilidade” é frequentemente confundido com o conceito de “mobilidade”
+(Teixeira, 2014), e por isso importa também clarificá-lo.
+Enquanto a acessibilidade é definida como a possibilidade/capacidade de um determinado local
+poder ser alcançado, a facilidade com que determinados lugares podem ser atingidos (Costa,
+2007; Rodrigue, Comtois, & Slack, 2006), por outro lado, e como referido anteriormente, entendese que a mobilidade é o modo como as necessidades de deslocação das pessoas se processam
+num dado território e que o território deve oferecer as caraterísticas de acessibilidade necessárias
+para que os fluxos se realizem adequadamente.
+A acessibilidade é portanto um pressuposto direto da mobilidade (Costa, 2015; Rodrigue et al.,
+2006).
+
+CAPÍTULO II
+REVISÃO DA LITERATURA
+A DESCARBONIZAÇÃO DA MOBILIDADE
+
+2. REVISÃO DA LITERATURA: A DESCARBONIZAÇÃO DA MOBILIDADE
+2.1 A importância da descarbonização da mobilidade para a qualificação
+do espaço público urbano
+O espaço público de uma cidade é formado pelos espaços livres de propriedade privada ou de
+pertença pública (ruas, praças, jardins, parques, praias) e pelos elementos morfológicos que são
+visíveis a partir destes espaços. Engloba por um lado, a paisagem urbana, e por outro lado, as
+fachadas que formam uma fronteira entre espaço público e privado (Centro Português de Design,
+2005; Sá, 2010).
+De um modo geral, podemos definir o espaço público como o espaço resultante do vazio entre os
+edifícios (Gehl, 2006). Ou seja, é representado por constituir um espaço da comunidade de acesso
+livre (Brandão, 2002).
+“O espaço público sempre foi lugar de encontro, de comércio e de circulação” (Gehl & Gemzøe,
+2002, p. 10). Por conseguinte, este tem essencialmente duas funções distintas: a função de
+circular e a função de estar (F. Santos, 2008).
+A função de circular, deriva da movimentação dos seus diversos utilizadores, e por tal, o espaço
+público é o canal por onde os seus utilizadores se “deslocam e movimentam, naturalmente com
+ritmos, intensidades e imposições distintas”. A função de estar, surge da necessidade de
+“proporcionar condições para o encontro, o convívio e a permanência dos seus múltiplos
+utilizadores”, logo, o espaço público, sobretudo à escala local, representa um motor de
+sociabilização (Sá, 2010, p. 37).
+Estando as funções do espaço público associadas às necessidades e exigências dos utilizadores, a
+alteração destes ou das suas necessidades e exigências, obriga a uma reconfiguração das funções
+associadas ao espaço público (Sá, 2010).
+O espaço público urbano é um elemento fundamental para a qualidade de vida urbana, sendo a
+sua avaliação qualitativa o “resultado dos comportamentos e atitudes dos utilizadores, baseado
+em memórias e sensações, e através de abordagens cognitivas e percetivas” (Seixas, 2015, p. 15).
+“A cidade que, por definição, deve ser um espaço democrático” (Teles, 2003, p. 65) é também um
+espaço de múltiplos conflitos funcionais. Por isso, tona-se importante definir e procurar atenuar e
+compatibilizar todos os interesses e necessidades, ainda que divergentes, nos espaços públicos.
+Existem alguns indicadores ou critérios de avaliação da qualidade do espaço público, para que
+funcionem como espaço de vivência e de encontro social, desde a sua identidade, continuidade,
+permeabilidade, segurança, conforto, aprazibilidade, mobilidade, acessibilidade, inclusão e
+coesão social, legibilidade, diversidade, adaptabilidade, resistência, durabilidade e, por fim,
+sustentabilidade (Brandão, 2002).
+Um espaço público de qualidade deve de ser seguro, ter proteção contra o tráfego e contra
+experiências sensoriais desagradáveis, promovendo igualmente lugares com áreas adequadas de
+proteção contra o calor, chuva e vento; ter espaços para caminhar e permanecer, incluindo
+lugares onde seja possível sentar e exercitar; e por fim, possibilitar a observação da paisagem
+(Gehl, Gemzøe, Kirknæs, & Søndergaard, 2006).
+As vivências nos elementos constituintes do espaço público são diversas, de natureza individual
+ou coletiva, onde predomina o peão e que incluem exigências de mobilidade, em que hoje é
+dominante o uso do automóvel (Gil, 2009).
+
+Tendo isto em conta, e a situação de os transportes movidos a gasóleo e a gasolina serem os
+principais responsáveis pela emissão de dióxido de carbono, é necessário “diminuir a intensidade
+carbónica da mobilidade urbana, incluindo mercadorias e passageiros, desincentivando o
+transporte individual motorizado, promovendo a intermodalidade e reforçando a adequação,
+cobertura, conetividade, serviço, informação e sustentabilidade do transporte coletivo,
+incrementando o peso e a diversidade das opções de mobilidade de baixo carbono na repartição
+modal, incluindo a mobilidade suave e elétrica, e promovendo a integração funcional e tarifária da
+rede intermodal urbana, suburbana e interurbana” (“Estratégia «Cidades Sustentáveis 2020»,”
+2015, p. 5711).
+2.1.1 Benefícios da adoção de comportamentos sustentáveis
+A adoção de comportamentos sustentáveis traz benefícios a diversos níveis: redução da poluição,
+diminuição do uso de recursos energéticos não renováveis, melhoria da saúde das pessoas e
+libertação da ocupação do espaço público.
+Um dos grandes problemas ambientais enfrentados pelos centros urbanos são as elevadas
+concentrações de gases poluentes na atmosfera, resultantes da combustão interna dos motores
+dos veículos convencionais. A adoção de medidas que desincentivem o uso do automóvel
+favorece uma melhoria significativa da qualidade do ar nos centros urbanos, diminuindo assim a
+poluição atmosférica. Os veículos motorizados convencionais são também bastante ruidosos, por
+isso, a prática de modos suaves e o uso do transporte coletivo e de veículos elétricos, favorece
+também a diminuição da poluição sonora.
+As mesmas práticas trazem também, explicitamente, uma redução no consumo de combustíveis
+fósseis, e por tal, diminuição do uso de recursos energéticos não renováveis.
+A par disto, o uso dos modos de deslocação suaves, como andar a pé e/ou de bicicleta melhora
+substancialmente o bem-estar físico e a saúde das pessoas que os adotam, evitando possíveis
+problemas associadas ao sedentarismo como a obesidade5, os diabetes, tensão alta, colesterol, os
+riscos cardiovasculares e outros.
+Por exemplo, relativamente à obesidade, em Portugal, a prevalência do excesso de peso tem
+vindo a aumentar, tanto em adultos como em adolescentes e crianças (Camolas, Gregório, Sousa,
+& Graça, 2017; A. Santos, 2010). Segundo Santos (2010), dados do Inquérito Nacional de Saúde
+(INS) de 2005/2006, “mostram um crescimento acelerado da obesidade” (2010, p. 15).
+O excesso de peso já atinge mais de um quarto das crianças e adolescentes portugueses e mais de
+metade da população adulta (Camolas et al., 2017). É notório que o problema da prevalência de
+excesso de peso e obesidade é ainda mais sério devido ao aumento da incidência entre os mais
+jovens. Portugal regista uma das maiores incidências de excesso de peso entre as crianças na
+Europa (A. Santos, 2010).
+A modificação dos estilos de vida é uma componente essencial e indispensável na abordagem ao
+combate ao excesso de peso (Camolas et al., 2017).
+A diminuição da dependência do automóvel privado potencia também a libertação de espaço
+público, que poderá ser ocupado, por exemplo, por outras funções, nomeadamente jardins ou
+mesmo parques verdes, bem como pela melhoria das condições de circulação dos modos suaves.
+
+5 Segundo a Organização Mundial da Saúde (OMS), a obesidade é uma doença em que o excesso de gordura corporal acumulada pode
+atingir graus capazes de afetar a saúde (WHO, 2000). A OMS reconhece esta doença como um importante problema de saúde pública,
+que afeta adultos, adolescentes e crianças. Este problema tem tomado “proporções epidémicas em todo o mundo, com um aumento
+de até três vezes nas últimas décadas” (WHO, 2006, citada por Costa, 2012).
+
+2.2 Estratégias para a descarbonização da mobilidade
+Para a descarbonização da mobilidade, é necessária uma mudança de paradigma na mobilidade,
+que diminua o uso do automóvel particular (Meireles, 2017).
+As medidas para atingir esta mudança podem ser classificadas em medidas diretas quando
+aplicadas ao desincentivo do uso do automóvel particular, e em indiretas quando aplicadas ao
+incentivo de modos de deslocação mais sustentáveis, como a mobilidade suave (andar a pé e de
+bicicleta), a mobilidade elétrica e o uso de transportes públicos. A intermodalidade e o desenho
+do espaço público são duas componentes igualmente importantes para a mudança.
+É preciso assumir que qualquer mudança é sinónimo de entrave pois as pessoas são avessas à
+mudança. No que respeita à mudança de comportamentos e de hábitos de mobilidade sobretudo
+diária, essa dificuldade mantém-se, e, portanto, o passo mais difícil será sempre a mudança de
+mentalidades e posteriormente de comportamentos (Castro, 2018).
+Sendo assim, a aceitação é um elemento essencial (ainda que muitas vezes negligenciado) da
+mobilidade sustentável. Porém, a escala de mudança necessária para promover uma estratégia
+efetiva de mobilidade sustentável, necessita de uma compreensão profunda de aceitabilidade,
+onde a mudança comportamental deve ser vista como parte fundamental da solução, e por isso,
+medidas políticas controversas devem de ser adotadas por etapas, no sentido de demonstrarem
+resultados positivos e melhorias mensuráveis de modo a criarem responsabilidade e compromisso
+de mudança, para efetivamente surtirem efeitos positivos (Banister, 2008).
+Existem cidades que já se encontram ativamente envolvidas na implementação de políticas de
+mobilidade sustentável, através do fornecimento de informações, garantindo o envolvimento
+efetivo e a comunicação, através do acondicionamento de medidas políticas, proporcionando
+benefícios diretos (Banister, 2008).
+2.2.1 Desincentivo ao uso do automóvel particular
+O transporte automóvel particular domina claramente a preferência dos cidadãos. “A
+conveniência e utilidade do veículo automóvel são tamanhas que as pessoas ignoram os efeitos
+negativos” (Kaku, 2011).
+De modo a dissuadir as pessoas do uso do automóvel particular, e como aprendido no âmbito
+académico, é necessário um conjunto de medidas, tais como: o condicionamento do acesso
+automóvel; a implementação de seguros e taxas baseados na quilometragem, ao invés de um
+custo fixo, isto é, um custo que varie face ao grau de utilização do automóvel; a tarifação
+rodoviária, onde os automobilistas pagam automaticamente por conduzirem numa determinada
+via ou área (Banister, 2008); a gestão e tarifação de estacionamento; bem como a fiscalização do
+estacionamento ilegal, entre outras.
+É no centro urbano, zona abrangente de uma grande área de influência, onde existe maior peso
+em termos demográficos e na qual se localizam os principais geradores de viagens. A
+concentração da oferta de bens ou serviços, pela existência de determinados equipamentos
+urbanos que propiciam maiores fluxos de deslocações, provocam uma substancial interferência
+no tráfego, geralmente em horas de ponta (mpt, 2016).
+
+A questão do estacionamento é igualmente importante, visto ser um complemento essencial ao
+uso do automóvel particular.
+
+O elevado número de veículos automóveis em circulação leva a uma elevada procura de
+estacionamento, salientando-se que 90% do dia este está estacionado e portanto há a
+necessidade de espaço público disponível para o parquear (Siemens, 2016, citada por Meireles,
+2017).
+Há estudos que mostram que em alguns casos um terço do tráfego automóvel nas cidades é
+gerado por pessoas que estão à procura de estacionamento (Shoup, 2006). A procura de um lugar
+de estacionamento leva, em média, à circulação de 4,5 quilómetros até encontrar lugar (APCOA
+PARKING, 2013). Então, compreende-se que quanto menor for a oferta e quanto maior for o custo
+de estacionar, maior é o desincentivo para o uso do automóvel (CCDRN, 2008b).
+A existência de parques de estacionamento dissuasores, caraterizados pela sua localização
+periférica ao aglomerado urbano, de modo a reduzir a procura de estacionamento e a circulação
+automóvel no centro e, assim criar condições para um maior conforto às mobilidades suaves pela
+libertação do espaço público, bem como para a redução dos níveis de poluentes atmosféricos e
+de ruído (Fernandes, Sousa, & Fonseca, 2009), é igualmente importante.
+Adicionalmente, de modo a reduzir o número de veículos automóveis em circulação, existem dois
+conceitos a ter em conta. Os conceitos de carpooling e carsharing. O conceito de carpooling
+consiste na partilha de um automóvel particular por várias pessoas (G. Dias et al., 2014). O
+conceito de carsharing é um modelo de aluguer de veículos baseado na premissa de que uma
+pessoa não necessita de possuir um veículo próprio, usando um quando necessário, podendo
+requisitá-lo e devolvê-lo em espaço público, sendo este utilizado por diversas pessoas (Dinis,
+2013).
+2.2.2 Promoção da mobilidade suave
+A mobilidade suave abrange todas as tipologias de deslocações que não impliquem o uso de
+transportes motorizados (Ruxa, 2013).
+Os modos de mobilidade suave são entendidos como meios de deslocação e transporte de
+velocidade reduzida. Estes ocupam pouco espaço, têm pouco impacte na via pública, e não
+emitem gases para a atmosfera. São exemplos de mobilidade suave a simples pedonabilidade ou
+a deslocação com recurso a bicicletas, patins, skates, ou quaisquer outros similares. Por tal, são
+encarados como uma mais-valia económica, social e ambiental, e alternativa real ao automóvel
+(Peixoto, 2014; Resolução da Assembleia da República n.o 3/2009, 2009).
+A mobilidade suave é atualmente uma etapa relevante no contexto da gestão da mobilidade nas
+cidades. Por essa razão, de seguida, são explorados os desafios da promoção da pedonabilidade e
+da introdução da bicicleta no meio urbano.
+2.2.2.1 Pedonabilidade
+A pedonabilidade, o simples ato de andar a pé, de caminhar, “é prático, barato e ecológico. É
+também saudável e divertido. (…) Caminhar na cidade é um ponto importante na qualidade,
+vitalidade e prazer para a vida urbana. É a base e o começo de tudo. Caminhar é necessário” (Gehl
+& Gemzøe, 2002, p. 257).
+O modo pedonal é o modo de transporte mais acessível e quase todas as viagens incluem, de
+forma simples ou conjugada com outros modos de deslocação, um trajeto a pé. Este modo de
+deslocação “é o mais eficiente nas deslocações até 1 Km” (IMT & GPIA, 2012, p. 23).
+Para a promoção deste modo, é necessária uma melhoria nas infraestruturas, visto que “uma boa
+rede pedonal pode promover um acesso equitativo a serviços e equipamentos, e pode mesmo
+entender-se que os passeios constituem os espaços mais democráticos da cidade, porque neles
+
+circulam livremente, sem necessidade de licença de condução ou veículo, pessoas de qualquer
+idade, grupo ou classe social” (CML, 2013, p. 16).
+2.2.2.2 Introdução da bicicleta no meio urbano
+A bicicleta é o modo de transporte urbano mais eficiente com alto potencial para reduzir o
+consumo de energia e aumentar a capacidade de vida das cidades. Sendo um meio de transporte
+económico, saudável e ambientalmente sustentável, a bicicleta, é vista muitas vezes, como uma
+boa alternativa para percursos de pequenas distâncias (Mendes, 2014).
+Constitui “a opção mais competitiva nas deslocações até 4 km6, sendo um modo mais rápido do
+que o transporte individual, sobretudo quando se considera o tempo de acesso até ao veículo”
+(IMT & GPIA, 2012, p. 23) e o tempo despendido nas filas de trânsito e na procura de
+estacionamento.
+A promoção do uso da mobilidade em bicicleta como meio regular de transporte passa também
+pela criação ou melhoria das infraestruturas para a bicicleta o que exige investimento público.
+São necessárias infraestruturas cicláveis como ciclovias, ecovias e ciclo pistas, sendo que,
+adicionalmente, a rede viária em meio urbano deve ser tendencialmente preparada para o uso
+generalizado da bicicleta (Teles, 2003); e infraestruturas de estacionamento, como cicloparques,
+que garantam a existência de medidas anti furto dos veículos (Meireles, 2017).
+Para que a bicicleta seja realmente utilizada importa promover o aumento da segurança, o que
+implica: a diminuição do tráfego automóvel e a redução das velocidades em meio urbano através
+de medidas de acalmia de tráfego por forma a garantir que as ruas sejam espaços multifuncionais
+(Meireles, 2017).
+A criação de condições é claramente importante, mas por si não é suficiente (Comissão Europeia,
+2002).
+Numa cidade sem cultura de ciclismo e, consequentemente, sem perceção de que a bicicleta
+pode tornar-se num real modo de deslocação diário, as intervenções podem tornar-se numa
+medida com alto impacto negativo. As cidades que estão a começar o seu desenvolvimento
+ciclável têm de ser precavidas sobretudo na implementação de infraestruturas. Isto porque a
+implementação de ciclovias por si não gera de imediato ciclistas. Nesse sentido, importa que a
+implantação de redes cicláveis tenha por base locais onde já existam ou possam vir a existir
+ciclistas (Comissão Europeia, 2002).
+É preciso essencialmente ativar o potencial de uso da bicicleta através de ações que a promovam.
+É preciso mudar a mente da comunidade. A base desta mudança assenta no estabelecimento de
+uma cultura real de ciclismo nas cidades. Assim sendo, é preciso desenvolver um conjunto mais
+alargado e diverso de medidas para promover o uso da bicicleta, sendo necessário alterar hábitos
+e comportamentos, através de diversas medidas como campanhas de sensibilização e promoção,
+melhorando a imagem relativa ao uso da bicicleta. (Meireles, 2017)
+Numa situação mais avançada, onde a presença da bicicleta já se faz notar, outras medidas
+podem intensificar o uso desta, como incentivos financeiros e fiscais, método utilizado por alguns
+países europeus. Exemplo disso é a Holanda, onde os trabalhadores que se desloquem de
+bicicleta recebem 0,15 euros por quilómetro pedalado, livre de impostos (Meireles, 2017).
+
+6 “Um percurso de 4 km pode ser realizado em cerca de 15 minutos (assumindo uma velocidade de 15km/h, que corresponde a uma
+velocidade baixa de circulação, já que está convencionado que a velocidade média de viagem em bicicleta varia entre os 15 e os 25
+km/h)” (IMT & GPIA, 2012, p. 23).
+
+2.2.3 Promoção da mobilidade elétrica
+A mobilidade elétrica é um contributo importante para a descarbonização da mobilidade e para o
+aumento da eficiência energética no transporte.
+“De volta em 1900, Henry Ford e Thomas Edison, dois amigos de longa data, fizeram uma aposta
+sobre qual formato de energia poderia abastecer o futuro. Henry Ford apostou na substituição de
+carvão, por petróleo, com o motor de combustão interna substituindo os motores a vapor. Thomas
+Edison apostou no carro elétrico. Com a descoberta rápida de depósitos de petróleo barato do
+Médio Oriente e outros lugares logo fizeram Ford ganhar no imediato a aposta. O mundo nunca
+mais foi o mesmo desde então. As baterias não conseguiram acompanhar o sucesso fenomenal da
+gasolina. Mas agora a maré está a virar lentamente. E, talvez um século depois de a aposta ter
+sido feita, Edison ganhe.” (Kaku, 2011, p. 117)
+Espera-se que o contributo da mobilidade elétrica seja cada vez maior, e que à medida que a
+autonomia dos veículos elétricos aumenta, o número de utilizadores desta nova forma de
+mobilidade aumente similarmente.
+2.2.3.1 Potencialidade dos veículos elétricos
+Os veículos elétricos diferenciam-se dos veículos convencionais, tal como o nome indica, por se
+moverem através de energia elétrica. O motor de um veículo elétrico é incomparavelmente mais
+eficiente do que um veículo convencional (Fontaínhas, 2013, p. 27).
+Existem dois tipos de veículos elétricos: os veículos completamente elétricos e os veículos
+parcialmente elétricos. Estes últimos são denominados por veículos híbridos e são constituídos
+por ambos os motores, o elétrico e o convencional.
+Os veículos 100% elétricos são zero emissões, enquanto os veículos híbridos são “caraterizados
+por terem emissões mais reduzidas e menor consumo de combustível, em comparação com os
+veículos convencionais” (Nobre, 2011, p. 16).
+Os veículos elétricos acarretam diversas vantagens, devido à forma de deslocação inovadora, sem
+emissões, económica e com incentivos.
+É-lhes conferida uma poupança monetária a diversos níveis. São menores os custos de
+combustível, pois ao utilizar a eletricidade como combustível, 100km podem custar pouco mais de
+1€. A eletricidade necessária para carregar as baterias dos veículos elétricos pode ser proveniente
+de várias fontes de energias renováveis, como a eólica, solar e hídrica (Monteiro, 2011).
+O carregamento é simples e pode ser efetuado em casa, no trabalho ou num espaço público. Em
+Portugal existem postos de abastecimento elétrico públicos, ainda gratuitos, através do programa
+governamental de promoção à mobilidade elétrica, em que o carregamento pode ser normal ou
+rápido diferenciando-se pelo tempo que demoram a efetuar o carregamento do veículo elétrico,
+nomeadamente entre 6 a 8 horas e entre 20 a 30 min aproximadamente, acarretando vantagens
+diferenciadas, dependendo da necessidade do carregamento. O carregamento normal pode ser
+efetuado no período de trabalho, onde, adicionalmente, o estacionamento é gratuito, o que
+pressupõe uma poupança ainda maior (Castro, 2018).
+Para além disto, os custos de manutenção de um veículo elétrico são menores, visto este não
+possuir uma grande variedade de peças sujeitas a desgaste, não requerendo, como tal, uma
+manutenção tão exaustiva quanto a de um veículo com motor de combustão; sendo eliminados
+também os custos associados à manutenção de combustíveis líquidos e, portanto, não necessita
+de, por exemplo, mudanças de óleo (Fontaínhas, 2013, p. 28).
+
+Existem ainda isenções beneficiárias, nomeadamente do Imposto Sobre Veículos (ISV) e do
+Imposto Único de Circulação (IUC) para veículos 100% elétricos e redução de ISV para 25% para
+veículos híbridos, por exemplo.
+Para incentivar a adesão à mobilidade elétrica, a implantação de infraestruturas é essencial,
+sendo que os “locais de estacionamento em edifícios novos ou reconstruídos são obrigados por lei
+a dispor de um posto de carregamento ou de uma tomada elétrica para o carregamento de
+baterias de veículos elétricos”, não obstante à necessidade de existência de postos de
+carregamento elétrico de acesso público, para se proporcionar uma forte adesão por parte da
+população a este tipo de mobilidade, indo ao encontro dos objetivos nacionais para a eficiência
+energética e a sustentabilidade ambiental (Nobre, 2011, p. 22).
+Para tal, em Portugal, surgiu a “Rede de Mobilidade Elétrica, dinamizada pela entidade gestora
+MOBI.E, que permite o abastecimento dos veículos elétricos” (Nobre, 2011, p. 21) em mais de 50
+municípios, contando com mais de 1 250 postos de carregamento.7
+Para aceder a estes postos de carregamento de acesso público, é necessário adquirir um cartão. O
+cartão “permitirá o acesso a toda a rede de carregamento MOBI.E, que é fornecido com um PIN
+provisório que será indicado com o envio do cartão. Aquando da subscrição do cartão MOBI.E, o
+cliente terá direito a uma identificação e, a uma senha que permitirá consultar todos os seus
+movimentos na área reservada do portal” online MOBI.E. Assim, durante o carregamento o
+utilizador poderá nesse portal monitorizar o processo de carregamento em curso, e configurar
+alertas por mensagem. Posteriormente, quando este serviço for pago, no final do mesmo, será
+lançado o valor do carregamento no extrato (incluindo a eletricidade consumida e um valor pelo
+serviço de carregamento) (Nobre, 2011, p. 24).
+Contudo, ficam ainda por resolver os acidentes, o congestionamento e o consumo de espaço
+público que acaba por ser maior devido às infraestruturas de carregamento instaladas. Nessa
+medida, importa sublinhar que a promoção da mobilidade elétrica deve ser sempre entendida
+como uma forma complementar, um meio para atingir um fim, que no limite passa por uma
+sociedade menos dependente dos combustíveis fósseis e capaz de assegurar uma maior
+humanização dos espaços.
+2.2.4 Promoção do transporte público rodoviário
+O crescimento da motorização e o sucessivo aumento dos fluxos de tráfego, resulta num
+congestionamento permanente. Esta realidade provoca deterioração do serviço de transporte
+público rodoviário, devido ao facto de o congestionamento provocar autocarros mais lentos e
+consequentemente provoca uma diminuição do número de passageiros nos mesmos. Esta é uma
+das razões que faz com que estes passageiros optem por utilizar o transporte individual,
+provocando necessariamente mais automóveis, tornando o congestionamento neste círculo
+vicioso (CCDRN, 2008b).
+É reconhecido que há vantagens no uso do transporte público em relação ao transporte
+individual, “particularmente no que se refere à eficiência da ocupação do solo, onde se consegue
+transportar mais pessoas usando menos espaço, e, portanto, reduzindo os congestionamentos,
+mas também na área energética e ambiental” (CCDRN, 2008b, p. 8).
+Para que o uso do transporte público rodoviário de passageiros convencional (recorrendo
+portanto a autocarros) aumente, é necessário que a cobertura do serviço seja expansiva e
+
+7 Fonte: http://www.mobie.pt (consultado a 11/01/2018)
+
+frequente, com percursos rápidos, que as viaturas sejam confortáveis e apelativas, e que sejam
+praticadas tarifas acessíveis (CCDRN, 2008b).
+De igual modo, a melhoria da qualidade nas paragens de transporte público conduz a um
+aumento da procura deste serviço, no que respeita à segurança, comodidade e informação, bem
+como quanto à sua localização, importando a complementaridade com outros modos de
+transporte (CCDRN, 2008b).
+Relativamente à informação disponibilizada, seria uma mais valia a existência não só dos horários
+e dos itinerários, mas também de informação em tempo real (através de placas eletrónicas).
+Sendo conjuntamente desejável uma sociedade onde os transportes não poluem, a integração do
+transporte público rodoviário com a mobilidade elétrica, resultando em frotas de transporte
+público elétrico seria uma mais valia, apesar da dificuldade de implementação.
+2.2.5 Políticas de intermodalidade
+A intermodalidade, integração entre os diversos modos de transporte, é de facto, uma das
+condições essenciais para a promoção de uma mobilidade sustentável (S. Dias, 2014) e portanto
+livre de carbono, tendo como finalidade a dissuasão da utilização do transporte individual em
+benefício de modos de deslocação mais sustentáveis.
+Por esse motivo, é importante assegurar que a interligação entre os diversos modos de transporte
+funcione. É exemplo disso a interligação da bicicleta com o autocarro. A intermodalidade assume
+portanto um papel decisivo na promoção da bicicleta, ao contribuir para suprir distâncias
+superiores àquelas em que a bicicleta é preferencial relativamente ao transporte individual
+(Mendes, 2014).
+É por isso necessário assegurar condições de transporte de bicicleta nestes veículos, visto que a
+promoção da bicicleta “tem mais sucesso quando existe uma política de mobilidade integrada”
+(Meireles, 2017, p. 56).
+Porém, em centros urbanos facilmente percorríeis a pé, a intermodalidade não é um fator
+essencial (Castro, 2018).
+2.2.6 Redesenho do espaço público
+Uma cidade desenhada para pessoas, pensada para pessoas, é diferente de uma cidade
+desenhada e pensada para carros.
+Figura 1: Evolução do planeamento da mobilidade
+Fonte: “A Short History of Traffic Engineering” - Copenhagenize
+
+Após o aparecimento dos veículos automóveis e até à atualidade, tal como visível na figura 1, o
+desenho das cidades desenvolveu-se em torno das necessidades e exigências deste veículo. O uso
+do espaço público mudou em função do tráfego de veículos na cidade (em particular depois da
+segunda guerra mundial) (Gehl & Gemzøe, 2002).
+Esta realidade veio limitar a circulação de peões pelo tráfego automóvel e consequentemente fêlos desaparecer da vida e do espaço público (Gehl & Gemzøe, 2002, p. 257).
+A cidade primordialmente ocupada por pessoas é atualmente riscada por alcatrão e ocupada por
+veículos automóveis, tornando-se desumanizada.
+A forma como a cidade está desenhada afeta significativamente a atratividade pelo uso de modos
+de deslocação que não sejam o transporte individual (CCDRN, 2008b). Isto é, o desenho urbano
+favorável à utilização exclusiva do automóvel particular é prejudicial para os outros modos de
+deslocação. No que diz respeito aos modos suaves (peões e ciclistas), por vezes, as infraestruturas
+viárias assumem limites físicos intransponíveis (Meireles, 2017).
+Neste contexto, o redesenho urbano desempenha um papel fundamental no paradigma das
+deslocações e deve funcionar como um elemento de inclusão social e, assim, responder às
+necessidades de toda a população (mpt, 2016).
+Na tentativa de reverter o processo, isto porque “a cidade é gente, a cidade são os homens, a
+cidade é vida” (Sófocles citado por Teles, 2003, p. 25), a forma de pensamento atual sobre o
+planeamento deverá ser centrada no peão.
+
+Figura 2: Forma de pensamento atual sobre o planeamento da mobilidade
+Fonte: “Traffic Planning for Liveable Cities” - Copenhagenize
+
+É necessário repensar e planear os “diversos canais de circulação que, por via do seu desenho,
+poderão limitar as opções pelos modos suaves e/ou transportes coletivos em detrimento da
+utilização do automóvel individual” (mpt, 2016, p. 280).
+De modo a compatibilizar as diversas funções existentes, de forma a garantir a melhor
+coexistência no espaço público, pode optar-se por soluções como eliminação de vias, criação de
+acessos condicionados, criação de ruas unitárias e/ou implementação de dispositivos de acalmia
+de tráfego.
+“As ruas unitárias apresentam uma solução onde há total partilha do espaço rua pelos diferentes
+modos de transporte. Neste contexto, interessa salientar que está (ou deve estar) subentendida,
+uma hierarquização informal entre modos de transporte. Isto é, apesar da inexistência de
+passeios, o peão, pela sua condição, deve naturalmente afirmar-se como modo prioritário. A
+solução técnica implementada deve transmitir aos utilizadores (recorrendo a estratégias de
+desenho urbano) a perceção de que se trata de um território modalmente partilhado e que, por
+future
+
+esse motivo, o comportamento e as velocidades de circulação devem ser devidamente ajustadas
+ao meio em que se encontram” (Sá, 2010, pp. 62–3).
+A acalmia de tráfego deve informar a qualificação e transformação dos espaços públicos da cidade
+contemporânea. Tem como objetivo central a redução da velocidade e da presença de veículos
+em espaço público (CCDRN, 2008a).
+Existem diversas medidas de acalmia de tráfego, medidas simples como:
+ alteração do tipo de pavimentação da faixa de rodagem;
+ estreitamento da largura das vias (e consequente criação de passeios mais generosos).
+E medidas ao nível de obstáculos físicos como:
+ separadores centrais na faixa de rodagem;
+ gincanas obteníveis com a criação de obstáculos de forma alternada nas bermas;
+ rotundas, porque obrigam os condutores a abrandarem e a esperarem, bem como a
+circularem em torno delas;
+ pré-avisos através de bandas sonoras e cromáticas ao longo da via;
+ lombas (medida mais utilizada em todo o mundo),
+ plataformas elevadas que correspondem a lombas alongadas, podendo corresponder a
+travessias pedonais normalmente utilizadas quando existe um elevado número de
+atravessamentos pedonais;
+ vias ao nível do passeio de modo a equalizar as prioridades dos diversos modos (CCDRN,
+2008a).
+
+
+
+separador central lombas rotunda
+
+ bandas passadeira elevada
+
+Figura 3: Exemplos de medidas de acalmia de tráfego
+Fonte: Fotos de autoria própria (cidade de Guimarães)
+
+Na figura seguinte é possível verificar o efeito das medidas de acalmia de tráfego:
+ Redução da
+Velocidade
+Redução do
+Volume
+Redução dos
+Conflitos
+Tempo de Resposta
+dos Serviços de
+Emergência
+Alterações nos
+alinhamentos horizontais
+
+Estrangulamentos II I II I
+Gincanas II II I II
+Rotundas II II III III
+Alterações nos
+alinhamentos verticais
+
+Pré-avisos II I I I
+Lombas III II II III
+Plataformas elevadas III II II III
+Legenda: I (mínimo ou nenhum); II (moderado); III (significativo)
+
+Figura 4: Efeito das medidas de acalmia de tráfego
+Fonte: Adaptação do Manual do Planeamento de Acessibilidades e Transportes – Acalmia de Tráfego
+ (CCDRN, 2008a, p. 23)
+
+Destacam-se as rotundas e as lombas como sendo as medidas de acalmia de tráfego que
+produzem efeitos mais significativos.
+Existem ainda outro tipo de medidas que acompanham as medidas de acalmia de tráfego, de que
+são exemplos os semáforos de controlo de velocidade e a implementação de zonas 30.
+
+As zonas 30, geralmente localizadas em áreas específicas onde se denota a necessidade de
+acalmia de tráfego, são áreas normalmente pertencentes a zonas de grande densidade
+habitacional ou na proximidade de escolas, “de circulação homogénea, com velocidade máxima
+limitada a 30 km/h, onde as entradas e saídas são indicadas por sinalização horizontal e vertical e
+são objeto de ordenamento específico, e nas quais existe uma intervenção integrada de medidas
+de acalmia de tráfego com o objetivo de se humanizar o espaço público, promovendo a coabitação
+de todos os utilizadores da via” (mpt, 2017, p. 251).
+
+CAPÍTULO III
+APRESENTAÇÃO DO CASO DE ESTUDO
+CIDADE DE GUIMARÃES
+
+3. APRESENTAÇÃO DO CASO DE ESTUDO: O CENTRO URBANO DE GUIMARÃES
+3.1 Caraterização territorial
+Geograficamente, o Concelho de Guimarães está localizado a Norte (NUT II), no Distrito de Braga,
+pertencente à sub-região de Ave (NUT III) (CMG, 2015a).
+Figura 5: Enquadramento geográfico do concelho de Guimarães
+Fonte: site CMG8
+
+O município de Guimarães tem uma área total de cerca de 24 mil hectares, distribuídos por 48
+freguesias9, com cerca de 160 mil habitantes (CMG, 2015a).
+“A evolução do aglomerado urbano teve origem no tecido urbano medieval do Centro Histórico
+que começou a desenvolver-se em torno do Convento e do Castelo da cidade, numa configuração
+intramuros. Com o tempo, a urbanização desenvolveu-se além da muralha defensiva, resultando
+no alargamento da cidade, de forma radial e concentrada.
+A ampliação da cidade e das suas estruturas foi efetuada em direção às várias ligações externas,
+estruturando novas áreas de expansão com implementação de novas avenidas e arruamentos
+com tipologia de perfil mais adequado e confortável, novas áreas habitacionais com serviços e
+equipamentos públicos, espaços culturais e comerciais” (mpt, 2016, p. 473).
+A cidade afirma-se como uma das denominadas cidades médias do país que vem assumindo
+protagonismo na atratividade e competitividade das cidades portuguesas, quer pela valorização
+das suas singularidades, como é exemplo o seu centro histórico e a atracão e dotação do espaço
+urbano de equipamentos e serviços relevantes, nomeadamente o hospital, a universidade, o
+centro cultural, entre outros (CMG, 2015a).
+“A atual configuração territorial do aglomerado urbano revela ser dispersa e policêntrica” (mpt,
+2016, p. 473), o que sustenta a importância do desafio da descarbonização da mobilidade em
+
+8 Fonte: https://www.cm-guimaraes.pt/pages/477
+9 Fonte: https://www.cm-guimaraes.pt/pages/844
+
+Guimarães, visto que um território urbano disperso é fortemente dependente do transporte
+individual.
+O clima desta região é caraterizado por invernos frios e chuvosos e verões quentes e ligeiramente
+húmidos, com amplitudes térmicas (diferença entre a temperatura máxima e a temperatura
+mínima) anuais relativamente altas, devido essencialmente à sua disposição geográfica, rodeada
+por serras e encaixada num vale (CMG, 2015a).
+3.1.1 Centro urbano de Guimarães
+Neste trabalho é estudado fundamentalmente o centro urbano de Guimarães.
+Entende-se por centro urbano a região mais ativa da cidade, onde se concentra a atividade
+comercial e financeira. É um espaço caraterizado por um grande dinamismo, onde é evidenciada a
+justaposição da densidade e da variedade. Representa-se por um lugar que se enche durante o
+dia, onde as ruas mostram grande movimento (quer de peões, quer de viaturas) e onde existe
+grande intensidade de usos do solo (Barreto, 2010).
+Consequentemente, considerou-se como centro urbano da cidade de Guimarães a área circular
+delimitada pelas principais vias estruturantes: a via circular urbana, as vias de acesso regional, e a
+ecovia (que se encontra em fase final de construção).
+
+Figura 6: Mapa da delimitação da área de estudo (centro urbano de Guimarães)
+Fonte: Elaboração própria (autoCAD)
+
+Legenda
+ Via circular urbana
+ Vias primárias de acesso regional
+ Ecovia (primeira fase)
+ Linha de caminho de ferro
+1:30 000
+N
+
+Compreendido no centro urbano definido, está o centro histórico da cidade de Guimarães.
+Importa referi-lo, porque a cidade de Guimarães é regularmente associada ao seu centro
+histórico.
+
+Figura 7: Mapa de localização do centro histórico
+Fonte: Elaboração própria (autoCAD)
+
+O centro histórico de Guimarães, classificado como Património Mundial pela United Nations
+Educational, Scientific and Cultural Organization (UNESCO), Organização das Nações Unidas para a
+Educação, a Ciência e a Cultura, é um exemplo muito bem preservado e autêntico da evolução de
+um assentamento medieval numa cidade moderna. Cidade onde foi estabelecida a identidade
+nacional portuguesa.10
+
+10 Fonte: http://whc.unesco.org/en/list/1031
+Legenda
+ Centro Histórico
+1:30 000
+N
+
+3.1.2 Caraterização do existente
+Em Guimarães, o modo de deslocação preferencial é o veículo automóvel privado, com uma
+percentagem de utilização superior a 60%, por parte dos residentes do município (trabalhadores e
+estudantes). O segundo modo de deslocação mais utilizado é o pedonal a assumir cerca de 18%
+do total das viagens realizadas, equiparada à percentagem de utilização do transporte coletivo
+rodoviário. O transporte coletivo ferroviário e a bicicleta são os modos menos utilizados, não
+perfazendo sequer 1% das deslocações efetuadas no município de Guimarães, sendo a utilização
+da bicicleta praticamente nula.
+Figura 8: Gráfico da repartição modal das deslocações efetuadas no município de Guimarães (%)
+Fonte: Elaboração Própria (dados INE, Censos 2011)11
+
+Comparando a repartição modal das deslocações efetuadas no município de Guimarães com as
+efetuadas em Portugal, constata-se que estão equiparadas.
+Figura 9: Gráfico comparativo da repartição modal das deslocações efetuadas em Guimarães e em Portugal (%)
+ Fonte: Elaboração Própria (dados INE Censos, 2011) 10
+
+11“Meio de transporte mais utilizado nos movimentos pendulares (N.º) por Local de residência (à data dos Censos 2011) e Principal
+meio de transporte; Decenal”, disponível em:
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0007093&contexto=bd&selTab=tab2
+
+3.1.2.1 Veículo automóvel (estudo viário)
+Existe um peso considerável nas viagens realizadas em transporte individual motorizado no
+Município de Guimarães, traduzindo-se numa forte dependência do município em relação ao
+automóvel privado, provocando congestionamento.
+De modo a atenuar esta tendência, o município criou a primeira plataforma municipal de partilha
+de carro em Portugal, denominada por Guimarães à Boleia, de utilização gratuita e que pretende
+ajudar vimaranenses e visitantes que pretendam deslocar-se dentro do centro urbano e no
+concelho.
+Figura 10: Interface do sítio na Internet “Guimarães à Boleia”
+Fonte: site www.guimaraes.boleia.net
+
+Esta plataforma tem como base o conceito de carpooling, destinado “à partilha de carro e custos
+de deslocação em viagens de trabalho ou de lazer”.
+A plataforma tem como objetivo proporcionar aos seus utilizadores “uma significativa poupança
+nos custos de mobilidade, ao mesmo tempo contribuindo para um ambiente melhor” na medida
+em que existam “menos carros a circular nas estradas e consequentemente um número menor de
+emissões de CO2 para a atmosfera”, proporcionando ainda a convivialidade e a eventualidade de
+conhecimento de novas pessoas.12
+
+12 Fonte: http://www.cm-guimaraes.pt/frontoffice/pages/991?news_id=3181
+
+a) Geradores de tráfego
+Em Guimarães, os principais geradores de tráfego acarretam todo o tipo de categorias de
+equipamentos de administração pública, saúde, educação, desporto, turismo e comércio (CMG,
+2015a, pp. 31–2).
+
+Figura 11: Mapa de localização dos equipamentos geradores de tráfego
+Fonte: Elaboração própria (autoCAD)
+
+Estes equipamentos são geradores de tráfego no centro urbano.
+
+Legenda
+ Equipamentos
+1:30 000
+N
+
+b) Estacionamento
+No centro de Guimarães existem cerca de 9700 lugares de estacionamento, sendo que destes
+45% são em parque e 55% são na via púbica (incluindo os lugares reservados) (mpt, 2016).
+Importa referir que existe um parque de estacionamento atualmente em construção, o Parque de
+Camões. Este parque de estacionamento vai acrescentar à oferta já existente mais cerca de 450
+lugares de estacionamento (mpt, 2016, p. 338).
+São diversos os parques de estacionamento existentes e diferenciam-se por serem gratuitos ou
+tarifados.
+
+Figura 12: Mapa de localização dos parques de estacionamento
+Fonte: Elaboração própria (autoCAD)
+
+“A exagerada utilização do automóvel individual nas deslocações diárias, tem contribuído, em
+Guimarães, para uma imagem caótica e desordenada em alguns pontos da cidade no que diz
+respeito ao estacionamento, existindo elevada pressão em determinadas zonas da cidade e
+alguma anarquia na utilização do espaço pelos automobilistas.” (mpt, 2016, p. 3)
+Em contraponto, é exposto que a taxa de ocupação dos parques de estacionamento é
+“indesejavelmente baixa”, existindo uma taxa de estacionamento ilegal que chega a atingir os
+30% (CMG, 2015b, p. 26).
+
+1:30 000
+N
+Legenda
+ Parques de estacionamento
+gratuito
+ Parques de estacionamento
+tarifado
+P
+
+P
+
+3.1.2.2 Mobilidade suave
+“Os obstáculos comuns à mobilidade são a distância, a rede hidrográfica, o relevo e as condições
+meteorológicas, elementos que constituem normalmente o que se considera como o atrito natural
+do espaço” (Costa, 2007, p. 24).
+A cidade de Guimarães carateriza-se, relativamente ao seu relevo, por assumir
+predominantemente valores acima dos 7% de inclinação.
+
+Figura 13: Gráfico da distribuição de áreas por classe de declive da cidade de Guimarães (%)
+Fonte: Elaboração própria (dados PDM) (CMG, 2015a, p. 105)
+
+Considerando os seguintes referencias das classes de declive utilizadas para a elaboração dos
+locais de aptidão pedonal e ciclável:
+
+Figura 14: Classes de declive para classificação dos locais de aptidão pedonal
+Fonte: PMUS (mpt, 2016, p. 234)
+
+Figura 15: Classes de declive para classificação dos locais de aptidão ciclável
+Fonte: PMUS (mpt, 2018, p. 95)
+
+Constata-se que o declive da região é acentuado, pelo que pode dificultar a prática de modos de
+deslocação suaves.
+a) Pedonal
+Apesar de a cidade de Guimarães caraterizar-se sobretudo pela sua inclinação acentuada, isto não
+impede o modo pedonal de assumir um peso significativo, assumindo o segundo modo de
+deslocação mais utilizado no concelho.
+b) Ciclável
+Em Guimarães, a utilização da bicicleta, é praticamente nula, pelo que aparenta não constituir
+uma opção válida para os movimentos pendulares da população, não estando presente na génese
+de cultura, tornando-se tão importante a promoção deste modo de deslocação no concelho.
+Pressupõe-se que o declive da região, não sendo impedimento para a prática do modo pedonal,
+as dificuldades cicláveis poderão também ser supridas. O uso de bicicletas elétricas também pode
+ajudar nesse sentido.
+As diferentes vias cicláveis identificadas no concelho de Guimarães têm uma extensão total de
+12,279km (mpt, 2016), subdividida por quatro percursos distintos, nenhum destes pertencentes à
+delimitação de centro urbano utilizada.
+
+Nota-se uma preocupação por parte do município relativamente ao modo ciclável, visto existir um
+plano de promoção do uso da bicicleta. Este plano inclui a construção de percursos cicláveis,
+designadamente uma ecovia. Atualmente está em fase final de construção a primeira fase da
+ecovia, estando previstas mais fases subsequentes a esta. Esta primeira fase (com uma extensão
+total de cerca 16,5km) interliga dois dos percursos cicláveis já existentes: a Veiga de Creixomil à
+Pista de Cicloturismo de ligação à cidade de Fafe.
+
+Figura 16: Mapa de localização da 1ª fase da ecovia (em fase final de construção)
+Fonte: Elaboração própria (autoCAD)
+
+A par disto a CMG associou-se com a Universidade do Minho (UM) ao Projeto U-Bike Portugal.
+Este projeto visa a promoção da mobilidade suave, em particular da bicicleta, nas comunidades
+académicas. As bicicletas alugáveis são atribuídas para uma utilização de longa duração (durante
+um semestre ou um ano letivo), com a finalidade de originar a criação de hábitos de utilização
+regular deste meio de transporte.
+No entanto, este projeto, com arranque previsto aquando ao início do ano letivo 2017-2018, foi
+abandonado pela UM.
+
+Legenda
+ Ecovia (primeira fase)
+ Pista Cicloturismo Guimarães-Fafe
+ Caminho paralelo à variante
+
+1:30 000
+N
+
+3.1.2.3 Mobilidade elétrica
+Atualmente, e segundo a plataforma online da Rede Nacional de Mobilidade Elétrica, a plataforma
+MOBI.E, existem 10 postos de carregamento elétrico em Guimarães13.
+Dos 10 postos de carregamento elétrico, 9 localizam-se no centro urbano, sendo que destes 8 são
+de carregamento normal (podendo demorar entre 6 e 8 horas a carregar), e 1 é de carregamento
+rápido (podendo demorar entre 20 a 30 minutos a carregar).
+Tal como dito anteriormente, estes postos são facilmente acedíveis através do cartão MOBI.E,
+sendo a carga e o estacionamento gratuitos.
+O outro posto de carregamento elétrico existente, da empresa ELERGONE, localiza-se na periferia
+imediata ao centro urbano, nomeadamente numa cadeia de restauração (McDonald’s).
+
+Figura 17: Mapa de localização dos postos de carregamento elétrico
+Fonte: Elaboração própria (autoCAD)
+
+13 Fonte: https://www.mobie.pt/map
+Legenda
+ Mobi.E
+ Carregamento normal
+ Carregamento rápido
+ Elergone
+ Carregamento desconhecido
+1:30 000
+N
+
+As condições dos postos de carregamento elétrico foram verificadas:
+
+Tabela 2: Condições dos postos de carregamento elétrico
+Fonte: Dados recolhidos no site electromaps14
+Empresa Localização Carregamento Origem Energética Estado
+MOBI.E 1 Alameda Doutor Alfredo Pimenta Rápido desconhecida funciona
+MOBI.E 2 Alameda Doutor Alfredo Pimenta Normal não-renovável não funciona
+MOBI.E 3 Rua Vale de Donas Normal não-renovável funciona
+MOBI.E 4 Rua Condestável Nuno Álvares Normal não-renovável não funciona
+MOBI.E 5 Alameda da Universidade Normal desconhecida não funciona
+MOBI.E 6 Largo António Leite de Carvalho Normal não-renovável funciona
+MOBI.E 7 Avenida Dom Afonso Henriques Normal não-renovável não funciona
+MOBI.E 8 Estação Ferroviária Normal não-renovável não funciona
+MOBI.E 9 Alameda Mariano Felgueiras Normal não-renovável não funciona
+ELERGONE 10 Lugar Rodovia de Covas Desconhecido renovável não funciona
+
+Após verificação das condições dos postos de carregamento elétrico, constata-se que, dos postos
+de carregamento elétrico existentes no centro urbano, apenas 3 destes estão a funcionar em
+pleno.
+
+14 Fonte: https://www.electromaps.com/puntos-de-recarga/mapa?qsearch=guimar%C3%A3es
+
+3.1.2.4 Transporte público coletivo (rodoviário)
+A cidade de Guimarães é servida por uma vasta rede de transportes públicos.
+Este serviço tem como valor de bilhete único 1,78€ (preço de 2018)15.
+Das linhas que compõem a rede de transportes públicos, apenas uma linha é “verdadeiramente
+urbana”, a linha-cidade, circulando apenas no centro urbano da cidade. Todas as outras linhas
+estendem-se para zonas mais periféricas.
+A linha-cidade dos Transurbanos de Guimarães (TUG), com uma extensão de cerca de 8 km, serve
+a maioria dos geradores de tráfego, tendo uma paragem na estação de caminhos de ferro
+(localizada num ponto de delimitação do centro urbano).
+
+Figura 18: Mapa do itinerário da linha-cidade de transporte público rodoviário
+Fonte: Elaboração própria (autoCAD)
+
+15 Fonte: tug.com.pt/títulos-de-transporte/
+Legenda
+ Linha-Cidade TUG
+1:30 000
+N
+
+Este circuito é, desde 31 de março de 2018, realizado por um autocarro 100% elétrico com
+autonomia para 150 km. O veículo de 12 metros de comprimento dispõe de 35 lugares sentados,
+piso rebaixado para pessoas com mobilidade reduzida e ar condicionado16.
+
+Figura 19: Autocarro 100% elétrico a operar na linha-cidade
+Fonte: Fotos de autoria própria
+
+3.1.2.5 Síntese
+Guimarães é uma cidade fragmentada, dispersa e sem limites claros.
+Apesar de a CMG, de modo a atenuar os limites incertos existentes, expressar a necessidade de
+criar centralidades vincadas e significativas em cada freguesia e uni-las ao centro urbano,
+inevitavelmente, esta realidade estimula a extensão das deslocações quotidianas, que assumem,
+segundo dados do Censos 2011 do Instituto Nacional de Estatística (INE) uma duração média de
+cerca de 15 minutos (inferior à média nacional de cerca de 20min)17.
+Esta fragmentação da cidade incita a utilização do transporte individual. Consequentemente, a
+cidade de Guimarães é excessivamente motorizada, com mais de 60% da população a priorizar o
+automóvel privado, veículo que se tornou sinónimo de uma posição social. O número elevado de
+veículos automóveis em permanente circulação aufere um problema grave de congestionamento,
+findando na dificuldade de estacionar, provocando o estacionamento ilegal devido à baixa
+rotação de estacionamento quer em locais gratuitos, quer em alguns locais pagos. No sentido da
+diminuição da circulação destes veículos, foi criada a plataforma “Guimarães à Boleia”.
+Nota-se que a CMG está empenhada na promoção das mobilidades suaves e elétrica e do
+transporte público de passageiros.
+Apesar de no imediato a utilização quotidiana da bicicleta não se verificar, não havendo o
+enraizamento desta prática em Guimarães, existe potencial para que esta se torne um modo de
+deslocação válido. Existe a aposta em infraestruturas cicláveis, nomeadamente com a construção
+
+16 Fonte: http://revistaveiculoseletricos.pt/2018/03/30/guimaraes-apresentou-autocarro-passageiros-100-eletrico/
+17 Fonte: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0007092&contexto=bd&selTab=tab2
+
+da primeira fase da ecovia. Em contraponto, a pedonalização é fortemente um modo de
+deslocação usado, dominando o segundo modo de deslocação, provando que a cidade é aprazível
+de percorrer.
+No que respeita à mobilidade elétrica, nota-se que o centro urbano está devidamente equipado
+de postos de carregamento elétrico, apesar de estes requererem manutenção. É ainda de louvar a
+implementação do autocarro elétrico no itinerário urbano.
+Relativamente aos transportes coletivos rodoviários, conclui-se principalmente que praticam
+preços elevados (ultrapassando, por exemplo, o dobro do custo relativamente ao uso do
+transporte individual). A par das tarifas elevadas, a informação nas paragens quer dos itinerários
+existentes, quer dos horários, bem como a interligação dos mesmos é escassa.
+Em geral, a instituição está atenta às tendências e necessidades no que à mobilidade respeita,
+mas apresenta muitas insuficiências e não interliga todas as vertentes existentes.
+O espaço público da cidade de Guimarães tem vindo a ser modificado, nomeadamente com uma
+redução de estacionamento de veículos automóveis em diversos largos, de que é exemplo o Largo
+do Toural.
+
+Figura 20: Antes e depois da reconfiguração do Largo do Toural
+Fonte: Blogue do Minho18 | Foto de autoria própria
+
+No entanto, é necessário um trabalho eficaz de continuidade na reconversão do espaço público.
+
+18 Fonte: https://bloguedominho.blogs.sapo.pt/101464.html
+
+3.2 Caraterização Institucional da Entidade de Acolhimento: Câmara
+Municipal de Guimarães (CMG)
+3.2.1 Composição
+De acordo com a Constituição da República Portuguesa (TÍTULO VIII relativo ao Poder Local) o
+poder local é distribuído por diferentes entidades, são elas as freguesias, os municípios e as
+regiões administrativas (artigo 236º do capítulo I relativo aos princípios gerais). No que toca aos
+municípios, estes são representados por dois órgãos distintos: Assembleia Municipal, como órgão
+deliberativo, e a Câmara Municipal, como órgão executivo (artigos 250º e 251º do capítulo III
+relativo ao município) (Edições Almedina, 2014).
+O Município de Guimarães é constituído pela Assembleia Municipal e pela Câmara Municipal. O
+executivo municipal, para o quadriénio 2017-2021, é constituído por 1 presidente e por 10
+vereadores (5 destes com competências delegadas) nomeadamente:
+ Presidente Dr. Domingos Bragança Salgado responsável pelas áreas de Obras Municipais,
+Estudos e Projetos de Obras Municipais, Administração Geral e Proteção Civil.
+Vereadores com competências delegadas:
+ Vice-Presidente Dr.ª Adelina Paula Mendes Pinto responsável pelas áreas de Educação,
+Biblioteca e Arquivos, Cultura, Juventude, Relações Públicas e Relações Internacionais;
+ Dr. Ricardo Jorge Castro Ribeiro da Costa responsável pelas áreas de Finanças,
+Património, Desenvolvimento Económico, Modernização Administrativa e Qualidade,
+Sistemas de Informação, Fiscalização, Contraordenações, Polícia Municipal e Desporto;
+ Dr.ª Paula Cristina dos Santos Oliveira responsável pelas áreas de Ação Social e Espaço
+Municipal para a Igualdade;
+ Arq. Fernando José Barros Pacheco Seara de Sá responsável pelas áreas de Urbanismo,
+Centro Histórico e Vistorias Administrativas;
+ Dr.ª Alice Sofia Freitas Soares Ferreira Fernandes responsável pelas áreas de Ambiente,
+Serviços Urbanos, Turismo e Recursos Humanos.
+Vereadores sem competências delegadas:
+ Dr. André Guimarães Coelho Lima;
+ Dr. António Monteiro de Castro;
+ Dr.ª Maria Helena Teixeira de Bragança Borges Soeiro;
+ Dr. Bruno Alberto Vieira Fernandes;
+ Dr. Ricardo José Machado Pereira da Silva Araújo.
+
+3.2.2 Estrutura
+Em outubro de 2017 foram realizadas eleições autárquicas, onde, na CMG permaneceu o Sr. Dr.
+Domingos Bragança Salgado no cargo de presidente.
+Apesar de se manter o mesmo presidente, a estrutura orgânica municipal de Guimarães sofreu
+algumas alterações de modo a ajustar-se aos objetivos estratégicos do município,
+designadamente com a pretensão de se tornar numa estrutura inserida numa perspetiva de
+adaptação a novas dimensões ao nível da mobilidade urbana e de melhoria dos serviços prestados
+ao cidadão, da inovação e do sistema de controlo interno.
+3.2.2.1 Organograma até 2018
+Figura 21: Organograma até 2018
+Fonte: Diário da República, 2.ª série, n.º 253 de 31 de dezembro de 2013 (com deliberações de dezembro de 2014 e de
+fevereiro de 2016) (Município de Guimarães, 2013)
+
+3.2.2.2 Organograma a partir de 2018
+
+Figura 22: Organograma a partir de 2018
+Fonte: Diário da República, 2.ª série, n.º 248 de 28 de dezembro de 2017 (Município de Guimarães, 2017)
+
+Observando ambos os organogramas (figuras 21 e 22), antes e depois da aprovação da
+modificação estrutural, denotam-se mudanças, com o acréscimo de duas divisões e de uma
+unidade de terceiro grau.
+Das alterações ocorridas, é genericamente notório:
+ o “reposicionamento da Divisão do Centro Histórico (DCH) no âmbito do Departamento de
+Urbanismo (DU) e à autonomização da Divisão de Desenvolvimento Económico (DDE)”;
+
+ a distinção entre as áreas da Cultura e do Turismo que passam a constituir duas divisões
+(DC e DT);
+ o foco numa unidade orgânica distinta de atendimento ao cidadão, a Divisão de
+Atendimento e Apoio ao Munícipe (DAAM);
+ a criação de uma nova divisão municipal, a Divisão de Desenvolvimento de Sistemas
+Inteligentes (DDSI);
+ e a criação do Gabinete de Mobilidade (GM).
+Após falar com o Chefe da DDSI, Dr. Ricardo Machado, foi possível apurar que, a divisão está
+focada nos cidadãos, e considera a descarbonização da mobilidade de elevada importância,
+estando já envolvida em projetos que pretendem reduzir o consumo de combustíveis fosseis.
+Porém, a mudança que mais se destaca é, inevitavelmente, a criação do GM “com funções
+específicas no âmbito do planeamento e da mobilidade urbanos”, onde é manifestada a
+ascendente importância relativa a esta temática, dando resposta ao objetivo estratégico de
+adaptação a novas dimensões a este nível da mobilidade, conferindo a esta unidade orgânica
+funções específicas no âmbito do planeamento e da mobilidade.
+As competências do GM encontram-se publicadas em Diário da República, das quais se destacam
+incitar “a acessibilidade e mobilidade para todos no concelho”; “elaborar ou promover estudos
+sobre planeamento e mobilidade, ordenamento global de circulação e transporte público de
+passageiros”; “analisar a adequação dos serviços de transporte público prestado à população,
+promovendo os necessários estudos e concessões com outros operadores nessas áreas”;
+“assegurar o controlo do serviço público concessionado de exploração do transporte coletivo
+urbano de passageiros”; “promover a mobilidade por meios de transporte alternativos, não
+poluentes localmente, designadamente nos modos suaves e na mobilidade elétrica”; “desenvolver
+ações no âmbito do fomento da mobilidade ciclável”; e “implementação e ou controlo de modelos
+de partilha de veículos em espaço público”.19 Este gabinete encontra-se na dependência da
+Divisão de Trânsito e Espaço Público (DTEP), pertencente ao Departamento de Serviços Urbanos e
+Ambiente (DSUA).
+O reperfilamento de estrutura orgânica, especificamente a criação do GM, vem beneficiar o tema
+em estudo, “a Descarbonização da Mobilidade”, tema que se encontrava sem expressão. No
+entanto, durante a experiência de estágio, foi possível verificar que as divisões de DPGU
+(detentora do GM) e de DTEP poderiam ter um maior vínculo e interligação. Por diversas vezes,
+sente-se que os processos de decisão se arrastam durante muito tempo, devido ao “vai-e-vem”
+de pareceres escritos, quando numa conversa presencial se resolveria mais assertivamente.
+
+19 (Município de Guimarães, 2017) – DRE - artigo 38.º
+
+CAPÍTULO IV
+RELATÓRIO DAS ATIVIDADES DESENVOLVIDAS
+
+4. RELATÓRIO DAS ATIVIDADES DESENVOLVIDAS (NO ESTÁGIO)
+4.1 Relatório das principais atividades face ao tema
+4.1.1 Análise de planos, estudos, propostas e projetos relacionados ao tema da
+descarbonização da mobilidade
+Dos planos, estudos, propostas e projetos analisados, fundamentalmente para a formulação de
+propostas no estudo desenvolvido no estágio curricular, foram selecionados 2 casos específicos
+completamente distintos, de modo a conferir maior profundidade analítica, apresentados de
+seguida, nomeadamente a candidatura a Capital Verde Europeia 2020 e o Parque de
+estacionamento Camões.
+A escolha destes deve-se fundamentalmente ao facto de serem tão contraditórios quanto
+complementares, do que à descarbonização da mobilidade diz respeito, especificamente em
+Guimarães.
+
+4.1.1.1 Candidatura a Capital Verde Europeia 2020
+As áreas urbanas são a fonte de muitos dos desafios ambientais da atualidade, não
+surpreendentemente, uma vez que dois em cada três europeus vivem em cidades. Os governos e
+as autoridades locais podem fornecer o compromisso e a inovação necessários para enfrentar e
+resolver muitos desses problemas. Uma das ferramentas políticas que a Comissão Europeia está a
+usar para enfrentar esses desafios é a designação de Capital Verde Europeia (CVE), originalmente
+designada por European Green Capital Award (EGCA), que reconhece e recompensa os esforços
+locais para melhorar o meio ambiente, a economia e a qualidade de vida nas cidades.
+Este prémio é dado anualmente a uma cidade que esteja a liderar o caminho para uma vida
+urbana ambientalmente amigável e que, portanto, pode atuar como modelo para inspirar outras
+cidades. As cidades diferem enormemente e o compartilhamento de exemplos concretos do que
+uma CVE pode ser parecida é essencial para a realização de novos progressos. 20
+O título foi criado para reconhecer e atribuir mérito às cidades que apresentem um registo
+consistente de procura dos mais elevados padrões ambientais, encorajar as cidades a
+comprometerem-se com metas ambientais ambiciosas e divulgar modelos e práticas que sirvam
+como referência para outras cidades.21
+O estatuto de CVE traz inúmeros benefícios que perduram muito além do ano de detenção do
+título, nomeadamente:
+ aumento do turismo;
+ cobertura mediática internacional positiva no valor de milhões de euros;
+ aumento da projeção internacional, do trabalho em rede e do estabelecimento de novas
+alianças;
+ novos empregos visto que uma Capital Verde se torna mais atrativa para investidores
+estrangeiros;
+
+20 Fonte: http://ec.europa.eu/environment/europeangreencapital/about-the-award/policy-guidance/
+21 Fonte: http://ec.europa.eu/environment/europeangreencapital/applying-for-the-award/2020-compeition/
+
+ maior ênfase em projetos ambientais através de patrocínios e subvenções;
+ orgulho entre os cidadãos;
+ impulso para continuar a melhorar a sustentabilidade ambiental;
+ e pertencer à Rede Europeia Capital Verde.22
+
+O processo de candidatura foca, essencialmente, 12 áreas ambientais, designadamente:
+ transporte local;
+ áreas urbanas verdes incorporando uso sustentável do solo;
+ natureza e biodiversidade;
+ qualidade do ar ambiente;
+ qualidade do ambiente acústico;
+ desempenho energético;
+ gestão ambiental integrada;
+ alterações climáticas (mitigação e adaptação);
+ produção e gestão de resíduos sólidos;
+ gestão da água;
+ tratamento de águas residuais;
+ eco inovação e emprego sustentável. 23
+
+O Município de Guimarães acumulou ao longo das duas últimas décadas um enorme capital de
+prestígio, credibilidade e notoriedade, tornando-se num concelho pioneiro em vários domínios.
+Guimarães recebeu nos últimos anos iniciativas como a Capital Europeia da Cultura em 2012 e a
+Cidade Europeia do Desporto em 2013 que, para além do elevado impacto internacional, foram
+eventos que ajudaram a instalar dinâmicas no quotidiano do vimaranense.
+Esta estratégia segue para objetivos orientados para o ambiente e a sustentabilidade.
+Um novo paradigma de cidade, eficiente e com qualidade de vida, assente no cruzamento entre a
+história, a indústria, a criatividade e o conhecimento. Pretende-se desenvolver a dimensão
+ambiental, essencial para o modelo de desenvolvimento que tem sido até agora exemplar. “Tal
+como a estratégia europeia, expressa no documento Europa 2020 e vertida para o Portugal 2020,
+também a estratégia de Guimarães sente a necessidade de conjugar os desígnios até agora
+assumidos com as preocupações da sustentabilidade: crescimento inteligente, inclusivo e
+sustentável são mais do que chavões, são na realidade um triângulo que, se bem equilibrado,
+pode constituir-se como a chave do sucesso”. 24
+
+22 Fonte: http://www.cm-guimaraes.pt/pages/1093
+23 http://www.cm-guimaraes.pt/pages/1093
+24 Fonte: http://www.cm-guimaraes.pt/pages/1093
+
+No entanto, esta ambição municipal de Guimarães de se afirmar, no curto prazo, como CVE é
+pouco compaginável com a sua realidade marcadamente motorizada.
+Não obstante, o facto de se passar pelo processo de candidatura pode ser de grande benefício
+para as cidades, pois adquirem pareceres especializados sobre como melhorar a abordagem em
+cada uma das áreas ambientais que o processo de candidatura foca. 25
+Em 2013, a cidade de Guimarães assumiu como objetivo estratégico candidatar-se a esta
+nomeação. Após meses de trabalho, a respetiva estrutura de missão concluiu os trabalhos da
+candidatura em setembro de 2017.
+Foram 28 as cidades de 21 países de toda a Europa que entraram na competição, sendo o mais
+elevado número de candidatos da história da iniciativa.
+Guimarães, após ficar entre as 13 melhores cidades numa primeira avaliação, não foi selecionada
+para a última lista mais restrita de 3 candidatos, conhecida a 18 abril de 2018.
+Ainda assim, a cidade de Guimarães foi a quinta cidade que reuniu melhor avaliação por parte da
+Comissão Europeia, ficando desta forma perto de integrar a lista de finalistas.
+A candidatura de Guimarães adaptou as 12 áreas ambientais nos seguintes indicadores:
+ mobilidade urbana sustentável;
+ uso sustentável do solo;
+ natureza e biodiversidade;
+ crescimento verde e eco inovação;
+ qualidade do ar;
+ ruído;
+ desempenho energético;
+ alterações climáticas: adaptação;
+ alterações climáticas: mitigação;
+ qualidade da água;
+ governança.
+
+No relatório de avaliação técnica da Comissão Europeia, realizado pelo painel de especialistas,
+genericamente é apontado que Guimarães é uma das poucas cidades a apresentar um foco que
+coloca o cidadão no centro do município, e louvando, no que à descarbonização diz respeito, a
+redução de duas toneladas de CO2 por habitante de 2008 a 2017.
+O relatório da Comissão Europeia demonstra que Guimarães valoriza a natureza e biodiversidade,
+tem um bom desempenho energético, fez uma boa adaptação às alterações climáticas e possui
+uma boa governança (no sentido de compromisso político). Nestes quatro pontos, a Comissão
+Europeia colocou Guimarães em 2.º lugar, entre os 13 candidatos. No entanto, o 11.º lugar nas
+categorias do uso sustentável do solo e da qualidade da água prejudicaram a posição final.
+
+25 Fonte: http://ec.europa.eu/environment/europeangreencapital/applying-for-the-award/2020-compeition/
+
+Quanto ao indicador natureza e biodiversidade, foi considerado que Guimarães tem “uma boa
+variedade de planos e estratégias que identificam e procuram proteger as paisagens, a
+biodiversidade e as paisagens verdes”, elogiando as suas iniciativas.
+No indicador de desempenho energético de Guimarães, é visto com agrado o facto de Guimarães
+fornecer informação detalhada sobre o passado e o presente nesta categoria, e destaca a redução
+de 12% do consumo total de energia entre 2008 e 2017, sendo considerado como um sucesso
+significativo. Até 2030, Guimarães pretende reduzir o consumo de energia em 39% e as emissões
+em 42%. Até 2050, o município pretende reduzir 100% de suas emissões.
+No que respeita à adaptação às alterações climáticas, a Comissão Europeia afirma que Guimarães
+fez um trabalho impressionante em muito pouco tempo. Por entre os elogios às medidas já
+implementadas, como o planeamento territorial, os recursos hidráulicos, as áreas verdes e a
+biodiversidade, a Comissão recomenda Guimarães a debruçar-se sobre áreas como o calor e a
+seca.
+A governança de Guimarães também foi um dos melhores entre os candidatos. O Plano de
+Sustentabilidade para 2030, embora não mostre claramente como é que vai ser executado, a
+parceria entre a Câmara Municipal e a Universidade do Minho merecem destaque por parte da
+Comissão Europeia.
+Em contrapartida, dos indicadores colocados nos últimos lugares, está o uso sustentável do solo
+visto que “a candidatura usa frases quase poéticas para demonstrar a situação de Guimarães e
+que, infelizmente, muita informação não é dada”, sendo que a Comissão Europeia considera que a
+candidatura se desviou dos temas principais nesta área e, apesar de existirem boas coisas a
+acontecer, a candidatura não as demonstra.
+A par deste último indicador, está também a qualidade da água, que foi outro dos tópicos que
+prejudicou a posição final de Guimarães. A Comissão considera que podem ser feitas melhorias na
+rede de águas residuais e lamenta que a informação fornecida tenha como foco a história,
+começando em 1853, em vez de uma descrição geral dos objetivos já cumpridos.
+
+Tabela 3: Posição da cidade de Guimarães para cada indicador individual
+
+Indicadores Individuais Posição (entre 1 e 13)
+natureza e biodiversidade/ desempenho energético / alterações
+climáticas: adaptação / governança
+ruído 3
+crescimento verde e eco inovação 5
+desperdício / qualidade do ar 6
+alterações climáticas: mitigação 7
+mobilidade urbana sustentável 8
+uso sustentável do solo / qualidade da água 11
+
+O balanço destas atribuições conferiu o quinto lugar, na competição, à cidade de Guimarães.
+
+4.1.1.2 Parque de estacionamento Camões
+A dia 15 de setembro de 2011, em reunião do Executivo Municipal, foi efetuada a abertura do
+procedimento para a construção do parque de estacionamento Camões.
+A construção deste parque de estacionamento é defendida por possuir um grande valor
+estratégico devido:
+ ao aumento da procura turística;
+ à elevada frequência de eventos culturais;
+ à recuperação da atividade económica.26
+Esta obra localiza-se nas proximidades do centro histórico, a 50 metros do Largo do Toural27, no
+centro da cidade de Guimarães. É uma obra complexa, visto localizar-se num quarteirão da zona
+edificada correspondente às ruas de Camões, da Caldeiroa e da Liberdade. Simultaneamente a
+isto, esta obra incide na zona de Couros, núcleo de antigas fábricas de curtumes, candidato a
+Património Mundial. Revela-se de particular complexidade o cuidado a ter com a proteção,
+conservação e valorização do lugar.
+
+Figura 23: Localização do parque de estacionamento Camões
+Fonte: Elaboração própria (autoCAD)
+
+Após ter gerado enorme controvérsia, sobretudo por ocupar um quarteirão verde com elevado
+valor patrimonial, devido aos pareceres favoráveis quer da Divisão do Centro Histórico, enquanto
+
+26 Fonte: https://www.cm-guimaraes.pt/frontoffice/pages/1147?news_id=3115
+27 Largo emblemático da cidade de Guimarães
+P
+Legenda
+ Centro Histórico
+ Zona proposta como
+Património Mundial
+ Parque de Camões P
+
+estrutura responsável pela recuperação, conservação e manutenção da autenticidade, identidade
+e cultura do património do Concelho de Guimarães, quer do International Council of Monuments
+and Sites (ICOMOS), Conselho Internacional de Monumentos e Sítios em português, a construção
+avançou.
+Está previsto que o custo de construção não exceda os 5.530.965,53€.
+O parque de estacionamento de Camões terá três pisos, cobertura ajardinada acessível, zona
+envolvente arborizada, ventilação e desenfumagem natural e albergará cerca de 450 lugares de
+estacionamento.28
+
+4.1.1.3 Síntese
+Da análise da candidatura a CVE 2020 e da construção do parque de estacionamento de camões,
+ressaltam as seguintes considerações:
+Considera-se pertinente o desejo de tornar Guimarães, cidade cinzenta pela elevada motorização,
+numa cidade mais verde, nomeadamente com a candidatura à CVE.
+No entanto, parece contraditória a aposta no parque de estacionamento de Camões, tendo em
+conta o facto de se desejar uma área central não motorizada e este estar exatamente “colado” ao
+centro histórico. Maior oferta de estacionamento, maior incentivo ao uso do veículo automóvel.
+Pelo facto de existirem nas imediações da localização do parque de estacionamento de Camões
+diversos outros parques de estacionamento cuja lotação raramente é máxima, estando ainda
+presente na memória descritiva do Plano Estratégico de Desenvolvimento Urbano (PEDU) a
+realidade de uma taxa de ocupação “indesejavelmente baixa” dos mesmos, faz questionar a
+pertinência da construção deste novo parque de estacionamento.
+A candidatura a CVE e a construção do parque de estacionamento de camões parecem chocar.
+O município investe mais de 5 milhões e meio para obter mais um parque de estacionamento,
+demolindo edifícios, destruindo e impermeabilizado terrenos com funções ecológicas. Ao passo
+que a construção do parque de estacionamento de Camões assenta numa área verde onde
+perduravam árvores centenárias, removidas para a obra.
+
+Figura 24: Antes e depois do local de construção do parque de estacionamento Camões
+Fonte: Blogspot Araduca29
+
+28 Fonte: https://www.publico.pt/2017/06/01/local/noticia/guimaraes-vai-ter-um-novo-parque-de-estacionamento-mas-a-decisaonao-e-consensual-1774071/amp
+29 Fonte: https://www.araduca.blogspot.pt/2017/12/guimaraes-mais-verde.html (consultado a 15 de janeiro de 2018)
+
+De entre as árvores centenárias, destacava-se a palmeira icónica da paisagem da cidade, visível
+desde o Largo do Toural, igualmente abatida.
+Figura 25: Vista para a palmeira a partir do Largo do Toural
+Fonte: Google Maps
+
+De um outro ponto de vista, pressupondo que este parque de estacionamento trará menos
+automóveis em permanente circulação na área mais central da cidade, designadamente na
+procura de lugar de estacionamento e que trará a benesse de possibilitar a retirada de um
+elevado número de lugares de estacionamento de rua, fundamentalmente na envolvente ao
+parque de estacionamento, isto desocupará o espaço público, diminuirá a emissão de poluição e
+consequentemente trará uma melhoria na qualidade de vida das pessoas.
+Conclui-se que a candidatura a CVE e o Parque de estacionamento Camões, dependendo do
+ponto de vista, têm tanto de contraditório quanto de complementar. Contraditório no sentido de
+quando maior a oferta de estacionamento, maior é o incentivo ao uso do transporte individual
+motorizado. Complementar no sentido em que uma quantidade considerável acrescida de lugares
+em parque de estacionamento proporciona a possibilidade da retirada de lugares de rua no
+centro histórico da cidade, bem como na sua envolvente.
+
+4.1.2 Auscultação de agentes face ao tema da descarbonização da mobilidade
+A auscultação de agentes chave é relevante no sentido da obtenção de informação privilegiada,
+derivada do conhecimento alcançado através da vivência e experiência adquirida.
+A auscultação de agentes, nomeadamente o Sr. Eng.º Rui Castro e o Dr. Daniel Pinto, com
+conhecimentos relativos ao tema em estudo, da descarbonização da mobilidade, permitiu
+recolher um conjunto de informações adicionais.
+4.1.2.1 Referente ao trânsito e espaço público
+Após chegar à fala com o Sr. Eng.º Rui Castro, chefe da divisão de trânsito e espaço público (DTEP)
+do departamento de Serviços Urbanos e Ambiente (DSUA) da CMG, foi possível apurar que, na
+sua opinião, o uso do automóvel é transmissor de estatuto social e sinónimo de conforto, e
+portanto a mudança de hábitos apenas se verifica possível através de imposição, visto que por
+indução não surtem efeitos, isto porque, ainda assim, as pessoas tendem a contornar as
+limitações impostas, nomeadamente relativas a zonas de acesso automóvel condicionado (ZAAC),
+por exemplo. Existindo a tentativa de se estacionar sempre “à porta”, acabando por resultar em
+sucessivo estacionamento ilegal. Os parques de estacionamento devem ter a função de
+rotatividade e não serem transformados em garagens, por isso os preços não podem ser
+convidativos para avenças nem igualitários em parques centrais e periféricos.
+Relativamente aos modos suaves, o uso da bicicleta não está enraizado como modo de
+deslocação pendular. A ecovia, em atual construção, será claramente um complemento,
+principalmente se houver uma situação de partilha de bicicletas. No entanto, essa partilha, a ser
+convencional acarreta custos não negligenciáveis. No que respeita à pedonalidade, essa sim,
+representa uma cultura desde sempre que perdura até aos dias de hoje, assumindo uma grande
+percentagem de utilização, já que a cidade é pequena e facilmente atravessável a pé em cerca de
+15min. Por isso, é preciso apostar incessantemente neste modo, a fim de ser continuamente
+majorado, com a finalidade de obter cada vez mais peso.
+Relativamente à mobilidade elétrica, infraestruturalmente existem postos de carregamento
+elétrico de abastecimento gratuito, já que a fase piloto ainda não cessou. Na ânsia de mais e
+melhores condições, a CMG instalou, por conta própria, um posto de carregamento elétrico
+rápido. Nota-se o êxito desta aposta, já que é possível observar utilizadores à espera para
+carregar neste posto rápido. Brevemente, dois dos postos de carregamento elétrico normal, já
+existentes, sofrerão uma atualização tecnológica de aumento de potência. Ainda a título de
+promoção desta mobilidade, uma das ações implementada (desde janeiro de 2017) isenta o
+veículo elétrico do pagamento de estacionamento (desde que tenha o dístico do IMT).
+Foi ainda possível apurar que, sendo desejável que o uso do transporte público rodoviário se
+torne um motivo de orgulho por parte de toda a população, a maior aposta da instituição recai
+sobre este modo de deslocação. Sendo a população residente envelhecida e tendo em conta que
+o idoso representa uma grande percentagem de utilização deste modo, este deve de ser ainda
+mais fomentado. Atualmente, os idosos podem usufruir de todos os circuitos do município,
+através de um passe mensal com o custo de aproximadamente 13€, custo ainda reduzido em 40%
+devido à comparticipação por parte do município, ficando assim por cerca de 7€ por idoso. Este
+passe pode ser utilizado a partir das 9h e não tem limitação de viagens.
+A substituição integral da frota de autocarros convencionais numa frota de autocarros elétricos,
+em termos ambientais, traria nitidamente benefícios, mas em termos económicos não. Acarreta
+muitos custos. Estava prevista a operação de um autocarro elétrico na linha-cidade (que já se
+encontra em funcionamento) tendo sido instalado um posto de carregamento elétrico na central
+de camionagem. Ainda relativo aos transportes, Guimarães aceitou o desafio de se tornar
+
+autoridade de transportes, ficando a seu encargo quer os transportes intramunicipais (sendo em
+2021 cedida a próxima licença de exploração), quer os transportes intermunicipais.
+4.1.2.2 Referente ao estacionamento
+Da conversa com o Dr. Daniel Pinto, administrador executivo da empresa municipal VITRUS de
+Guimarães, empresa responsável pela gestão de serviços de interesse geral, nomeadamente da
+“promoção, gestão e fiscalização do estacionamento público urbano, em particular nos parques
+públicos e zonas de estacionamento de duração limitada (ZEDL)”30, foi possível compreender que,
+no seu entender, tem de existir uma ligação entre estes diferentes tipos de estacionamento que
+têm utilidades e propósitos distintos.
+Segundo o agente, os parques públicos de estacionamento municipais (independentes dos
+parques de estacionamento a título particular) são concebidos para albergar estacionamento de
+média e longa duração, enquanto as ZEDL são concebidas para albergar estacionamento de curta
+duração. Isto é, não se pretende que se utilizem os parques para uma duração de 10min, por
+exemplo, porque por esse tão reduzido período de tempo é aconselhável estacionar na rua. O
+principal propósito dos parques públicos é retirar os automóveis da rua, fundamentalmente os
+que lá permanecem todo o dia, enquanto o principal propósito das ZEDL é criar estacionamento
+rotativo, preferencialmente onde existe concentração de serviços.
+Relativamente aos parques públicos, a medida implementada de uniformização das tarifas obteve
+mais sucesso do que o esperado, excedendo as expetativas. A lotação, dos até então parques
+vazios, aumentou de tal ordem que estes chegam a estar lotados, com uma taxa de ocupação
+máxima, nomeadamente nos parques Condessa Mumadona e Plataforma das Artes (as avenças
+contribuem para que tal aconteça). Não obstante, um rácio de cerca de 25% da lotação dos
+parques é reservado para rotativos, sendo feita uma gestão em tempo real. Se há um veículo de
+avença que não chega, este lugar é rapidamente disponibilizado para estacionamento rotativo
+esporádico. Esta uniformização de preços também veio simplificar a informação, tornando-a
+facilmente percetível para toda a população.
+Pretende-se que seja feita uma interligação entre os parques públicos de estacionamento através
+de um sistema de cartões, ou seja, sendo possível aceder a todos os parques através de 1 cartão
+apenas.
+O parque de estacionamento em construção, o Parque de Camões, poderá vir a ser administrado
+pela mesma empresa municipal, e é visto como uma mais valia, no sentido de retirar automóveis
+das ruas do centro histórico da cidade.
+A par da medida de uniformização das tarifas dos parques públicos de estacionamento,
+considerava-se importante subir os preços das ZEDL (o que não aconteceu no imediato).
+Nem todos os utilizadores do estacionamento de rua respeitam as normas, não o pagando
+devidamente, e, subsequente, não procedendo ao pagamento das multas que lhes são aplicadas
+por parte da fiscalização. Brevemente, por causa deste “abuso”, os infratores serão intimados ao
+pagamento das respetivas multas, através do envio de carta para a morada de residência,
+seguindo para autoridade superior.
+
+30 Fonte: https://www.vitrusambiente.pt/empresa
+
+4.1.3 Principais recomendações face ao tema da mobilidade para o centro urbano da
+cidade de Guimarães
+Face ao exposto, relativamente à análise da candidatura a CVE e da análise das implicações da
+construção do parque de estacionamento Camões, verifica-se que ressaltam as contrariedades
+quando comparados.
+Esta comparação aparenta a aposta em sentidos contrários. Se por um lado a candidatura a CVE
+incita à descarbonização da mobilidade, a construção do parque de estacionamento Camões
+incita o uso do transporte individual pois oferece o complemento essencial ao uso deste, o
+estacionamento.
+A aposta em medidas pontuais com princípios distintos desfavorece-as.
+Recomenda-se a delineação de objetivos estratégicos, acompanhados por ações conjuntas. Para
+tal, é necessário um estudo global, que junte todas as informações, que correlacione todas as
+vertentes que à mobilidade estão intrínsecas e as conduza no mesmo sentido.
+O mesmo se aplica a todos os trabalhadores envolvidos na temática. Estes têm opiniões distintas
+(como foi possível verificar na auscultação de agentes e no trabalho com as demais colegas de
+estágio) que poderiam ser transformadas em complementares.
+Portanto, a promoção de reuniões internas na instituição, entre os principais intervenientes de
+cada departamento, bem como de agentes diretamente relacionados à temática, de modo a
+discutir visões e a delinear princípios a seguir, seria benéfica. O sentido coletivo é importante.
+Seria ainda uma mais valia ouvir uma comissão consultiva técnica e especializada, fora da
+instituição.
+
+4.2 Outras atividades desenvolvidas
+4.2.1 Acompanhamento de projetos em execução
+A par das principais atividades, foi feito o acompanhamento da execução de dois projetos de
+requalificação do espaço público, fundamentalmente com visitas aos locais.
+Uma das obras localiza-se no centro urbano e outra localiza-se na periferia imediata ao centro
+urbano.
+Sob o ponto de vista estratégico, ambas as intervenções visam a mudança de paradigma, através
+de alterações profundas que melhorem a qualidade do ambiente urbano, sendo a conjugação da
+mobilidade e espaços verdes urbanos os fatores geradores de todas as intenções implícitas nestes
+projetos de requalificação. Ambas as requalificações de espaço público principiam por contribuir
+para a descarbonização da mobilidade, daí a pertinência deste acompanhamento.
+
+4.2.1.1 Projeto localizado no centro urbano
+Foi acompanhada a execução do projeto localizado no centro urbano relativo à requalificação da
+Rua Domingos Torcato Ribeiro e Praceta Lions Internacional que, objetivamente, estabelece a
+ligação de áreas verdes (fundamentalmente do parque das hortas ao parque da cidade), bem
+como reforça e valoriza as zonas pedonais e cicláveis, beneficiando por isso os modos suaves.
+O projeto em causa incide no aprofundamento de um excerto de um estudo urbanístico
+desenvolvido pela DUPD, para uma área mais abrangente, que engloba não só a franca ligação
+(pedonal e ciclável) entre as referidas áreas verdes, mas também a proposta pioneira do início de
+uma zona de acalmia de tráfego (que futuramente se estenderá).
+A área de intervenção em causa relaciona a recente intervenção do parque das Hortas com a
+prevista extensão das zonas 30 e proposta de percursos cicláveis, tratando−se de uma operação
+local que traz benefícios que se repercutem a larga escala.
+
+Figura 26: Rua Domingos Torcato Ribeiro antes da requalificação
+Fonte: Google Maps
+
+O projeto de estruturação deste entroncamento surge com o principal objetivo de fazer coexistir
+os diferentes modos de transporte em condições de segurança, essencial para assegurar a ligação
+entre as diferentes áreas verdes. Este projeto teve em atenção o facto de a primeira fase da
+ecovia atravessar este local marcado como uma das “portas” de acesso ao parque da cidade.
+Isto posto, a requalificação da Rua Domingos Torcato Ribeiro e Praceta Lions Internacional
+compreendeu:
+ redução da dimensão da largura das vias;
+ criação de passadeiras elevadas, de modo a reduzir a velocidade viária;
+ reformulação viária da rotunda existente na Praceta Lions Internacional;
+ ampliação dos passeios;
+ reformulação da "entrada" no parque da cidade dando primazia aos espaços públicos de
+lazer, através da colocação de mobiliário urbano e de vegetação;
+ criação de corredores verdes e espaços de lazer arborizados entre o parque das hortas e o
+parque da cidade, com clara valorização ambiental e paisagística. Esta medida para além
+de gerar espaços de ensombramento beneficia ainda a renovação do ar e a criação de
+barreiras acústicas.
+
+Resultando na seguinte requalificação:
+
+Figura 27: Rua Domingos Torcato Ribeiro depois da requalificação
+Fonte: Fotos de autoria própria
+
+Figura 28: Praceta Lions Internacional depois da requalificação
+Fonte: Fotos de autoria própria
+
+4.2.1.2 Projeto localizado na periferia imediata ao centro urbano
+Foi acompanhada a execução do projeto localizado na periferia imediata ao centro urbano,
+relativo à requalificação e reperfilamento da Rua dos Cutileiros.
+A Rua dos Cutileiros, antiga estrada nacional foi em tempos uma das principais “entradas” de
+Guimarães, sendo o acesso estruturante na ligação ao Porto, o que lhe conferia grande
+importância do ponto de vista viário.
+Nessa rua, localizavam-se as grandes indústrias de cutelaria e havia uma relação indissociável de
+proximidade à cidade. Com o passar do tempo e com o crescimento urbano, esta rua perdeu a
+importância viária na estrutura municipal. Isto deveu-se sobretudo à criação de novos eixos
+viários que remeteram os movimentos pendulares para esses novos acessos. Consequentemente,
+a rua passou a ter caráter secundário nas travessias viárias (a par disto, os seus pontos notáveis
+como a igreja, cruzeiro, construções de interesse arquitetónico e patrimonial, antigas travessias
+simbólicas, entre outros, perderam alguma da sua exposição e notoriedade).
+A rua em questão, de caráter predominantemente habitacional tem, em alguns pontos, comércio
+e serviços. Esta rua comportava trânsito nos dois sentidos e a marcação de estacionamento era
+inexistente, o que provocava a desorganização (provocada pelos veículos).
+A rua não satisfazia as necessidades do peão quer pelos seus passeios estreitos e descontínuos,
+quer pela inexistência de estada e de ensombramento.
+
+Tal realidade é percetível nas imagens seguintes:
+
+Figura 29: Rua dos Cutileiros antes da requalificação
+Fonte: Google Maps
+
+A proposta de intervenção surge como principal objetivo dar à população local melhor qualidade
+de vida com o usufruto mais qualificado do espaço público.
+Através reordenamento urbano pretende-se melhorar acessos pedonais e viários já existentes,
+valorizando todo o espaço público associado, bem como criar novas áreas de lazer. Em toda a
+extensão da rua foi estabelecido um perfil contínuo que proporcionou o ajuste das cotas de
+soleira, que se encontravam acima e abaixo da cota da faixa de rodagem.
+A par disto, a requalificação da Rua dos Cutileiros compreendeu:
+ separação dos movimentos de tráfego viário do pedonal;
+ redução da faixa de rodagem, bem como a renomeação para apenas um sentido de
+circulação, no sentido ascendente, pretendem quer desviar o tráfego de passagem, quer
+reduzir o fluxo de tráfego;
+ marcação de estacionamento, evitando a desorganização da rua;
+ construção de passeio de ambos os lados da rua (a cerca de 10cm acima da via), com
+dimensões amplas ajudando a acessibilidade e mobilidade, bem dimensionado e
+garantindo os acessos viários a todas as garagens e logradouros, conferindo de uma
+forma geral prioridade aos peões;
+ criação de plataformas elevadas, correspondendo a travessias pedonais, de modo a
+assegurar velocidades reduzidas;
+ criação de espaços verdes (através de arborização) de utilização coletiva e de
+enquadramento paisagístico;
+ alterações complementadas com mobiliário urbano (bancos, papeleiras, ecopontos,
+caldeiras) e iluminação pública.
+
+Resultando na seguinte requalificação:
+
+Figura 30: Rua dos Cutileiros depois da requalificação
+Fonte: Fotos de autoria própria
+
+Salienta-se assim a clara intenção de uma requalificação onde se evidenciam os espaços públicos,
+melhorando e construindo zonas de estar e beneficiação das áreas pedonais de forma coerente e
+segura numa proposta de intervenção global.
+Foram proporcionadas condições para novas vivências da população local, novas oportunidades
+de disfrutar e utilizar o espaço público de forma mais qualificada.
+
+4.2.2 Trabalhos pontuais
+Foram realizados diversos trabalhos pontuais isolados, resultando na emissão de pareceres.
+De entre eles, foram analisados:
+A pertinência do Município exercer o direito legal de preferência (em terrenos, moradias,
+fábricas)
+Para ser exequível essa análise, em dois casos cujas análises pertenciam ao mesmo requerente,
+sendo um imóvel destinado a comércio e sendo outro um terreno urbano, foi necessário contatar
+a imobiliária responsável para esclarecimento das delimitações das parcelas em questão. Após
+este esclarecimento, devido à área em análise se inserir na centralidade de uma freguesia, foi
+então necessário consultar o Estudo de Centralidade existente. Só após esta análise é que foi
+possível deliberar e decidir que o município não aferia interesse em exercer o direito legal de
+preferência.
+Em um outro caso distinto, como o imóvel era destinado a habitação, estando inserido em área
+edificada consolidada e não se conhecendo qualquer intenção municipal de intervir em
+edificação, não se justificou o exercício do direito legal de preferência na transação do imóvel.
+
+O fecho da circular urbana
+O fecho da circular urbana é importante para potenciar uma melhor acessibilidade e distribuição
+do tráfego e acesso urbano na cidade, quer do ponto de vista urbanístico, quer do ponto de vista
+da mobilidade, e por essa razão foi elaborada uma proposta.
+
+A fixação de termos e condições programáticas de requalificação de um troço pertencente à
+antiga estrada nacional (para posterior realização de projeto)
+Pretende-se requalificar um troço viário, pertencente à antiga estrada nacional. Trata-se de uma
+via estruturante, com grande fluxo de tráfego, nomeadamente com presença de veículos pesados
+e onde se praticam velocidades elevadas.
+A requalificação tem como objetivo garantir a articulação entre os equipamentos relevantes da
+vila, designadamente da igreja à sede da junta de freguesia.
+Notou-se relevante a fixação dos seguintes termos programáticas do estudo a desenvolver:
+implementação de passeio generoso ao longo de toda a extensão (género ecovia) e do lado
+direito de modo a assegurar a sua continuidade, complementado com alinhamento de árvores,
+funcionando como separador arbóreo entre a faixa de rodagem e o passeio, de modo a segregar
+os diferentes modos de deslocação e assim conferir maior segurança aos modos suaves.
+
+O ofício de um presidente de junta de freguesia sobre a criação de uma nova via em paralelo à
+ecovia em construção
+O ofício emitido relativo ao fecho do trânsito de uma rua, com o propósito da criação da ecovia,
+pertencente à antiga linha de caminhos de ferro (desativada). Denota-se que a rua em questão
+não está legalmente classificada como pertencente à rede viária, mas admite-se que esta tenha
+vindo a ser usada como tal. O pedido do presidente da junta de freguesia veio no sentido da
+criação de uma nova via para, de certa forma, substituir a suprimida.
+
+A resposta imediata foi negar a construção de uma nova via para automóveis, já que a ecovia
+trará à freguesia mais e melhores condições para que o modo ciclável seja cada vez mais uma
+opção de deslocação viável, algo que deve ser considerado como uma mais valia; negação essa
+também sustentada pela existência de uma outra rua adjacente, rua essa de dois sentidos, que
+apesar de se considerar estreita, serve a função desejada, não se considerando necessária a
+construção de uma nova via, sendo esta decisão antecedida por uma visita ao local para
+verificação do constatado em plataforma online.
+Após a escuta involuntária de um morador, que frisou a dificuldade de circulação na rua existente,
+a rua estreita que fica adjacente à futura ecovia, justificando assim o uso da antiga linha de
+caminhos de ferro por parte da população, fez com que se avaliasse a tentativa de alargamento
+de parte da rua existente, de modo a colmatar as necessidades da população residente. Após
+contacto com a divisão de trânsito e espaço público (DTEP), essa opção foi invalidada, não se
+considerando que o número de utilizadores justifique esse alargamento, existindo outras
+alternativas de circulação e estando em análise a hipótese de tornar a rua em sentido único, de
+modo a evitar acidentes.
+
+O requerimento de um presidente de junta de freguesia sobre a contestação do fecho ao trânsito
+de duas ruas
+O fecho ao trânsito de duas ruas deveu-se fundamentalmente na medida de conferir vivência ao
+espaço público, em primazia dos modos suaves, conferindo-lhes segurança. Visto existirem
+percursos alternativos à circulação viária não se considera viável a reversão do implementado.
+
+O requerimento de um munícipe sobre o sentido de circulação de uma rua
+Uma moradora requereu análise da circulação da rua onde mora, solicitando que esta se tornasse
+de sentido único, alegando que a rua estreita não permite o cruzamento de veículos, e que obriga
+a que um deles recue para a estrada principal do entroncamento que é consideravelmente
+movimentado e aufere perigo. Após verificação da situação na plataforma online, não foi
+dispensada uma visita ao local, para validar a decisão.
+Verificou-se que a rua em questão, de 2 sentidos, não permite que dois veículos cruzem, no
+entanto existe um alargamento onde é possível um dos veículos aguardar que o outro passe sem
+ser necessário recuar até ao entroncamento. Tratando-se de uma estrada sem saída, também não
+é possível torná-la de um único sentido. A par disto, a rua não tinha espaço para ser alargada,
+servindo a função que desempenha de acesso à habitação, não estando previsto qualquer
+desenvolvimento que sustente a alteração da atual realidade.
+
+CAPÍTULO V
+CONSIDERAÇÕES FINAIS
+
+5. CONSIDERAÇÕES FINAIS
+Neste capítulo é apresentada uma breve descrição das tarefas realizadas; são indicadas as
+principais aprendizagens que decorreram da realização deste relatório de estágio; acompanhadas
+pelo apontamento de algumas insuficiências do trabalho; bem como por uma crítica e por
+contributos que demostram potenciais pistas para o futuro; e por fim, são expostas as propostas
+que acompanham o estudo realizado no estágio curricular, a fim da descarbonização da
+mobilidade no centro urbano de Guimarães.
+I. Breve descrição das tarefas realizadas
+Inicialmente com a revisão de literatura, a procura de casos inspiradores e a perceção do estado
+atual da área em estudo, foi possível compreender que a estratégia defendida tem de estar
+centrada nas necessidades das pessoas, promovendo territórios mais equilibrados e com melhor
+qualidade de vida para se alcançar uma cidade mais humanizada.
+Portanto, no estágio curricular foi realizado um estudo, que inevitavelmente, teve de ser
+acompanhado por medidas que promovem a descarbonização da mobilidade, sobretudo para o
+centro urbano de Guimarães.
+II. Principais aprendizagens
+As principais aprendizagens auferidas ao longo dos meses de estágio resultaram essencialmente
+do contacto e aprofundamento do tema escolhido, da aplicação do tema no contexto real de
+cidade e do contacto com serviços municipais.
+Há cerca de um século a locomoção pela cidade alargada era difícil, e o advento do veículo
+automóvel resolveu isso. Hoje em dia a locomoção é novamente difícil, mas a problemática é
+justamente o veículo automóvel, que é usado excessivamente (com impacto sobretudo nas áreas
+centrais). Ou seja, o aumento da mobilidade, apesar de ter trazido grandes vantagens, trouxe
+também problemas de enorme gravidade. Por tal, os decisores políticos terão de incitar políticas
+de dissuasão à utilização do veículo automóvel, independentemente da dificuldade, articulando o
+planeamento da mobilidade com o ordenamento do território.
+A problemática da mobilidade surge associada a redes estruturantes, mas também a todo o
+espaço público urbano, o qual se destina ao circular e ao estar de pessoas, de automóveis e
+demais veículos. “Todas essas funções têm que ser perspetivadas, articuladas, compatibilizadas”
+(Carvalho, 2007).
+No caso particular de Guimarães, quando cruzado o desejável, com o existente e com o que está
+previsto, os resultados são muito claros e reforçam a ideia de que é preciso uma mudança clara
+no paradigma da mobilidade e na descarbonização da mesma. Esta é uma mudança de
+responsabilidade elevada o que faz com que as decisões de políticas públicas em prol da
+descarbonização da mobilidade sejam urgentes, pois não surtem resultados sustentáveis
+imediatos.
+O desafio da descarbonização da mobilidade tem elevada complexidade, exigindo uma
+abordagem sistémica e continuada, comtemplada por pensamento estratégico.
+III. Insuficiências do trabalho
+Na temática da mobilidade nunca tudo estará feito nem nunca tudo estará estudado.
+A cidade é um organismo complexo onde tudo precisa de estar em equilíbrio e onde tudo está em
+constante mudança, fundamentalmente porque a cidade são pessoas, e as necessidades delas se
+vão alterando.
+
+Quando se fala de cidade é improvável que se alcance um modelo que seja o recurso para todos
+os problemas de qualquer cidade, isto porque não existem duas cidades iguais. Apesar disso,
+existe a consciência de que há vários problemas que são comuns à maioria das cidades, e que
+algumas soluções para a resolução dos mesmos são iguais ou semelhantes. (Meireles, 2017).
+IV. Crítica e contributos
+É necessário definir um plano (instrumentos e respetivas ações) que abranja e envolva
+operacional e coerentemente as estratégias de todas as vertentes da mobilidade, onde todas as
+vertentes estejam interligadas e a funcionar como um conjunto, e não a título competitivo. Todos
+os modos de deslocação devem ser considerados importantes e, portanto, devem ser criadas
+condições para que esteja assegurada a sua funcionalidade em pleno.
+“As cidades devem estar em equilíbrio (…) entre diferentes tipos de tráfego” acomodando ”uma
+coexistência dos tráfegos de peões, bicicletas e veículos.” (Gehl & Gemzøe, 2002, p. 257)
+Claro que, as cidades devem ser moldadas e preparadas para priorizar os modos de deslocação
+suaves (apelativas à caminhada e à utilização diária da bicicleta), incentivar o uso da mobilidade
+elétrica, dos transportes públicos e da partilha de veículos, tal como explorado, mas sem
+menosprezar nenhum modo de deslocação.
+Nenhuma mudança na mobilidade urbana é fácil de ser implementada, mas todas são necessárias
+quando se pretende que uma cidade se torne inclusiva, sustentável e que contribua para a
+melhoria na qualidade de vida da comunidade.
+A cidade são pessoas. Não há cidade sem pessoas. A cidade é feita por pessoas e para pessoas. As
+pessoas têm de compreender, estar consciencializadas, aceitar e querer as mudanças.
+Para tal, é necessário capacitar todos os cidadãos a melhorar a mobilidade da cidade, fomentando
+o sentido e trabalho conjunto. Para assim, ter cidadãos capazes de avaliar qual o melhor meio de
+transporte, ou qual a melhor combinação destes, para a deslocação que necessitam de fazer,
+escolhendo usar o veículo automóvel privado em último recurso. Esta escolha deve ser
+comtemplada por uma oferta equilibrada de modos de deslocação existentes na cidade, e que
+também induzam escolhas de mobilidade menos penalizadoras para o ambiente urbano.
+Para delinear claramente uma estratégia eficaz e abrangente, nota-se importante que a
+instituição requisite dados precisos, para se apurarem os reais problemas e se ajustarem soluções
+eficazes. Dados que forneçam respostas a questões como: quantos veículos automóveis passam
+(por minuto) em cada rua? O congestionamento de determinada via dá-se porquê? Para onde
+seguem as pessoas? Todas para o mesmo local? Todas para locais distintos? Não haverá outro
+trajeto? Há falta de conhecimento dos percursos existentes? Há falta de informação?
+Do contacto com os serviços municipais, constata-se como uma mais valia o encontrar de formas
+de desburocratizar os serviços, no sentido de resolverem mais rápida e facilmente todos os
+processos.
+V. Propostas
+É complexo conciliar o curto prazo com o longo prazo, devido à dificuldade em colocar em prática
+as ideias necessárias predispostas no presente, de modo a alcançarmos no futuro o desejável.
+Essa dificuldade reflete-se, em parte, ao entrave da dificuldade de mudança de mentalidades nas
+comunidades, que surtam em mudanças de hábitos.
+Portanto, são precisas medidas progressivas impositivas, mas sem radicalismos à partida e com
+alternativas válidas.
+
+Nota-se importante estabelecer um processo contido com diretrizes a longo prazo, de modo a
+que pequenos percursos sejam efetuados a pé ou de bicicleta, percursos maiores sejam efetuados
+através do recurso ao transporte público, ou em último recurso, que os veículos particulares
+usados sejam preferencialmente elétricos.
+Assim, a fim de desincentivar o uso do automóvel particular, foi proposto no estudo realizado no
+estágio curricular, a implementação de ZAAC fundamentalmente na área central da cidade;
+criação de zonas 30 nos quarteirões delimitados pelas vias estruturantes através da
+implementação de dispositivos de acalmia de tráfego (preferencialmente rotundas e lombas);
+redução da largura das faixas de rodagem (privilegiando os passeios); restrição do
+estacionamento existente (em rua); maior área de tarifação de estacionamento na zona central
+(incluindo parques de estacionamento e ZEDL) e preços mais elevados; e por fim mais fiscalização
+quer das ZEDL, quer do estacionamento ilegal.
+Para a promoção da pedonalização propôs-se qualificar o espaço público com a criação de praças
+e espaços de lazer, associados a corredores verdes e espaços arborizados.
+Para a promoção da utilização da bicicleta foi proposta a criação de infraestruturas de
+estacionamento para estes veículos (designados de ciclo parques), fundamentalmente em
+equipamentos, como o caso das escolas.
+De maneira a incentivar a crescente utilização dos veículos automóveis elétricos, a expansão dos
+postos de carregamento elétrico é essencial (fundamentalmente de carregamento rápido), assim
+que hajam financiamentos disponíveis.
+A substituição progressiva da frota de transportes públicos convencional por uma frota elétrica é
+desejável (apesar de serem conhecidos os entraves operacionais e económicos associados).
+No sentido da promoção dos transportes públicos propõe-se a redução das tarifas praticadas;
+maior frequência (pelo menos da “linha-cidade”); melhores condições nas paragens (abrigos);
+pontualidade; e disponibilização de informação, nomeadamente em tempo real. A criação de
+transporte escolar coletivo também viria no sentido de uma mobilidade mais sustentável.
+A disponibilização de infraestruturas para transporte de bicicletas nos transportes públicos
+coletivos seria uma mais valia quando não é possível efetuar todo o percurso pretendido de
+bicicleta, assumindo assim o transporte público um papel integrador.
+A par destas medidas, a criação de uma plataforma online que integre todos os modos de
+transporte, os horários, os preços, tempos de espera de transbordo e ainda a lotação em tempo
+real dos parques de estacionamento, mostrando prioritariamente os trajetos mais eficientes e
+amigos do ambiente, seria uma mais valia.
+Importa ainda assumir que, de modo a consciencializar a população, são necessários eventos
+promocionais de mobilidade sustentável (é exemplo disso o “domingo sem carro”).
+Estas medidas propostas visam preparar não só o território, mas também mentalidades e hábitos
+de quem nele habita, para um panorama mais sustentável, findando com a “devolução” da cidade
+às pessoas.
+As cidades para estarem em equilíbrio, devem acomodar a existência dos tráfegos de peões,
+bicicletas e veículos. Medidas avulsas, apenas por si, não funcionam. A interligação entre as
+diversas medidas dos diversos modos de deslocação é necessária para que a cidade seja provida
+de uma nova dinâmica de mobilidade, resultando num novo modelo de cidade, dotado de uma
+mobilidade descarbonizada. Um modelo integrativo e sustentável, onde todos os modos de
+deslocação funcionem em pleno.

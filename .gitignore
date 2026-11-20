@@ -1,0 +1,30 @@
+cat << 'EOF' > .gitignore
+# Python & environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Data, backups, and generated index/output artifacts (adjust if you want small samples/reports tracked)
+dados_backup_final/
+index/
+dados/raw/
+resultados/
+
+# OS & editor files
+.DS_Store
+.vscode/
+!.vscode/settings.json
+EOF
+
+git status

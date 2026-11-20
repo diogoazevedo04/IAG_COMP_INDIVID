@@ -1,0 +1,744 @@
+Designação Social do operador de serviço público e marca com que operam - Guimabus - Empresa Transportes de Guimarães, Unipessoal Lda / Guimabus
+Forma de exploração do serviço público de transporte de passageiros e respetiva forma
+de contratação. - Contrato De acordo com os artigos 16.º ao 19.º do RJSPTP
+Natureza do contrato de serviço público. - Contrato de Concessão
+Se o contrato é um contrato de concessão ou um
+contrato de prestação de serviço, conforme definição
+do artigo 20.º do RJSPTP
+Caracterização do Contrato de Serviço Público:
+ (i) Designação do contrato; Contrato de Concessão de Serviço Público de Transporte Rodoviário de Passageiros no Município de Guimarães
+ (ii) Identificação da autoridade de transportes concedente; Município de Guimarães
+ (iii) Vigência do contrato (datas de início e de fim); 01/01/2022 a 31/12/2031
+ (iv) Estão definidas obrigações de serviço público (S/N); Sim
+ (v) Estão definidas compensações financeiras (S/N); Sim
+ (vi) Está definido regime de incentivos e penalidades associado ao desempenho. Sim
+ (v) É atribuída exclusividade (S/N);
+Sim, excetuando:
+ a) Aos serviços públicos de transporte rodoviário de
+passageiros de Âmbito Municipal em que ocorra
+sobreposição com os serviços
+públicos de transporte rodoviário de passageiros de
+Âmbito Intermunicipal com incidência na área geográfica
+do Município de
+Guimarães que vierem a ser explorados pelos Operadores
+contratados por outras Autoridades de Transporte.
+b) Aos serviços públicos de transporte rodoviário de
+passageiros de Âmbito Intermunicipal com origem e/ou
+destino no Município
+de Guimarães.
+c) Aos serviços públicos de transporte rodoviário de
+passageiros de Âmbito Inter-Regional.
+d) Aos serviços públicos de transporte rodoviário de
+passageiros de caráter social (sem custos para os
+utilizadores), eventualmente
+explorado pelo Município de Guimarães ou por seu
+operador interno, designadamente no âmbito do
+Transporte Público Flexível.
+ (vi) Modos de transporte. Transporte Rodoviário Coletivo de Passageiros
+Lista das rotas (linhas) contratadas divididas por:
+ (i) Transporte municipal, intermunicipal e inter-regional;
+ (ii) Transporte regular e transporte flexível.
+Mapa do município com o desenho das rotas (linhas) contratadas e identificação das
+povoações com mais de 40 habitantes. - Em anexo Corresponde à versão mais recente da rede para o ano de 2024
+N.º de linhas exploradas e respetiva extensão. Un.
+Nº de linhas (variantes, parcelares e noturnas): 227
+Extensão total: 3 021 km
+Dados por linha em anexo
+Inclui as variantes, as parcelares e as noturnas.
+Corresponde à última versão da rede do ano de 2024
+N.º de circulações:
+ (i) Totais anuais; 322 146
+ (i) Média diária nos dias úteis; 1 042
+ (ii) Média diária nos fins de semana e feriados. 527
+% da população do município servida por transportes públicos. % 100,00%
+Após a entrada em funcionamento no dia 8 de outubro
+de 2024, do serviço de Transporte Público Flexível
+operado pela empresa municipal Vitrus Ambiente E.M,
+S.A, foi atingida a cobertura total de acesso à rede de
+TP.
+N.º de veículos.km produzidos. 103 VKm 3 630,322 Cálculo baseado no número total de veículos.km produzidos para o ano de 2024.
+N.º de lugares.km produzidos. 106 LKm 268,949 Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+Indicação das opções disponíveis em termos de títulos de transporte, designadamente
+o preço:
+ (i) Títulos ocasionais;
+ (ii) Títulos monomodais;
+ (iii) Títulos intermodais e/ou assinaturas;
+N.º de passageiros transportados. Un. 5 218 906 Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+N.º de passageiros.km transportados. 103 PKm 45 351 Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+Taxa de ocupação média anual da frota. % 18,60% Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+Taxa de fraude detetada. % 0,000075
+Número de veículos da frota por:
+ (i) Fonte de energia (gasóleo, GPL, gás natural, eletricidade e outros);
+ (ii) Norma ambiental EURO;
+ (iii) Acessibilidade a pessoas com mobilidade condicionada (S/N);
+ (iv) Lotação.
+Idade média da frota Anos 7,5
+Cálculo baseado na listagem da frota para dezembro de
+2024, que corresponde à versão mais recente
+reportada pelo operador
+Receitas tarifárias anuais por título de transporte. 103 Euro Em anexo
+Cálculo baseado nos valores efetivos reportados pelo
+operador para 2024, descontando os valores de outros
+financiamentos não suportados pelo utilizador
+(Incentiva+TP, Portaria 7-A/2024, de 5 de janeiro,
+etc.)
+Gastos totais da Autoridade de Transporte com o serviço público de transporte de
+passageiros, por contrato, discriminando a seguinte informação:
+ (i) Compensações por obrigações de serviço público; 1722,36291
+ (ii) Remuneração pela prestação do serviço público; 0
+ (iii) Compensações tarifárias (por ex. 4_18, Sub_23, Social+); 1480,33855
+ (iv) Outros subsídios à exploração; 0
+ (v) Outros gastos. 516,49816
+Valor do investimento da Autoridade de Transporte no âmbito do serviço público de
+transporte de passageiros:
+ (i) Em material circulante; 0
+ (ii) Outros investimentos. 49,76
+Índice de regularidade (IR). % 2,60%
+IR = (N.º de serviços suprimidos)/(N.º total de
+serviços programados). Cálculo baseado na
+monitorização dos dados GPS reportados ao Município
+para 2024
+Índice de pontualidade (IP5). % 5,90%
+IP5 = (N.º de serviços com atraso ≤ 5 min. no
+destino)/(N.º total de serviços). Cálculo baseado na
+monitorização dos dados GPS reportados ao Município
+para 2024
+Resumo dos resultados do último inquérito de satisfação realizado aos passageiros e
+potenciais passageiros. -
+Oferta
+Procura
+Material circulante
+(frota)
+Indicadores
+EconómicoFinanceiros
+103 Euro
+Valor sem IVA. No entanto o IVA é suportado pelo
+Município de Guimarães, pelo que é custo.
+Compensações tarifárias referentes a Passe 65+, Passe
+Pessoa Mobilidade Condicionada, Congelamento do
+valor dos passes e Reduções Tarifárias ao abrigo do
+Incentiva +TP pagos ao operador municipal e operador
+intermunicipal da CIM do Ave. Outros gastos referentes
+a custos de funcionamento do Gabinete de Autoridade
+de Transportes e Estação Central de Camionagem.
+103 Euro
+Valor sem IVA. No entanto o IVA é suportado pelo
+Município de Guimarães, pelo que é custo.
+Investimentos em abrigos de passageiros.
+- Valores da tabela tarifária de 2024
+Un.
+Cálculo baseado na listagem da frota para dezembro de
+2024, que corresponde à versão mais recente
+reportada pelo operador
+Em anexo
+ANEXO I
+Relatório previsto no n.º 1 do artigo 18.º -A do regulamento 273/2021
+-
+- Em anexo
+Un. Cálculo baseado no número total de circulações realizadas no ano de 2024.
+Identificação dos
+Operador e dos
+Contratos de
+Serviço Público
+Em anexo
+Corresponde à versão mais recente da rede para o ano
+de 2024
+
+N.º de reclamações por motivo. Un. Em anexo
+Atendimento ao público: formas e locais de atendimento (físicos, telefónicos, online
+pontos de vendas de bilhetes, aplicações informáticas. -
+Formas e Locais de Atendimento:
+ - Físico – Bilheteira Guimabus Estação Central de
+Camionagem de Guimarães;
+ - Telefónico – Linha de Apoio ao Cliente – 253 780 800 –
+Segunda a Sexta, das 09:00 às 18.00;
+ - Online – Formulário Site Guimabus e email
+apoiocliente@guimabus.pt.
+Pontos de Vendas de Bilhetes:
+ - 3 Locais de Venda e Carregamento de Bilhetes e
+Passes (Bilheteira Estação Central de Camionagem,
+Balcão Associação Académica da Universidade do Minho
+(Campus de Azurém) e Junta de Freguesia de Oliveira,
+São Paio e São Sebastião) e 47 locais de carregamento
+de passes (Rede Pagaqui/Saltpay).
+ - Aplicações Informáticas: Site, Aplicação (disponível
+para Android e iOS) e disponibilização atualizada do
+GTFS no Google Maps.
+N.º de acidentes de viação (safety ), por tipo de acidente. Un. 105
+Cálculo baseado nos valores efetivos reportados pelo
+operador para 2024 (apenas foram reportados
+acidentes por colisão)
+N.º de incidentes de segurança (security ) Un. 10 Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+Emissões de gases com efeito de estufa (GEE) associado à prestação do serviço de
+transporte de passageiros. tCO2eq 3179,14 Cálculo baseado nos valores efetivos reportados pelo operador para 2024
+Consumo anual de energia, por fonte de energia (gasóleo, GPL, gás natural,
+eletricidade e outros). L, KWh, m3
+Gasóleo: 1.191.761 L
+Eletricidade: 1.946.392 kWh
+Gás Natural: 0 m3
+Cálculo baseado nos valores efetivos reportados pelo
+operador para 2024
+Nota 1: Nas informações solicitadas são válidos os conceitos e definições do RJSPTP, do Regulamento n.º 430/2019, publicado no Diário da República, 2.ª série, n.º 94, de 16 de maio de 2019 e da Informação da AMT às autoridades de transporte relativa aos
+indicadores de monitorização e supervisão, de 27 de setembro de 2018 e publicado no seu site.
+Nota 2: A ausência de informação total ou parcial ou com a desagregação sugerida, poderá/deverá ser justificada, designadamente em função de circunstancialismos locais.
+Nota 3: Caso sejam necessários esclarecimentos, poderá ser utilizado o endereço: ds@amt-autoridade.pt
+Qualidade e
+segurança
+Sustentabilidade
+
+Código Designação
+Abrangência
+(Municipal/Intermunicipal/InterRegional)
+Tipologia
+(Regular/Flexível)
+ 003 Linha Cidade (via Azurém e Madre Deus) Transporte Municipal Transporte Regular
+ 004 Linha Cidade (via Toural e EB23 João Meira) Transporte Municipal Transporte Regular
+ 011 Pereirinhas | Gandarela Transporte Municipal Transporte Regular
+ 012 Circular Carvalhos - Abação Transporte Municipal Transporte Regular
+ 014 Circular Pinheiro - Abação Transporte Municipal Transporte Regular
+ 021 Paço Vieira Transporte Municipal Transporte Regular
+ 022 Penha (via Matamá e S. Romão) Transporte Municipal Transporte Regular
+ 031 Circular Margaride - Pedroso Transporte Municipal Transporte Regular
+ 032 Circular Azurém - Pedroso Transporte Municipal Transporte Regular
+ 041 Circular Silvares - Parque Industrial Transporte Municipal Transporte Regular
+ 042 Circular Fermentões - Parque Industrial Transporte Municipal Transporte Regular
+ 051 Costa (São Roque) Transporte Municipal Transporte Regular
+ 061 Circular Pencelo - Selho S. Lourenço Transporte Municipal Transporte Regular
+ 062 Circular Aldão - Selho S. Lourenço Transporte Municipal Transporte Regular
+ 063 Fermentões (via Grisel) Transporte Municipal Transporte Regular
+ 070 Circular Casas Novas - Pevidém Transporte Municipal Transporte Regular
+ 071 Circular Covas - Pevidém Transporte Municipal Transporte Regular
+ 072 Circular Santiago de Candoso - Pedral Transporte Municipal Transporte Regular
+ 073 Circular Mascotelos - Pedral Transporte Municipal Transporte Regular
+ 081 Gondar Transporte Municipal Transporte Regular
+ 082 Circular Silvares - Selho S. Cristóvão Transporte Municipal Transporte Regular
+ 083 Circular Candoso S. Martinho - Selho S. Cristóvão Transporte Municipal Transporte Regular
+ 084 Gondar (via Candoso S. Martinho) Transporte Municipal Transporte Regular
+ 101 Guimarães - Lordelo (via Pevidém) Transporte Municipal Transporte Regular
+ 103 Taipas - Joane (via Brito) Transporte Municipal Transporte Regular
+ 104 Pevidém - Taipas (via Brito) Transporte Municipal Transporte Regular
+ 120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Transporte Municipal Transporte Regular
+ 121 Guimarães - Airão (via Vermil) Transporte Municipal Transporte Regular
+ 122 Guimarães - Joane (via Leitões) Transporte Municipal Transporte Regular
+ 123 Circular Brito - Leitões - Ronfe (EB23) Transporte Municipal Transporte Regular
+ 124 Ronfe (Poça) - Joane (via Leitões) Transporte Municipal Transporte Regular
+ 125 Ronfe (EB23) - Brito Transporte Municipal Transporte Regular
+ 128 Santa Luzia - Ronfe (Somelos) (via Monte Alvar) Transporte Municipal Transporte Regular
+ 151 Morreira - Taipas (via Longos) Transporte Municipal Transporte Regular
+ 158 Garfe - Taipas (via Gondomar) Transporte Municipal Transporte Regular
+ 159 Corvite - Taipas (via Sande S. Clemente) Transporte Municipal Transporte Regular
+ 160 Circular Taipas - Brito - Campelos - Taipas Transporte Municipal Transporte Regular
+ 161 Taipas - Guimarães (via Caneiros) Transporte Municipal Transporte Regular
+ 162 Taipas - Guimarães (via Brito) Transporte Municipal Transporte Regular
+ 163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Transporte Municipal Transporte Regular
+ 164 Guimarães - Garfe (via Gondomar) Transporte Municipal Transporte Regular
+ 170 Guimarães - Gonça (via S. Torcato) Transporte Municipal Transporte Regular
+ 171 Quintães - Guimarães (via S. Torcato e Atães) Transporte Municipal Transporte Regular
+ 172 Guimarães - Atães Transporte Municipal Transporte Regular
+ 173 S. Torcato (EB23) - Atães (via Gominhães) Transporte Municipal Transporte Regular
+ 180 Pinheiro - Guimarães (via S. Faustino e Covas) Transporte Municipal Transporte Regular
+ 181 Guimarães - S. Paio de Vizela (via Penteeiros) Transporte Municipal Transporte Regular
+ 182 Calvos - Guimarães (via Pinheiro) Transporte Municipal Transporte Regular
+ 185 Abação (EB23) - S. Faustino (via Calvos) Transporte Municipal Transporte Regular
+ 188 Guimarães - S. Faustino Transporte Municipal Transporte Regular
+ 189 Calvos - Guimarães (via Penteeiros) Transporte Municipal Transporte Regular
+ 192 Serzedelo - Lordelo (Est.) (via ZI Agras) Transporte Municipal Transporte Regular
+ N11 Circular Nespereira - Carvalhos Transporte Municipal Transporte Regular
+ N21 Circular Pedroso - Belos Ares Transporte Municipal Transporte Regular
+ N41 Circular Silvares - Parque Industrial Transporte Municipal Transporte Regular
+ N42 Circular Fermentões - Parque Industrial Transporte Municipal Transporte Regular
+ N51 Costa (São Roque) Transporte Municipal Transporte Regular
+ N71 Santo Amaro (via Salgueiral) Transporte Municipal Transporte Regular
+ N82 Circular Silvares - Gondar Transporte Municipal Transporte Regular
+ N83 Circular S. Martinho Candoso - Gondar Transporte Municipal Transporte Regular
+
+Inteiro Meio Residente Não- Residente Residente Não- Residente
+Zona Cidade 1,65 € 0,80 € 14,80 € 17,15 € 6,86 € 8,58 € 0,00 € 8,58 € 0,00 € 0,00 € 0,00 € - - 0,00 € 8,58 € 4,28 €
+0 a 2 1,20 € 0,60 € 10,60 € 28,30 € 11,32 € 14,15 € 0,00 € 14,15 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 14,15 € 7,08 €
+3 a 4 1,65 € 0,80 € 14,80 € 28,30 € 11,32 € 14,15 € 0,00 € 14,15 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 14,15 € 7,08 €
+5 a 6 2,20 € 1,10 € 19,60 € 40,35 € 16,14 € 20,18 € 0,00 € 20,18 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 20,18 € 10,09 €
+7 a 8 2,40 € 1,20 € 21,75 € 40,35 € 16,14 € 20,18 € 0,00 € 20,18 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 20,18 € 10,09 €
+9 a 10 2,55 € 1,25 € 22,75 € 50,90 € 20,36 € 25,45 € 0,00 € 25,45 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 25,45 € 12,73 €
+11 a 12 2,65 € 1,30 € 23,80 € 50,90 € 20,36 € 25,45 € 0,00 € 25,45 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 25,45 € 12,73 €
+13 a 14 2,75 € 1,40 € 24,90 € 62,90 € 25,16 € 31,45 € 0,00 € 31,45 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 31,45 € 15,73 €
+15 a 16 2,95 € 1,45 € 26,45 € 62,90 € 25,16 € 31,45 € 0,00 € 31,45 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 31,45 € 15,73 €
+17 a 18 3,20 € 1,60 € 28,60 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+19 a 20 3,35 € 1,70 € 30,15 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+21 a 22 3,65 € 1,80 € 32,80 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+23 a 24 3,80 € 1,90 € 34,40 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+25 a 28 4,05 € 2,05 € 36,60 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+29 a 32 4,30 € 2,15 € 38,65 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+33 a 36 4,60 € 2,30 € 41,30 € 73,25 € 29,30 € 36,63 € 0,00 € 36,63 € 0,00 € 0,00 € 0,00 € 8,60 € 14,35 € 0,00 € 36,63 € 18,31 €
+Suporte título - - 0,50 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 € 5,00 €
+Passe Universitário Passe
+Mobilidade
+Condicionada
+Distância (km)
+Bilhete Simples Pré-comprado
+(10 viagens)
+Passe Social
+(ilimitado) Sub 18+TP Sub 23+TP
+Passe Mensal
+CIM AVE +
+CP
+Passe Mensal
+CP
+Passe Mensal CIM AVE
+Passe 65 + Passe Reformado Passe Antigo Combatente
+
+Código Designação Sentido Cód. Percurso Origem Destino Extensão (km)
+003 Linha Cidade (via Azurém e Madre Deus) Ida 60-1 CENTRAL DE CAMIONAGEM (ALAMEDA)CENTRAL DE CAMIONAGEM (ALAMEDA) 8,945
+004 Linha Cidade (via Toural e EB23 João Meira) Ida 109-2 CENTRAL DE CAMIONAGEM (ALAMEDA)CENTRAL DE CAMIONAGEM (ALAMEDA) 7,902
+011 Pereirinhas | Gandarela Ida 197-3 CAMPO DA FEIRA BELFAMA 12,673
+011 Pereirinhas | Gandarela Ida 202-3 CAMPO DA FEIRA GANDARELA (EB1) 11,655
+011 Pereirinhas | Gandarela Volta 295-3 GANDARELA (EB1) CAMPO DA FEIRA 11,162
+011 Pereirinhas | Gandarela Volta 298-3 BELFAMA CAMPO DA FEIRA 12,142
+011 Pereirinhas | Gandarela Volta 261-3 GANDARELA (EB1) CAMPO DA FEIRA 16,882
+011 Pereirinhas | Gandarela Volta 255-3 BELFAMA ESC. SEC. MARTINS SARMENTO 12,712
+011 Pereirinhas | Gandarela Volta 258-3 GANDARELA (EB1) ESC. SEC. MARTINS SARMENTO 11,735
+011 Pereirinhas | Gandarela Ida 2264-3 CAMPO DA FEIRA GANDARELA (EB1) 17,407
+012 Circular Carvalhos - Abação Ida 367-4 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 19,791
+012 Circular Carvalhos - Abação Ida 361-4 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 18,623
+012 Circular Carvalhos - Abação Ida 365-4 CENTRAL DE CAMIONAGEM (TERMINAL)ABAÇÃO (IGREJA) 11,436
+012 Circular Carvalhos - Abação Ida 349-4 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 20,941
+012 Circular Carvalhos - Abação Ida 356-4 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 19,058
+014 Circular Pinheiro - Abação Ida 428-5 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 20,083
+014 Circular Pinheiro - Abação Ida 397-5 LARGO DE SÃO SIMÃO CENTRAL DE CAMIONAGEM (TERMINAL) 10,463
+014 Circular Pinheiro - Abação Ida 409-5 CENTRAL DE CAMIONAGEM (TERMINAL)CENTRAL DE CAMIONAGEM (TERMINAL) 18,915
+014 Circular Pinheiro - Abação Ida 411-5 CENTRAL DE CAMIONAGEM (TERMINAL)LARGO DE SÃO SIMÃO 9,619
+021 Paço Vieira Ida 508-6 CAMPO DA FEIRA SAIRRÃO 5,865
+021 Paço Vieira Volta 558-6 SAIRRÃO S. DÂMASO NORTE 5,709
+022 Penha (via Matamá e S. Romão) Ida 585-7 MATAMÁ (IGREJA) CENTRAL DE CAMIONAGEM (TERMINAL) 9,424
+022 Penha (via Matamá e S. Romão) Ida 586-7 PENHA CENTRAL DE CAMIONAGEM (TERMINAL) 12,122
+022 Penha (via Matamá e S. Romão) Volta 602-7 CENTRAL DE CAMIONAGEM (TERMINAL)PENHA 12,828
+022 Penha (via Matamá e S. Romão) Volta 605-7 CENTRAL DE CAMIONAGEM (TERMINAL)MATAMÁ (IGREJA) 10,134
+022 Penha (via Matamá e S. Romão) Ida 579-7 PENHA CENTRAL DE CAMIONAGEM (TERMINAL) 10,876
+022 Penha (via Matamá e S. Romão) Volta 595-7 CENTRAL DE CAMIONAGEM (TERMINAL)PENHA 11,565
+031 Circular Margaride - Pedroso Ida 663-8 S. DÂMASO SUL S. DÂMASO SUL 7,679
+032 Circular Azurém - Pedroso Ida 693-9 S. DÂMASO NORTE S. DÂMASO NORTE 8,096
+041 Circular Silvares - Parque Industrial Ida 753-10 S. DÂMASO NORTE S. DÂMASO SUL 16,505
+041 Circular Silvares - Parque Industrial Ida 754-10 S. DÂMASO NORTE S. DÂMASO SUL 15,424
+041 Circular Silvares - Parque Industrial Ida 721-10 P. INDUSTRIAL PONTE (ROT. NASCENTE)S. DÂMASO SUL 8,589
+042 Circular Fermentões - Parque Industrial Ida 832-11 S. DÂMASO NORTE S. DÂMASO SUL 17,404
+042 Circular Fermentões - Parque Industrial Ida 804-11 S. DÂMASO NORTE S. DÂMASO SUL 16,253
+051 Costa (São Roque) Ida 860-12 CAMPO DA FEIRA RAMPA DA PENHA 3,916
+051 Costa (São Roque) Ida 863-12 CAMPO DA FEIRA EB1 S. ROQUE 2,913
+051 Costa (São Roque) Volta 914-12 RAMPA DA PENHA CAMPO DA FEIRA 3,977
+051 Costa (São Roque) Volta 921-12 EB1 S. ROQUE CAMPO DA FEIRA 2,992
+061 Circular Pencelo - Selho S. Lourenço Ida 972-13 S. DÂMASO NORTE S. DÂMASO NORTE 13,365
+061 Circular Pencelo - Selho S. Lourenço Ida 974-13 S. DÂMASO NORTE S. DÂMASO NORTE 13,319
+062 Circular Aldão - Selho S. Lourenço Ida 1066-14 S. DÂMASO SUL S. DÂMASO SUL 13,308
+062 Circular Aldão - Selho S. Lourenço Ida 1037-14 S. DÂMASO SUL S. DÂMASO SUL 13,263
+063 Fermentões (via Grisel) Ida 1096-15 S. GONÇALO CASA DO POVO DE FERMENTÕES 5,004
+063 Fermentões (via Grisel) Volta 1129-15 CASA DO POVO DE FERMENTÕES S. GONÇALO 5,110
+070 Circular Casas Novas - Pevidém Ida 1174-16 S. GONÇALO S. GONÇALO 24,215
+071 Circular Covas - Pevidém Ida 1209-17 TOURAL TOURAL 22,459
+072 Circular Santiago de Candoso - Pedral Ida 1257-18 S. GONÇALO S. GONÇALO 11,843
+072 Circular Santiago de Candoso - Pedral Ida 1239-18 S. GONÇALO S. GONÇALO 13,513
+072 Circular Santiago de Candoso - Pedral Ida 1218-18 STO. AMARO TOURAL 4,339
+073 Circular Mascotelos - Pedral Ida 1305-19 TOURAL TOURAL 11,629
+073 Circular Mascotelos - Pedral Ida 1288-19 TOURAL TOURAL 13,296
+073 Circular Mascotelos - Pedral Ida 1267-19 TOURAL TOURAL 9,006
+081 Gondar Ida 1346-20 S. GONÇALO EMBOLADOURA 11,777
+081 Gondar Volta 1404-20 EMBOLADOURA S. GONÇALO 10,341
+081 Gondar Ida 1338-20 S. GONÇALO EMBOLADOURA 12,532
+081 Gondar Volta 1374-20 EMBOLADOURA S. GONÇALO 13,143
+081 Gondar Volta 1379-20 EMBOLADOURA S. GONÇALO 10,949
+082 Circular Silvares - Selho S. Cristóvão Ida 1464-21 S. DÂMASO NORTE S. DÂMASO SUL 19,400
+082 Circular Silvares - Selho S. Cristóvão Ida 1438-21 S. DÂMASO NORTE S. DÂMASO SUL 21,709
+082 Circular Silvares - Selho S. Cristóvão Ida 1448-21 CENTRO SAÚDE PEVIDÉM S. DÂMASO SUL 10,351
+083 Circular Candoso S. Martinho - Selho S. Cristóvão Ida 1491-22 S. DÂMASO NORTE S. DÂMASO SUL 19,978
+083 Circular Candoso S. Martinho - Selho S. Cristóvão Ida 2653-22 CENTRO SAÚDE PEVIDÉM S. DÂMASO SUL 8,980
+083 Circular Candoso S. Martinho - Selho S. Cristóvão Ida 1475-22 S. DÂMASO NORTE EB23 DE PEVIDÉM 13,805
+083 Circular Candoso S. Martinho - Selho S. Cristóvão Ida 1481-22 S. DÂMASO NORTE S. DÂMASO SUL 22,222
+084 Gondar (via Candoso S. Martinho) Ida 1520-23 TOURAL EMBOLADOURA 12,491
+084 Gondar (via Candoso S. Martinho) Volta 1521-23 EMBOLADOURA TOURAL 15,062
+101 Guimarães - Lordelo (via Pevidém) Ida 1539-24 CENTRAL DE CAMIONAGEM (TERMINAL)ESTAÇÃO CP LORDELO 17,452
+101 Guimarães - Lordelo (via Pevidém) Volta 1574-24 ESTAÇÃO CP LORDELO CENTRAL DE CAMIONAGEM (TERMINAL) 16,825
+101 Guimarães - Lordelo (via Pevidém) Volta 1563-24 LORDELO (IGREJA) CENTRAL DE CAMIONAGEM (TERMINAL) 14,644
+101 Guimarães - Lordelo (via Pevidém) Volta 1572-24 ESTAÇÃO CP LORDELO CENTRO SAÚDE PEVIDÉM 10,992
+101 Guimarães - Lordelo (via Pevidém) Ida 1534-24 CENTRAL DE CAMIONAGEM (TERMINAL)ESTAÇÃO CP LORDELO 19,752
+101 Guimarães - Lordelo (via Pevidém) Volta 1557-24 EB23 VIRGÍNIA MOURA CENTRAL DE CAMIONAGEM (TERMINAL) 21,049
+101 Guimarães - Lordelo (via Pevidém) Volta 1569-24 ESTAÇÃO CP LORDELO CENTRAL DE CAMIONAGEM (TERMINAL) 22,396
+101 Guimarães - Lordelo (via Pevidém) Ida 1522-24 CENTRO SAÚDE PEVIDÉM ESTAÇÃO CP LORDELO 10,808
+101 Guimarães - Lordelo (via Pevidém) Ida 1528-24 CENTRAL DE CAMIONAGEM (TERMINAL)LORDELO (IGREJA) 15,276
+101 Guimarães - Lordelo (via Pevidém) Ida 1523-24 CENTRAL DE CAMIONAGEM (TERMINAL)ESTAÇÃO CP LORDELO 21,860
+101 Guimarães - Lordelo (via Pevidém) Volta 1561-24 ESTAÇÃO CP LORDELO CENTRAL DE CAMIONAGEM (TERMINAL) 19,065
+101 Guimarães - Lordelo (via Pevidém) Volta 2828-24 EB23 VIRGÍNIA MOURA SERZEDELO (IGREJA) 9,589
+103 Taipas - Joane (via Brito) Ida 1588-25 TAIPAS (ESC. SEC.) OESTE JOANE (ESC. SEC.) 13,421
+103 Taipas - Joane (via Brito) Ida 1589-25 TAIPAS (ESC. SEC.) OESTE JOANE (ESC. SEC.) 13,093
+103 Taipas - Joane (via Brito) Volta 1593-25 JOANE (ESC. SEC.) TAIPAS (ESC. SEC.) ESTE 14,104
+103 Taipas - Joane (via Brito) Volta 1592-25 JOANE (ESC. SEC.) TAIPAS (ESC. SEC.) ESTE 13,753
+104 Pevidém - Taipas (via Brito) Ida 1599-26 MERCADO DE PEVIDÉM TAIPAS (ESC. SEC.) ESTE 15,420
+104 Pevidém - Taipas (via Brito) Ida 1600-26 MERCADO DE PEVIDÉM TAIPAS (ESC. SEC.) ESTE 12,325
+104 Pevidém - Taipas (via Brito) Ida 1601-26 MERCADO DE PEVIDÉM ROT. PONTE 17,329
+104 Pevidém - Taipas (via Brito) Volta 1602-26 TAIPAS (ESC. SEC.) OESTE MERCADO DE PEVIDÉM 14,715
+104 Pevidém - Taipas (via Brito) Volta 1605-26 TAIPAS (ESC. SEC.) OESTE MERCADO DE PEVIDÉM 11,690
+104 Pevidém - Taipas (via Brito) Ida 1597-26 MERCADO DE PEVIDÉM TAIPAS (ESC. SEC.) ESTE 17,182
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Volta 1614-27 JOANE (ESC. SEC.) RABELA 5,829
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Ida 1606-27 AIRÃO S. JOÃO (PISCINAS) JOANE (ESC. SEC.) 14,351
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Ida 1608-27 RABELA JOANE (ESC. SEC.) 7,620
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Volta 1609-27 JOANE (ESC. SEC.) AIRÃO S. JOÃO (PISCINAS) 14,480
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Volta 1610-27 JOANE (ESC. SEC.) RABELA 9,925
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Volta 1613-27 JOANE (ESC. SEC.) PENEDINHO 11,783
+120 Pte. Serves - Joane (Sec.) (via Airão e Mte. Alvar) Ida 1607-27 RABELA JOANE (ESC. SEC.) 9,915
+121 Guimarães - Airão (via Vermil) Ida 1622-28 CENTRAL DE CAMIONAGEM (TERMINAL)AIRÃO S. JOÃO (PISCINAS) 16,735
+121 Guimarães - Airão (via Vermil) Volta 1638-28 AIRÃO S. JOÃO (PISCINAS) CENTRAL DE CAMIONAGEM (TERMINAL) 17,065
+122 Guimarães - Joane (via Leitões) Ida 1644-29 CENTRAL DE CAMIONAGEM (TERMINAL)JOANE (ESC. SEC.) 16,612
+122 Guimarães - Joane (via Leitões) Ida 1647-29 CENTRAL DE CAMIONAGEM (TERMINAL)OLIFIL 21,127
+122 Guimarães - Joane (via Leitões) Volta 1652-29 JOANE (ESC. SEC.) CENTRAL DE CAMIONAGEM (TERMINAL) 19,112
+122 Guimarães - Joane (via Leitões) Volta 1653-29 STA. LUZIA (PALMEIRA) CENTRAL DE CAMIONAGEM (TERMINAL) 14,815
+122 Guimarães - Joane (via Leitões) Volta 1656-29 JOANE (ESC. SEC.) CENTRAL DE CAMIONAGEM (TERMINAL) 16,995
+122 Guimarães - Joane (via Leitões) Volta 1657-29 OLIFIL CENTRAL DE CAMIONAGEM (TERMINAL) 21,652
+122 Guimarães - Joane (via Leitões) Ida 1645-29 BRITO (IGREJA) JOANE (ESC. SEC.) 9,257
+122 Guimarães - Joane (via Leitões) Ida 1651-29 CENTRAL DE CAMIONAGEM (TERMINAL)JOANE (ESC. SEC.) 17,690
+123 Circular Brito - Leitões - Ronfe (EB23) Ida 1662-30 BRITO (FEIRA) RONFE (EB23) 13,644
+
+123 Circular Brito - Leitões - Ronfe (EB23) Ida 2831-30 RONFE (EB23) STA. LUZIA (CAPELA) 14,702
+124 Ronfe (Poça) - Joane (via Leitões) Ida 2698-31 POÇA JOANE (ESC. SEC.) 16,140
+125 Ronfe (EB23) - Brito Ida 1667-32 RONFE (EB23) BRITO (SEQUITO) 3,038
+125 Ronfe (EB23) - Brito Volta 1668-32 BRITO (SEQUITO) RONFE (EB23) 5,851
+128 Santa Luzia - Ronfe (Somelos) (via Monte Alvar) Volta 1670-33 SOMELOS STA. LUZIA (CAPELA) 5,545
+128 Santa Luzia - Ronfe (Somelos) (via Monte Alvar) Ida 1669-33 STA. LUZIA (CAPELA) SOMELOS 5,654
+151 Morreira - Taipas (via Longos) Ida 1676-34 MORREIRA TAIPAS (ESC. SEC.) ESTE 10,335
+151 Morreira - Taipas (via Longos) Volta 1679-34 TAIPAS (ESC. SEC.) OESTE MORREIRA 10,558
+151 Morreira - Taipas (via Longos) Ida 1672-34 MORREIRA TAIPAS (ESC. SEC.) ESTE 9,036
+151 Morreira - Taipas (via Longos) Ida 1673-34 MURTEIRA TAIPAS (ESC. SEC.) ESTE 6,149
+158 Garfe - Taipas (via Gondomar) Volta 1690-35 TAIPAS (ESC. SEC.) OESTE GARFE (CRUZ. PÓVOA LANHOSO) 21,947
+158 Garfe - Taipas (via Gondomar) Ida 2833-35 GARFE (CRUZ. PÓVOA LANHOSO) TAIPAS (ESC. SEC.) OESTE 18,780
+158 Garfe - Taipas (via Gondomar) Volta 1688-35 BRITEIROS S. SALVADOR (EB23) GARFE (CRUZ. PÓVOA LANHOSO) 18,442
+158 Garfe - Taipas (via Gondomar) Ida 2699-35 GARFE (CRUZ. PÓVOA LANHOSO) BRITEIROS S. SALVADOR (EB23) 19,624
+159 Corvite - Taipas (via Sande S. Clemente) Ida 1691-36 CASTELÃES DE ALÉM TAIPAS (ESC. SEC.) OESTE 12,112
+159 Corvite - Taipas (via Sande S. Clemente) Volta 2836-36 EB23 PONTE IGREJA DE CORVITE 4,847
+159 Corvite - Taipas (via Sande S. Clemente) Ida 1692-36 IGREJA S. CLEMENTE TAIPAS (ESC. SEC.) OESTE 5,542
+159 Corvite - Taipas (via Sande S. Clemente) Ida 1693-36 IGREJA DE CORVITE TAIPAS (ESC. SEC.) OESTE 5,176
+159 Corvite - Taipas (via Sande S. Clemente) Volta 2701-36 TAIPAS (ESC. SEC.) OESTE IGREJA S. CLEMENTE 4,855
+159 Corvite - Taipas (via Sande S. Clemente) Volta 2702-36 TAIPAS (ESC. SEC.) OESTE IGREJA DE CORVITE 6,819
+159 Corvite - Taipas (via Sande S. Clemente) Volta 2704-36 TAIPAS (ESC. SEC.) OESTE IGREJA DE CORVITE 10,712
+160 Circular Taipas - Brito - Campelos - Taipas Volta 1698-37 P. INDUSTRIAL PONTE (ROT. NASCENTE)TAIPAS (ESC. SEC.) ESTE 12,169
+160 Circular Taipas - Brito - Campelos - Taipas Ida 1696-37 TAIPAS (ESC. SEC.) OESTE TAIPAS (PERIGOSA) 21,273
+160 Circular Taipas - Brito - Campelos - Taipas Ida 1697-37 TAIPAS (ESC. SEC.) OESTE TAIPAS (PERIGOSA) 15,562
+160 Circular Taipas - Brito - Campelos - Taipas Volta 2837-37 TAIPAS (PERIGOSA) TAIPAS (ESC. SEC.) ESTE 16,067
+161 Taipas - Guimarães (via Caneiros) Ida 1710-38 TAIPAS (PERIGOSA) CENTRAL DE CAMIONAGEM (TERMINAL) 7,402
+161 Taipas - Guimarães (via Caneiros) Volta 1734-38 CENTRAL DE CAMIONAGEM (TERMINAL)TAIPAS (PERIGOSA) 7,226
+161 Taipas - Guimarães (via Caneiros) Volta 1728-38 CENTRAL DE CAMIONAGEM (TERMINAL)TAIPAS (ESC. SEC.) OESTE 8,907
+161 Taipas - Guimarães (via Caneiros) Ida 1707-38 TAIPAS (PERIGOSA) CENTRAL DE CAMIONAGEM (TERMINAL) 8,587
+162 Taipas - Guimarães (via Brito) Ida 1772-39 TAIPAS (ESC. SEC.) OESTE CENTRAL DE CAMIONAGEM (TERMINAL) 11,854
+162 Taipas - Guimarães (via Brito) Volta 1800-39 CENTRAL DE CAMIONAGEM (TERMINAL)TAIPAS (ESC. SEC.) ESTE 12,116
+162 Taipas - Guimarães (via Brito) Ida 1758-39 TAIPAS (ESC. SEC.) OESTE CENTRAL DE CAMIONAGEM (TERMINAL) 9,986
+162 Taipas - Guimarães (via Brito) Ida 1761-39 EB23 PONTE CENTRAL DE CAMIONAGEM (TERMINAL) 13,945
+162 Taipas - Guimarães (via Brito) Volta 1785-39 CENTRAL DE CAMIONAGEM (TERMINAL)EB23 PONTE 14,132
+162 Taipas - Guimarães (via Brito) Ida 1757-39 EB1 SANDE VILA NOVA CENTRAL DE CAMIONAGEM (TERMINAL) 7,052
+162 Taipas - Guimarães (via Brito) Volta 1790-39 CENTRAL DE CAMIONAGEM (TERMINAL)TAIPAS (ESC. SEC.) ESTE 10,123
+162 Taipas - Guimarães (via Brito) Volta 1796-39 CENTRAL DE CAMIONAGEM (TERMINAL)EB1 SANDE VILA NOVA 6,550
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1897-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 23,130
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1835-40 CENTRAL DE CAMIONAGEM (TERMINAL)AVEPARK 15,458
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1836-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 16,754
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1837-40 CENTRAL DE CAMIONAGEM (TERMINAL)AVEPARK 14,624
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1838-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 15,921
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1840-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 22,501
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1842-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 24,823
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1885-40 AVEPARK CENTRAL DE CAMIONAGEM (TERMINAL) 16,309
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1889-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 16,541
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1891-40 AVEPARK CENTRAL DE CAMIONAGEM (TERMINAL) 17,577
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1892-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 18,858
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1893-40 AVEPARK CENTRAL DE CAMIONAGEM (TERMINAL) 15,317
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1895-40 TAIPAS (PERIGOSA) CENTRAL DE CAMIONAGEM (TERMINAL) 10,946
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1813-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 14,436
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1834-40 CENTRAL DE CAMIONAGEM (TERMINAL)TAIPAS (PERIGOSA) 10,699
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1859-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 21,867
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1829-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (CASA DO POVO) 24,718
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1861-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 22,679
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1871-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 23,937
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1872-40 BRITEIROS S. SALVADOR (EB23) CENTRAL DE CAMIONAGEM (TERMINAL) 25,539
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1863-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 24,183
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1843-40 CENTRAL DE CAMIONAGEM (TERMINAL)AVEPARK 16,954
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1822-40 CENTRAL DE CAMIONAGEM (TERMINAL)AVEPARK 15,450
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Ida 1824-40 CENTRAL DE CAMIONAGEM (TERMINAL)BRITEIROS S. SALVADOR (ALMEIDA) 23,314
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1864-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 25,822
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 2756-40 BRITEIROS S. SALVADOR (ALMEIDA) CENTRAL DE CAMIONAGEM (TERMINAL) 19,668
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 2757-40 BRITEIROS S. SALVADOR (EB23) TAIPAS (PERIGOSA) 13,777
+163 Guimarães - Brit. Sta. Leocádia (via Esp. Guimarães) Volta 1862-40 TAIPAS (PERIGOSA) CENTRAL DE CAMIONAGEM (TERMINAL) 9,680
+164 Guimarães - Garfe (via Gondomar) Ida 1908-41 CENTRAL DE CAMIONAGEM (TERMINAL)GARFE (CRUZ. PÓVOA LANHOSO) 26,440
+164 Guimarães - Garfe (via Gondomar) Volta 1911-41 GARFE (CRUZ. PÓVOA LANHOSO) CENTRAL DE CAMIONAGEM (TERMINAL) 26,520
+170 Guimarães - Gonça (via S. Torcato) Ida 1931-42 CENTRAL DE CAMIONAGEM (TERMINAL)PEDREIRA DE GONÇA 12,447
+170 Guimarães - Gonça (via S. Torcato) Volta 1964-42 PEDREIRA DE GONÇA CENTRAL DE CAMIONAGEM (TERMINAL) 13,261
+170 Guimarães - Gonça (via S. Torcato) Volta 1965-42 S. TORCATO (SANTUÁRIO) CENTRAL DE CAMIONAGEM (TERMINAL) 8,885
+170 Guimarães - Gonça (via S. Torcato) Ida 1917-42 CENTRAL DE CAMIONAGEM (TERMINAL)S. TORCATO (SANTUÁRIO) 8,140
+170 Guimarães - Gonça (via S. Torcato) Ida 1930-42 CENTRAL DE CAMIONAGEM (TERMINAL)PEDREIRA DE GONÇA 15,115
+171 Quintães - Guimarães (via S. Torcato e Atães) Volta 1979-43 CENTRAL DE CAMIONAGEM (TERMINAL)QUINTÃES 20,557
+171 Quintães - Guimarães (via S. Torcato e Atães) Volta 1977-43 S. TORCATO (EB23) RENDUFE (CASAS NOVAS) 9,276
+171 Quintães - Guimarães (via S. Torcato e Atães) Ida 1976-43 QUINTÃES S. TORCATO (EB23) 8,509
+172 Guimarães - Atães Ida 1988-44 CENTRAL DE CAMIONAGEM (TERMINAL)ATÃES (CAMPO DE JOGOS) 9,730
+172 Guimarães - Atães Volta 2011-44 ATÃES (CAMPO DE JOGOS) CENTRAL DE CAMIONAGEM (TERMINAL) 10,524
+173 S. Torcato (EB23) - Atães (via Gominhães) Ida 2797-45 S. TORCATO (EB23) ATÃES (CAMPO DE JOGOS) 10,962
+173 S. Torcato (EB23) - Atães (via Gominhães) Volta 2798-45 EB1 ALDÃO S. TORCATO (EB23) 2,857
+173 S. Torcato (EB23) - Atães (via Gominhães) Ida 2020-45 S. TORCATO (EB23) EB1 ALDÃO 2,852
+173 S. Torcato (EB23) - Atães (via Gominhães) Volta 2023-45 ATÃES (CAMPO DE JOGOS) S. TORCATO (EB23) 6,677
+180 Pinheiro - Guimarães (via S. Faustino e Covas) Ida 2026-46 PRESA CENTRAL DE CAMIONAGEM (TERMINAL) 24,342
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Ida 2038-47 CENTRAL DE CAMIONAGEM (TERMINAL)S. PAIO DE VIZELA (IGREJA) 13,106
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Ida 2040-47 LARGO DE SÃO SIMÃO S. PAIO DE VIZELA (IGREJA) 4,121
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Volta 2056-47 S. PAIO DE VIZELA (IGREJA) LARGO DE SÃO SIMÃO 4,068
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Volta 2057-47 S. PAIO DE VIZELA (IGREJA) CENTRAL DE CAMIONAGEM (TERMINAL) 13,283
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Ida 2029-47 FLORES GÉMEOS (CRUZ. CALVOS) 3,933
+181 Guimarães - S. Paio de Vizela (via Penteeiros) Volta 2047-47 S. PAIO DE VIZELA (IGREJA) CENTRAL DE CAMIONAGEM (TERMINAL) 17,099
+182 Calvos - Guimarães (via Pinheiro) Ida 2081-48 CALVOS (EB1) ABAÇÃO (IGREJA) 4,277
+182 Calvos - Guimarães (via Pinheiro) Ida 2083-48 CALVOS (EB1) CENTRAL DE CAMIONAGEM (TERMINAL) 10,744
+182 Calvos - Guimarães (via Pinheiro) Volta 2102-48 ABAÇÃO (IGREJA) CALVOS (EB1) 4,261
+182 Calvos - Guimarães (via Pinheiro) Volta 2104-48 CENTRAL DE CAMIONAGEM (TERMINAL)CALVOS (EB1) 11,021
+182 Calvos - Guimarães (via Pinheiro) Volta 2093-48 CENTRAL DE CAMIONAGEM (TERMINAL)LAPA 12,331
+182 Calvos - Guimarães (via Pinheiro) Ida 2064-48 GÉMEOS (CRUZ. CALVOS) CENTRAL DE CAMIONAGEM (TERMINAL) 19,554
+182 Calvos - Guimarães (via Pinheiro) Ida 2071-48 LAPA CENTRAL DE CAMIONAGEM (TERMINAL) 16,304
+182 Calvos - Guimarães (via Pinheiro) Ida 2073-48 ABAÇÃO (EB23) BREIA 3,300
+182 Calvos - Guimarães (via Pinheiro) Ida 2066-48 GÉMEOS (CRUZ. CALVOS) CENTRAL DE CAMIONAGEM (TERMINAL) 15,809
+182 Calvos - Guimarães (via Pinheiro) Ida 2076-48 CALVOS (EB1) CENTRAL DE CAMIONAGEM (TERMINAL) 11,759
+182 Calvos - Guimarães (via Pinheiro) Volta 2089-48 CENTRAL DE CAMIONAGEM (TERMINAL)CALVOS (EB1) 11,573
+182 Calvos - Guimarães (via Pinheiro) Ida 2072-48 LAPA CENTRAL DE CAMIONAGEM (TERMINAL) 12,522
+185 Abação (EB23) - S. Faustino (via Calvos) Ida 2113-49 ABAÇÃO (EB23) S. FAUSTINO (SINO) 20,280
+185 Abação (EB23) - S. Faustino (via Calvos) Ida 2111-49 ABAÇÃO (EB23) S. FAUSTINO (SINO) 14,852
+188 Guimarães - S. Faustino Ida 2115-50 LARGO DE SÃO SIMÃO S. FAUSTINO (SINO) 2,583
+188 Guimarães - S. Faustino Ida 2116-50 CENTRAL DE CAMIONAGEM (TERMINAL)S. FAUSTINO (SINO) 10,402
+188 Guimarães - S. Faustino Volta 2123-50 S. FAUSTINO (SINO) LARGO DE SÃO SIMÃO 2,600
+188 Guimarães - S. Faustino Volta 2131-50 S. FAUSTINO (SINO) CENTRAL DE CAMIONAGEM (TERMINAL) 10,600
+188 Guimarães - S. Faustino Volta 2125-50 S. FAUSTINO (SINO) CENTRAL DE CAMIONAGEM (TERMINAL) 14,387
+
+189 Calvos - Guimarães (via Penteeiros) Ida 2134-51 LAPA CENTRAL DE CAMIONAGEM (TERMINAL) 17,735
+192 Serzedelo - Lordelo (Est.) (via ZI Agras) Ida 2884-52 SERZEDELO (IGREJA) ESTAÇÃO CP LORDELO 10,121
+192 Serzedelo - Lordelo (Est.) (via ZI Agras) Volta 2888-52 ESTAÇÃO CP LORDELO SERZEDELO (IGREJA) 10,297
+N11 Circular Nespereira - Carvalhos Ida 2157-53 CAMPO DA FEIRA CAMPO DA FEIRA 22,378
+N21 Circular Pedroso - Belos Ares Ida 2162-54 S. DÂMASO NORTE S. DÂMASO NORTE 10,756
+N21 Circular Pedroso - Belos Ares Ida 2164-54 CAMPO DA FEIRA BELOS ARES 8,327
+N41 Circular Silvares - Parque Industrial Ida 2172-55 S. DÂMASO NORTE S. DÂMASO SUL 18,926
+N42 Circular Fermentões - Parque Industrial Ida 2179-56 S. DÂMASO NORTE S. DÂMASO SUL 19,450
+N51 Costa (São Roque) Volta 2188-57 EB1 S. ROQUE CAMPO DA FEIRA 3,627
+N51 Costa (São Roque) Ida 2822-57 CAMPO DA FEIRA EB1 S. ROQUE 2,914
+N71 Santo Amaro (via Salgueiral) Volta 2195-58 CEMITÉRIO DE MASCOTELOS TOURAL 4,134
+N71 Santo Amaro (via Salgueiral) Ida 2190-58 TOURAL IGREJA DE SANTO AMARO 3,463
+N82 Circular Silvares - Gondar Ida 2198-59 S. GONÇALO S. GONÇALO 27,064
+N83 Circular S. Martinho Candoso - Gondar Ida 2203-60 S. GONÇALO TOURAL 27,465
+
+Categoria Subcategoria Número de veículos
+Gasóleo 57
+Elétrico 26
+Gás Natural 0
+EURO V 33
+EURO VI 24
+Elétrico 26
+Sim 83
+Não 0
+23 7
+52 1
+68 21
+69 4
+70 3
+76 9
+77 1
+80 21
+81 2
+87 2
+91 3
+92 2
+94 1
+99 5
+100 1
+Fonte de energia
+Norma ambiental EURO
+Acessibilidade a pessoas com mobilidade condicionada
+Lotação
+
+Suportes Suportes de Títulos de Transportes 27 980,66 €
+Bilhete Inteiro 682 692,88 €
+Bilhete Meio 5 950,61 €
+Pré-Comprado Inteiro 69 122,64 €
+Passe Mensal 35 930,85 €
+Passe Zona Cidade CIM AVE 7 679,34 €
+Passe Mensal CIM AVE 503 470,15 €
+Passe Utente CP CIM AVE 0,00 €
+Passe Utente CP 80,70 €
+Passe Sub18+TP 0,00 €
+Passe Sub23+TP 0,00 €
+Passe Antigo Combatente 0,00 €
+Passe 65+ 480 593,96 €
+Passe Reformado 67 336,70 €
+Passe Universitario Residente 0,00 €
+Passe Universitario Não Residente 6 851,90 €
+Passe Universitário Zona Cidade 0,00 €
+P. Pessoa Mobilidade Condicionada 21 457,12 €
+Passe Acompanhante PPMC 0,00 €
+Receita Tarifária Total 1 881 166,85 €
+Receitas tarifárias (montantes em Euros sem IVA)
+Títulos
+Ocasionais
+Passes
+
+Motivo Nº de reclamações
+Exercício da atividade 32
+Informação/Informação pré-contratual 0
+Práticas comerciais/Publicidade 0
+Qualidade de atendimento 31
+Irregularidades no Livro de Reclamações 0
+Cumprimento defeituoso/Não conforme o contrato/Incumprimento 0
+Cláusulas contratuais/Alteração clausulas contratuais 0
+Preços/Pagamentos/Bilheteiras 2
+Tarifário 0
+Faturação/Faturação incorreta 0
+Assistência Tecnica/Assistencia pos-venda 0
+Meio ambiente 0
+Higiene e Segurança 0
+Horários de funcionamento 0
+Infraestruturas 0
+Proteção de dados pessoais 0
+Outros 0
+Total 65
+
+Designação Social do operador de serviço público e marca com que operam - Vitrus Ambiente, EM, SA / Vitrusbus
+Forma de exploração do serviço público de transporte de passageiros e respetiva forma
+de contratação. - Contrato-Programa / Operador Interno De acordo com os artigos 16.º ao 19.º do RJSPTP
+Natureza do contrato de serviço público. - Contrato de Prestação de Serviço
+Se o contrato é um contrato de concessão ou um
+contrato de prestação de serviço, conforme definição
+do artigo 20.º do RJSPTP
+Caracterização do Contrato de Serviço Público:
+ (i) Designação do contrato; Contrato de Serviço Público de Transporte Passageiros Flexível no Município de Guimarães
+ (ii) Identificação da autoridade de transportes concedente; Município de Guimarães
+ (iii) Vigência do contrato (datas de início e de fim); 08/10/2024 a 08/10/2033
+ (iv) Estão definidas obrigações de serviço público (S/N); Sim
+ (v) Estão definidas compensações financeiras (S/N); Sim
+ (vi) Está definido regime de incentivos e penalidades associado ao desempenho. Sim
+ (v) É atribuída exclusividade (S/N); Não
+ (vi) Modos de transporte. Transporte Rodoviário Coletivo de Passageiros
+Lista das rotas (linhas) contratadas divididas por:
+ (i) Transporte municipal, intermunicipal e inter-regional;
+ (ii) Transporte regular e transporte flexível.
+Mapa do município com o desenho das rotas (linhas) contratadas e identificação das
+povoações com mais de 40 habitantes. - Em anexo
+N.º de linhas exploradas e respetiva extensão. Un.
+Nº de linhas e Zonas: 12
+Extensão total: 11,171 kms
+Dados por linha em anexo
+N.º de circulações:
+ (i) Totais anuais; 206
+ (i) Média diária nos dias úteis; 4
+ (ii) Média diária nos fins de semana e feriados. 1
+% da população do município servida por transportes públicos. % 100,00%
+Após a entrada em funcionamento no dia 8 de outubro
+de 2024, do serviço de Transporte Público Flexível
+operado pela empresa municipal Vitrus Ambiente E.M,
+S.A, foi atingida a cobertura total de acesso à rede de
+TP.
+N.º de veículos.km produzidos. 103 VKm 1,021
+N.º de lugares.km produzidos. 106 LKm 0,043
+Indicação das opções disponíveis em termos de títulos de transporte, designadamente
+o preço:
+ (i) Títulos ocasionais;
+ (ii) Títulos monomodais;
+ (iii) Títulos intermodais e/ou assinaturas;
+N.º de passageiros transportados. Un. 814
+N.º de passageiros.km transportados. 103 PKm 2
+Taxa de ocupação média anual da frota. % 4,28%
+Taxa de fraude detetada. % 0
+Número de veículos da frota por:
+ (i) Fonte de energia (gasóleo, GPL, gás natural, eletricidade e outros);
+ (ii) Norma ambiental EURO;
+ (iii) Acessibilidade a pessoas com mobilidade condicionada (S/N); Sim
+ (iv) Lotação. 3 veículos com lotação de 22 passageiros
+Idade média da frota Anos 0,25
+Receitas tarifárias anuais por título de transporte. 103 Euro € 0,01 Apenas são vendidos bilhetes.
+Gastos totais da Autoridade de Transporte com o serviço público de transporte de
+passageiros, por contrato, discriminando a seguinte informação:
+ (i) Compensações por obrigações de serviço público; 0
+ (ii) Remuneração pela prestação do serviço público; 75,49839
+ (iii) Compensações tarifárias (por ex. 4_18, Sub_23, Social+); 0
+ (iv) Outros subsídios à exploração; 0
+ (v) Outros gastos. 0
+Valor do investimento da Autoridade de Transporte no âmbito do serviço público de
+transporte de passageiros:
+ (i) Em material circulante; 0
+ (ii) Outros investimentos. 0
+Índice de regularidade (IR). % 10,82% IR = (N.º de serviços suprimidos)/(N.º total de serviços programados).
+Índice de pontualidade (IP5). % 20,12% IP5 = (N.º de serviços com atraso ≤ 5 min. no destino)/(N.º total de serviços).
+Resumo dos resultados do último inquérito de satisfação realizado aos passageiros e
+potenciais passageiros. -
+N.º de reclamações por motivo. Un. 1 (Exercício da Atividade)
+ANEXO I
+Relatório previsto no n.º 1 do artigo 18.º -A do regulamento 273/2021
+-
+- Em anexo
+Un.
+A operação do serviço de Transporte Público Flexível da
+Vitrusbus iniciou no dia 8 de outubro de 2024, com as
+primeiras reservas a serem recebidas no dia anterior.
+Identificação dos
+Operador e dos
+Contratos de
+Serviço Público
+3 (eletricidade)
+Oferta
+Procura
+Material circulante
+(frota)
+Indicadores
+EconómicoFinanceiros
+103 Euro
+103 Euro
+-
+Un.
+0 a 2 1,75 €
+3 a 4 2,45 €
+5 a 6 3,25 €
+7 a 8 3,60 €
+9 a 10 3,80 €
+11 a 12 3,95 €
+13 a 14 4,15 €
+15 a 16 4,40 €
+17 a 18 4,75 €
+19 a 20 5,05 €
+Os portadores de passe válido do
+operador municipal e intermunicipal
+de SPTP, Guimabus e Ave Mobilidade e
+os passageiros com menos de 3 anos
+não pagam bilhete.
+Distância (km) Bilhete
+
+Atendimento ao público: formas e locais de atendimento (físicos, telefónicos, online
+pontos de vendas de bilhetes, aplicações informáticas. -
+Formas e Locais de Atendimento:
+ - Telefónico – 800 50 60 60 – Dias Úteis, das 09:30 às
+12:30 e das 14:30 às 17:30;
+Pontos de Vendas de Bilhetes:
+ - Venda a bordo;
+ - Aplicações Informáticas: Site, Aplicação (disponível
+para Android e iOS).
+N.º de acidentes de viação (safety ), por tipo de acidente. Un. 0
+N.º de incidentes de segurança (security ) Un. 0
+Emissões de gases com efeito de estufa (GEE) associado à prestação do serviço de
+transporte de passageiros. tCO2eq 0
+Consumo anual de energia, por fonte de energia (gasóleo, GPL, gás natural,
+eletricidade e outros). L, KWh, m3
+Gasóleo: 0 L
+Eletricidade: 6369,47 kWh
+Gás Natural: 0 m3
+Sustentabilidade
+Nota 1: Nas informações solicitadas são válidos os conceitos e definições do RJSPTP, do Regulamento n.º 430/2019, publicado no Diário da República, 2.ª série, n.º 94, de 16 de maio de 2019 e da Informação da AMT às autoridades de transporte relativa aos
+indicadores de monitorização e supervisão, de 27 de setembro de 2018 e publicado no seu site.
+Nota 2: A ausência de informação total ou parcial ou com a desagregação sugerida, poderá/deverá ser justificada, designadamente em função de circunstancialismos locais.
+Nota 3: Caso sejam necessários esclarecimentos, poderá ser utilizado o endereço: ds@amt-autoridade.pt
+Qualidade e
+segurança
+
+Código Designação
+Abrangência
+(Municipal/Intermunicipal/InterRegional)
+Tipologia (Regular/Flexível) Extensão (km)
+Circuito 1 Circuito Polvoreira Transporte Municipal Transporte Flexível 5,324
+Circuito 2 Circuito Pencelo Transporte Municipal Transporte Flexível 5,848
+Zona 1 Zona 1 Transporte Municipal Transporte Flexível Flexível
+Zona 2 Zona 2 Transporte Municipal Transporte Flexível Flexível
+Zona 3 Zona 3 Transporte Municipal Transporte Flexível Flexível
+Zona 4 Zona 4 Transporte Municipal Transporte Flexível Flexível
+Zona 5 Zona 5 Transporte Municipal Transporte Flexível Flexível
+Zona 6 Zona 6 Transporte Municipal Transporte Flexível Flexível
+Zona 7 Zona 7 Transporte Municipal Transporte Flexível Flexível
+Zona 8 Zona 8 Transporte Municipal Transporte Flexível Flexível
+Zona 9 Zona 9 Transporte Municipal Transporte Flexível Flexível
+Zona 10 Zona 10 Transporte Municipal Transporte Flexível Flexível

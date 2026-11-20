@@ -1,0 +1,941 @@
+[versão não confidencial]
+PARECER N.º 12/AMT/2020
+GABINETE DE ASSUNTOS JURÍDICOS
+I) DO OBJETO
+1. A Câmara Municipal de Guimarães remeteu à Autoridade da Mobilidade e dos
+Transportes (AMT) – ofício n.º 3238, recebido em 12 de novembro de 2019 – no âmbito
+do procedimento pré-contratual de concurso público para a Concessão de Serviço
+Público de Transporte Rodoviário de Passageiros do Município de Guimarães, o i)
+Relatório de Modelo de Organização e Gestão, o ii) Caderno de Encargos e respetivos
+anexos, iii) o Programa de Procedimento, o iv) Ata da Deliberação da Câmara Municipal
+e Certidão da Deliberação da Assembleia Municipal de Guimarães, v) a Minuta do
+Acordo interadministrativo de Colaboração e Coordenação de Competências, a
+estabelecer entre o Município de Guimarães, CIM do Ave e os Municípios de Vila Nova
+de Famalicão, Vizela e Póvoa de Lanhoso, vi) o Contrato de Concessão de exploração
+do Serviço Público de Transportes Coletivos Urbanos de Guimarães, e, vii) os Relatórios
+de Diagnóstico da Atual Rede e Propostas de Rede, tudo, para efeitos de emissão de
+parecer prévio vinculativo, conforme previsto no Decreto-Lei n.º 78/2014, de 14 de maio.
+2. O presente parecer inscreve-se no cumprimento da missão da AMT enquanto regulador
+económico independente, nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, que
+aprova os estatutos da AMT (Estatutos) e de acordo com as exigências que emanam da
+Lei-Quadro das Entidades Reguladoras Independentes, aprovada pela Lei n.º 67/2013,
+de 28 de agosto.
+3. A sua emissão fundamenta-se, assim, nas atribuições da AMT, previstas no n.º 1 do
+artigo 5.º dos Estatutos, designadamente, de zelar pelo cumprimento do enquadramento
+legal, nacional, internacional e da União Europeia, aplicável à regulação, supervisão,
+promoção e defesa da concorrência, visando o bem público, a defesa dos interesses dos
+cidadãos e dos operadores económicos, e de monitorização e acompanhamento das
+atividades dos mercados da mobilidade e dos transportes terrestres e fluviais, bem como
+na avaliação das políticas referentes ao Ecossistema da Mobilidade e dos Transportes.
+4. Acrescem, ainda, nas atribuições da AMT:
+➢ A definição das regras e dos princípios gerais aplicáveis às obrigações de
+serviço público no setor regulado, com respeito do princípio da igualdade, da
+
+transparência e da proporcionalidade das compensações financeiras, bem
+como ao estabelecimento dos níveis de serviço1;
+➢ Fiscalizar e auditar o cumprimento das obrigações legais, regulamentares e
+contratuais assumidas pelos concessionários e pelos prestadores do serviço
+público sujeitos à sua jurisdição, propondo, se for o caso, a aplicação de
+sanções contratuais2;
+➢ Proceder ao controlo anual das compensações concedidas às entidades que
+asseguram os serviços de interesse económico geral nos setores regulados3;
+e
+➢ Promover a defesa dos direitos e interesses dos consumidores e utentes em
+relação aos preços, aos serviços e respetiva qualidade4.
+5. Por outro lado, o presente parecer inscreve-se também no âmbito da reforma estrutural
+consubstanciada na Lei n.º 52/2015, de 9 de junho, que aprovou o Regime Jurídico do
+Serviço Público de Transportes de Passageiros (RJSPTP), que veio alterar um sistema
+que vigorava desde 1945/1948, bem como do Regulamento (CE) n.º 1370/2007 do
+Parlamento Europeu e do Conselho, de 23 de outubro de 2007, alterado pelo
+Regulamento (UE) n.º 2016/2338, do Parlamento Europeu e do Conselho de 14 de
+dezembro de 2016, relativo aos serviços públicos de transporte ferroviário e rodoviário
+de passageiros.
+6. Nesta análise procurar-se-á aprofundar e avaliar, não apenas as diversas questões
+regulatórias subjacentes ao pedido de parecer, como também, o que respeita aos
+instrumentos contratuais e legais enquadradores, para os efeitos da alínea b) do n.º 2 do
+artigo 34.º dos Estatutos, que determina que, compete à AMT "Emitir parecer prévio
+vinculativo sobre peças de procedimento de formação dos contratos de concessão ou
+de prestação de serviços públicos nos setores regulados, ou sobre alterações
+promovidas aos contratos em vigor”.
+7. Em primeiro lugar, o enquadramento e a compliance com, entre outros:
+➢ O estabelecido na Lei n.º 52/2015, de 9 de junho, no Regulamento e na demais
+legislação aplicável à descentralização administrativa e subvenções públicas;
+➢ A política de descentralização administrativa de competências prevista no
+RJSPTP e no Regulamento, na Lei n.º 75/2013, de 12 de setembro, e na Lei
+
+1 Alíneas c) e d) do n.º 2 do artigo 34.º e alíneas e) e k) do n.º 1 e a) do n.º 2 do artigo 5.º dos Estatutos.
+2 Alíneas c) e f) do n.º 2 do artigo 5.º e alínea b) do n.º 3 do artigo 34.º dos Estatutos.
+3 Alínea c) do n.º 3 do artigo 34.º dos Estatutos.
+4 Alínea m) do n.º 1 e alíneas j) e k) do n.º 2 do artigo 5.º dos Estatutos.
+
+n.º 73/2013, de 3 de setembro, que estabelecem o regime jurídico e financeiro
+das autarquias locais, comunidades intermunicipais e áreas metropolitanas; e
+➢ Com as regras do Código dos Contratos Públicos, aplicáveis.
+8. Note-se que este quesito de conformidade com todas as disposições legais aplicáveis
+no ordenamento jurídico resulta linearmente do facto inilidível de a AMT, tal como outros
+reguladores económicos, ainda que independentes, não serem micro legisladores.
+Nesse sentido, é condição necessária e, só depois da sua verificação positiva, se torna
+legítimo a AMT prosseguir a análise para as questões regulatórias subsequentes.
+9. Em segundo lugar, através do modelo de regulação da AMT, pretende-se contribuir para
+o suprimento de falhas de mercado, sem gerar falhas de Estado ou de entidades e/ou
+atos normativos que, de algum modo, o representam, e construir um paradigma de
+concorrência não falseada, sem restrições ou distorções, protegendo o bem público da
+mobilidade eficiente e sustentável, promovendo, ainda, a confluência dos paradigmas
+societais subjacentes às diferentes racionalidades plurais e não aditivas, cada qual na
+sua autonomia própria e de verificação cumulativa, nomeadamente, i) a dos investidores,
+ii) a dos profissionais/utilizadores/utentes/consumidores e/ou cidadãos e iii) a dos
+contribuintes.
+10. É de sublinhar que os fatores determinantes destes equilíbrios são de tal modo
+diferenciados, quer no objeto, quer nas metodologias, quer ainda nos contextos
+relevantes, que cada uma daquelas racionalidades possui uma autonomia muito vincada.
+11. Daqui decorre que a qualidade intrínseca dos atos regulatórios da AMT é a visão
+integrada daqueles equilíbrios, e de forma alguma, qualquer mecanismo aditivo que
+dissolvesse as especificidades de uma racionalidade em prejuízo de qualquer uma das
+outras.
+
+II) DO ENQUADRAMENTO
+12. A Câmara Municipal de Guimarães, em cumprimento do disposto na alínea b) do n.º 2
+do artigo 34.º do Decreto-Lei n.º 78/2014, de 14 de maio, veio solicitar à AMT a emissão
+do parecer prévio vinculativo sobre as peças de procedimento concursal com vista à
+concessão do Serviço Público de Transporte Rodoviário de Passageiros do Município de
+Guimarães.
+13. De acordo com o estabelecido nos artigos 10.º e 11.º do regime transitório da Lei n.º
+52/2015, de 9 de junho, os títulos de concessão para a exploração do serviço público de
+transporte de passageiros por modo rodoviário, atribuídos ao abrigo do, então,
+
+Regulamento de Transportes em Automóveis (RTA) – revogado pela Lei n.º 52/2015 –
+mantinham-se em vigor até ao final do respetivo prazo de vigência ou, até 3 de dezembro
+de 2019, consoante a data que ocorresse primeiro, não podendo, porém, o prazo de
+vigência terminar após esta data.
+14. Tendo em consideração aquele desígnio legal, por despacho de 7 de novembro de 2019,
+a Câmara Municipal de Guimarães autorizou, provisoriamente, às empresas ARRIVA
+PORTUGAL – Transportes, Lda, TRANSDEV NORTE, Sa e TUG – TRANSURBANOS
+DE GUIMARÃES – Transportes públicos, Lda, a explorar, respetivamente, todo um
+conjunto de linhas de serviço público de transporte de passageiros, nos termos e
+condições que lhes foram devidamente notificados.
+15. Prorrogados que foram os títulos de concessão, aqueles operadores de serviço público
+continuaram a explorar um conjunto de linhas de transporte público rodoviário regular de
+passageiros, ao abrigo de autorizações provisórias atribuídas pela Câmara Municipal de
+Guimarães, de acordo com o previsto nos artigos 10.º e 11.º da Lei n.º 52/2015, de 9 de
+junho, e cujo prazo veio a terminar no dia 3 de dezembro de 2019.
+16. A fim de ser evitada qualquer disrupção, foi aprovado o Decreto-Lei n.º 169.º-A/2019, de
+29 de novembro, permitindo-se, assim, “que se possam prorrogar os atuais títulos
+habilitantes do transporte rodoviário de passageiros — as autorizações provisórias,
+contratos de serviço público, nos termos latos admitidos pelo Regulamento — se, previamente
+a tal prorrogação, for iniciado o procedimento de seleção de novo operador de transporte
+de passageiros,(…)”.
+17. Razão pela qual, resulta expressamente do artigo 2.º do Decreto-Lei n.º 169.º-A/2019,
+de 29 de novembro, que, “Quando tenham sido, comprovadamente, iniciados os
+procedimentos pré -contratuais de seleção de operadores de serviço público ou de
+contratualização de serviços públicos de transportes, incluindo transporte escolar
+quando incida em transporte público, através da submissão das peças de procedimento
+a parecer da Autoridade da Mobilidade e dos Transportes (AMT), nos termos na alínea
+b) do n.º 2 do artigo 34.º do Decreto -Lei n.º 78/2014, de 14 de maio, na sua redação
+atual, antes de 3 de dezembro de 2019, as autoridades de transportes podem determinar
+a prorrogação dos instrumentos contratuais e das autorizações provisórias em vigor, até
+à conclusão dos mesmos procedimentos e não excedendo o prazo máximo de dois anos,
+de forma a assegurar a manutenção do serviço público de transporte de passageiros,
+sem risco de disrupção ou disrupção efetiva.”
+18. O Município de Guimarães promoveu a aprovação das peças procedimentais – nos dias
+12 e 27 de setembro de 2019 – para lançamento do concurso público para seleção do novo
+
+operador de transporte de passageiros com o qual irá celebrar um contrato de serviço
+público, e remeteu as respetivas peças para parecer prévio da AMT em 12 de novembro
+de 2019.
+19. E fê-lo, antes de 3 de dezembro de 2019, em cumprimento do legalmente previsto – cfr.
+n.º 1 do artigo 10.º da Lei n.º 52/2015, de 9 de junho, que determina que “A autoridade
+de transportes competente pode, por razões de interesse público relevante devidamente
+fundamentado, autorizar a manutenção dos títulos de concessão para a exploração do
+serviço público de transporte de passageiros por modo ferroviário atribuídos ao abrigo
+do RTA, em regime de exploração provisória, após as datas resultantes da aplicação do
+artigo anterior, não podendo o respetivo prazo de vigência terminar, em caso algum,
+após 3 de dezembro de 2019.”
+20. De forma a continuar a ser assegurada a prestação do serviço público de transporte de
+passageiros, sem qualquer disrupção, e de acordo com o regime previsto no DecretoLei n.º 169.º-A/2019, de 21 de novembro, a Câmara Municipal de Guimarães deliberou,
+em 2 de dezembro de 2019, prorrogar as autorizações provisórias emitidas aos
+operadores de transportes públicos:
+➢ ARRIVA PORTUGAL – Transportes, Lda;
+➢ TRANSDEV NORTE, Sa e
+➢ TUG – TRANSURBANOS DE GUIMARÃES – Transportes públicos, Lda.
+21. Prorrogações essas concedidas até à conclusão do procedimento de concurso público e
+entrada em funcionamento do operador ao qual venha a ser adjudicado, com o limite
+máximo de 2 anos.
+22. Ademais, tendo como fronteira aquele horizonte temporal, o Município Guimarães,
+enquanto Autoridade de Transportes competente quanto aos serviços públicos de
+transporte rodoviário de passageiros de âmbito municipal que se desenvolvam na
+respetiva área geográfica, está a tomar todas as diligências necessárias de forma a
+promover a abertura de um concurso público.
+23. É de sublinhar que, o Município de Guimarães pretende celebrar um acordo
+interadministrativos com a Comunidade Intermunicipal do Ave e um Município com vista
+à colaboração e coordenação de competências relativa à organização de um conjunto
+de serviços públicos de transporte rodoviário de passageiros cujo percurso entra no
+território de municípios imediatamente contíguos.
+24. Decorre da cláusula 10.ª da minuta de acordo, constante do processo, que o prazo de
+vigência “(…) entra em vigor na data da sua assinatura e tem a duração de 5 (cinco)
+
+anos, renovando-se automaticamente, por iguais períodos, desde que não seja
+denunciado pro acordo de ambas as Partes.”
+25. Ora, se a celebração do acordo em questão visa o estabelecimento das regras sobre o
+exercício coordenado das competências das Partes enquanto Autoridades de
+Transportes, nos termos do RJSPTP, relativamente aos serviços públicos de transporte
+de passageiros objeto do procedimento concursal, com o período de exploração de 10
+anos, naturalmente, o prazo de vigência do referido acordo também deveria ser de 10
+anos, por forma a minimizar riscos de disrupção na prestação dos serviços.
+26. Conforme já salientado, o concurso público a promover pelo Município de Guimarães –
+enquanto Autoridade de Transportes – tem como objeto a concessão de Serviço Público
+de Transporte Rodoviário de Passageiros, nos termos do Caderno de Encargos, o qual
+se passará a analisar em III).
+
+III) DA ANÁLISE
+a) O procedimento concursal e o contrato de serviço público
+27. O procedimento ora em análise (concurso público), apresenta a especificidade de
+apresentar duas fases, tendo em conta que os serviços de transporte de passageiros (de
+âmbito municipal) se encontram a ser prestados, pela empresa TUG, cujo contrato de
+concessão (prorrogado em 2016) termina em 1 de março de 2021.
+28. Assim, ainda que o Concurso abranja as duas tipologias de Serviços (municipais e
+urbanos), os municipais (prestados pelos TUG, até 1 de março de 2021, no âmbito do
+contrato em vigor) apenas poderão ser (também) prestados pelo Adjudicatário a partir
+dessa data. Ou seja, esta especificidade determina a necessidade de serem
+considerados vários “momentos” relativos às duas fases do Contrato, com reflexos nos
+Períodos Transitórios (Inicial e Final).
+29. No que respeita aos aspetos económico-financeiros do procedimento (que deverão
+conformar os fluxos financeiros do Contrato a celebrar, com especial relevância no que
+respeita aos pagamentos de compensações financeiras em razão de OSP), verifica-se,
+mesmo após a apresentação de pedidos de esclarecimentos pela AMT à Entidade
+Adjudicante, que subsistem algumas questões que merecem ser refletidas e
+ponderadas, antes que o procedimento de contratação pública seja efetivamente
+lançado.
+30. Com efeito, continua a verificar-se que a informação prestada ainda não foi apresentada
+de uma forma suficientemente desagregada, de modo a permitir a avaliação objetiva e
+
+transparente dos parâmetros que suportam o valor do Contrato e respetivas
+compensações por OSP.
+Concretizando.
+31. Tendo em conta que o Contrato a celebrar tem duas fases (uma primeira fase, em que o
+Adjudicatário apenas presta Serviços de âmbito Municipal, não incluídos no contrato de
+concessão celebrado entre o Município de Guimarães e os TUG, passando a prestar,
+também, a partir da segunda fase, Serviços Urbanos, com efeitos à data do termo desse
+contrato, i.e. a partir de 2 de março de 2021), considera-se que deverá ser explicitado,
+tanto na fundamentação, como nas Peças do Procedimento, quais as obrigações
+inerentes a cada uma fases do Contrato.
+32. Clarificação essa essencial, tendo em conta que a informação prestada em sede de
+procedimento de contratação pública deve ser percetível por todos os concorrentes, de
+forma a permitir a elaboração de Propostas e a proporcionar um level playing field,
+efetivamente, concorrencial.
+Mais.
+33. A referida “clareza”, em sede de procedimento, mitiga a necessidade de solicitação de
+esclarecimentos, diminui a probabilidade de o concurso ficar “deserto”, bem como os
+riscos de, no futuro, se promover uma deficiente execução contratual.
+34. Razão pela qual, se apresentam os elementos relativamente aos quais considera a AMT
+ser necessário apresentar uma reformulação e/ou elementos adicionais, a saber:
+➢ O valor global do contrato de €91.898.474 (noventa e um milhões, oitocentos e
+noventa e oito mil, quatrocentos e setenta e quatro Euros), conforme cláusula
+49ª, deverão ser desagregadas (quantificadas) as suas várias componentes (i)
+compensação OSP; (ii) proveitos relativos às atividades objeto da Concessão,
+nomeadamente as receitas resultantes da cobrança dos Tarifários; (iii)
+proveitos das atividades acessórias e (iv) outras compensações, atribuídas
+pelo Estado ou por qualquer outra entidade pública, relativas às atividades
+concessionadas.
+➢ Deverá existir uma estimativa da receita, com fundamentação na procura de
+transporte público de passageiros, para cada uma das fases.
+➢ Deverá existir clarificação, nomeadamente, em Anexo ao Caderno de
+Encargos, da caraterização da Rede e identificação das Linhas e respetivos
+veículos quilometro, para cada uma das fases.
+
+➢ Desagregação da remuneração (Euros/Vkm), para cada uma das fases.
+35. Adicionalmente e tendo, ainda, em conta, a fundamentação apresentada, e considerando
+que foram previstos dois Cenários, um Moderado e outro Pessimista (tendo a opção sido
+por este último), recomenda-se reforçar o racional subjacente a tal opção, tendo em
+conta a sua relevância para o cálculo de compensação OSP, explicitando, ainda, quais
+os pressupostos em termos de procura, tendo em conta as duas fases contratuais.
+36. Note-se que a não desagregação de informação no nível que seria desejável dificulta
+antecipar se o modelo remuneratório e os pressupostos tidos em conta para calcular a
+remuneração têm aderência suficiente à realidade, considerando que se trata de uma
+rede nova, com obrigações igualmente novas.
+37. Deverá ainda sublinhar-se que o pagamento de obrigações de serviço público adicionais
+– sujeito a novo contrato ou alteração contratual – não podem deixar de ser sujeitas a
+parecer da AMT, assim como quaisquer pagamentos adicionais e/ou complementares
+aos definidos no Contrato, nomeadamente, os que resultem de ajustamentos e/ou de
+alteração contratual, incluindo as respeitantes a modificações objetivas que se traduzam
+no direito à reposição do equilíbrio económico-financeiro do Contrato.
+38. Será também de incluir uma cláusula que se destine a regular e prevenir situações de
+sobrecompensação, tal como existe para a situação de reposição do equilíbrio financeiro
+da concessão, para evitar a subcompensação, o que colocaria em risco a qualidade do
+serviço, o cumprimento das obrigações contratadas e, no limite, a subsistência do próprio
+contrato.
+39. Esta necessidade de análise por parte da AMT justifica-se, tendo em conta a
+racionalidade do Regulamento e da sua declinação nacional através do RJSPTP, sendo
+que, um dos aspetos essenciais na aferição das compensações financeiras atribuídas
+em razão de OSP, prende-se, precisamente, com a necessidade de evitar
+sobrecompensação5.
+Continuando.
+40. O artigo 3.º do RJSPTP, em estrita consonância com o artigo 2.º do Regulamento
+aprova estabelece que:
+
+5 Tendo igualmente em conta as orientações da Comissão Europeia que referem que “Para a consecução dos
+objetivos do regulamento, ou seja, para garantir a segurança, a boa relação custo-eficácia e a alta qualidade dos
+serviços de transporte de passageiros, as autoridades competentes têm de zelar pela sustentabilidade económica
+e financeira da prestação desses serviços” Ponto 2.2.5. da Comunicação da Comissão Orientações para a
+interpretação do Regulamento (CE) n.º 1370/2007 relativo aos serviços.
+
+➢ «Autoridade de transportes» é uma qualquer autoridade pública com
+atribuições e competências em matéria de organização, exploração, atribuição,
+investimento, financiamento e fiscalização do serviço público de transporte de
+passageiros, bem como de determinação de obrigações de serviço público e
+de tarifários numa determinada zona geográfica de nível local, regional ou
+nacional, ou qualquer entidade pública por aquela investida dessas atribuições
+e competências, sendo que esta expressão pode também referir-se a um
+agrupamento de autoridades;
+➢ «Serviço público de transportes de passageiros municipal» é o serviço público
+de transporte de passageiros que visa satisfazer as necessidades de
+deslocação dentro de um município e que se envolve integral ou
+maioritariamente dentro da respetiva área geográfica, mesmo que existam
+linhas secundárias e complementares ou outros elementos acessórios dessa
+atividade que entrem no território de municípios imediatamente contíguos.
+41. De acordo com o disposto no artigo 6.º do RJSPTP, os municípios são as autoridades
+de transportes competentes quanto aos serviços públicos de transporte de
+passageiros municipais, e nos termos do artigo 7.º, as comunidades intermunicipais
+são as autoridades de transportes competentes quanto aos serviços públicos de
+transporte de passageiros intermunicipais.
+42. O Município de Guimarães, na qualidade de Autoridade de Transportes – não delegou
+qualquer competência enquanto tal – toma todas as diligências necessárias, ao abrigo
+do RJSPTP, para promover o Procedimento Concursal, e assim assegurar a prestação
+do serviço público de transporte de passageiros.
+43. Neste sentido, e nos termos do disposto no artigo 10.º do mesmo Regime, todas as
+autoridades de transportes podem delegar, total ou parcialmente, as respetivas
+competências noutras autoridades de transportes ou noutras entidades públicas,
+podendo acordar entre si o exercício partilhado de parte ou da totalidade das
+competências que lhes estão cometidas, designadamente através de contratos
+interadministrativos, respeitando, igualmente, o previsto na Lei n.º 75/2013, de 12 de
+setembro, com a ressalva das devidas adaptações.
+44. No caso sub judice, o Município de Guimarães não delegou qualquer competência
+através de um contrato interadministrativo, tendo optado, exclusivamente, pela
+celebração de acordos interadministrativos com outras autoridades de transportes,
+acordos esses, que visam, conforme já referido, a colaboração e coordenação de
+competências relativa à organização de um conjunto de serviços públicos de
+
+transporte rodoviário de passageiros cujo percurso entra no território de municípios
+imediatamente contíguos.
+45. A este propósito, e sem prejuízo das atribuições e competências próprias da AMT,
+enquanto regulador económico independente, caberá às autoridades de transportes
+criar e implementar as condições legais e contratuais de base que permitam a
+disponibilização de serviços de transportes enquadrados em termos equitativos,
+concorrenciais e organizativos6.
+46. Assim, tendo em conta os acordos interadministrativos celebrados entre o Município
+de Guimarães e as Autoridades de Transportes/municípios adjacentes, estará
+assegurada a integração e articulação de todos os serviços de transporte existentes,
+com vista a manter e dar consistência à organização do sistema de transportes na
+região e conformando-o com o RJSPTP, no âmbito do procedimento concursal, ora
+em análise.
+47. Relativamente às obrigações de serviço público e respetivas compensações
+financeiras, e considerando que o RJSPTP, designadamente, o artigo 3.º que
+estabelece que:
+➢ «Contrato de serviço público», é um ou vários atos juridicamente vinculativos
+que estabelecem o acordo entre uma autoridade de transportes competente e
+um operador de serviço público, para atribuir a este último a gestão e a
+exploração de determinado serviço público de transporte de passageiros sujeito
+a obrigações de serviço público;
+➢ «Obrigação de serviço público», a imposição definida ou determinada por uma
+autoridade de transportes, com vista a assegurar determinado serviço público
+de transporte de passageiros de interesse geral que um operador, caso
+considerasse o seu próprio interesse comercial, não assumiria, ou não
+assumiria na mesma medida ou nas mesmas condições, sem contrapartidas;
+➢ «Compensação por obrigação de serviço público», é uma qualquer vantagem,
+nomeadamente financeira, concedida, direta ou indiretamente, por uma
+autoridade de transportes a um operador de serviço público, através de
+recursos públicos, durante o período de execução de uma obrigação de serviço
+público ou por referência a esse período;
+
+6 A título de exemplo, o artigo 13.º do RJSPTP estabelece que o planeamento e a coordenação do serviço público de transporte
+de passageiros, por cada autoridade de transportes, devem ser articulados com o serviço público de transporte de passageiros
+existente ou planeado na respetiva área geográfica e pressupor a articulação e otimização da exploração, visando a eficiência e
+eficácia do serviço público de transporte de passageiros no seu conjunto, independentemente da sua finalidade, natureza ou tipo
+de exploração.
+
+➢ «Direito exclusivo», um direito que autoriza um operador de serviço público a
+explorar determinado serviço público de transporte de passageiros numa linha,
+rede ou zona específica, com exclusão de outros operadores de serviço
+público.
+48. Bem como, o artigo 23.º que refere, por seu turno, que “as autoridades de transportes
+competentes podem impor obrigações de serviço público ao operador de serviço
+público, as quais devem ser formuladas de forma expressa e detalhada, por referência
+a elementos específicos, objetivos e quantificáveis”. E ainda,
+49. E, ainda, o artigo 24.º que estabelece que “o cumprimento de obrigações de serviço
+público pode conferir o direito a uma compensação por obrigação de serviço público,
+a atribuir pela autoridade de transportes competente ao operador de serviço público
+respetivo (…) nos termos do anexo ao Regulamento e do Decreto-Lei n.º 167/2008, de
+26 de agosto, alterado pela Lei n.º 64/2013, de 27 de agosto.
+50. Referem os n.ºs 3 e n.º4 da referida disposição legal que “a compensação por
+obrigação de serviço público não pode exceder um montante que corresponda ao
+efeito financeiro líquido decorrente da soma das incidências, positivas ou negativas,
+da execução da obrigação de serviço público sobre os custos e as receitas do operador
+de serviço público”, sendo que as incidências “(…) são calculadas comparando a
+totalidade de custos e receitas do operador de serviço público num cenário de
+existência de obrigação de serviço público, com os decorrentes de um cenário sem
+existência de obrigação de serviço público e em que os serviços abrangidos são
+explorados em condições de mercado”.
+51. O Regulamento estabelece, ainda, que devem ser definidas “claramente as obrigações
+de serviço público que os operadores de serviço público devem cumprir e as zonas
+geográficas abrangidas”, estabelecendo “antecipadamente e de modo objetivo e
+transparente: i) os parâmetros com base nos quais deve ser calculada a compensação,
+se for caso disso, e ii) a natureza e a extensão dos direitos exclusivos eventualmente
+concedidos, por forma a evitar sobrecompensações (…)” devendo aqueles parâmetros
+ser determinados “(…) de modo a que cada compensação não possa, em caso algum,
+exceder o montante necessário para a cobertura do efeito financeiro líquido sobre os
+custos e as receitas decorrentes da execução das obrigações de serviço público, tendo
+em conta as respetivas receitas, conservadas pelo operador de serviço público, e um
+lucro razoável”.
+52. Estabelece, também, o anexo ao RJSPTP que, “para calcular as incidências
+financeiras líquidas, a autoridade competente deve tomar como referencial as
+
+seguintes regras: custos incorridos em relação a uma obrigação de serviço público ou
+a um conjunto de obrigações de serviço público impostas pela autoridade ou
+autoridades competentes, incluídas num contrato de serviço público e/ou numa regra
+geral, menos as incidências financeiras positivas geradas na rede explorada ao abrigo
+da obrigação ou obrigações de serviço público em causa, menos as receitas
+decorrentes da aplicação do tarifário ou quaisquer outras receitas decorrentes do
+cumprimento da obrigação ou obrigações de serviço público em causa, mais um lucro
+razoável7, igual ao efeito financeiro líquido”.
+53. O n.º 3 do referido anexo releva ainda que “a execução da obrigação de serviço público
+pode ter um impacto sobre as eventuais atividades de transporte de um operador para
+além da obrigação ou obrigações de serviço público em causa”, pelo que, “para evitar a
+sobrecompensação ou a falta de compensação, devem, por conseguinte, ser tidos em
+conta, ao proceder ao cálculo da incidência financeira líquida, os efeitos financeiros
+quantificáveis sobre as redes do operador”.
+54. Por outro lado, o n.º 5 do anexo estabelece que “a fim de aumentar a transparência e
+de evitar subvenções cruzadas, quando um operador de serviço público explora
+simultaneamente serviços sujeitos a obrigações de serviço público de transportes que
+beneficiam de compensação e outras atividades, a contabilidade dos referidos serviços
+públicos deve ser separada, satisfazendo, no mínimo, as seguintes condições:
+➢ As contas correspondentes a cada uma destas atividades de exploração devem
+ser separadas, e a parte dos ativos correspondentes e os custos fixos devem
+ser afetados segundo as normas contabilísticas e fiscais em vigor,
+➢ Todos os custos variáveis, uma contribuição adequada para os custos fixos e
+um lucro razoável ligados a qualquer outra atividade do operador de serviço
+público não podem, em caso algum, ser imputados ao serviço público em
+causa,
+➢ Os custos de serviço público devem ser equilibrados pelas receitas de
+exploração e pelos pagamentos das autoridades públicas, sem transferência
+possível das receitas para outro sector de atividade do operador de serviço
+público”.
+55. Finalmente, o ponto 7 do anexo refere que “o método de compensação deve incentivar
+a manutenção ou o desenvolvimento de uma gestão eficaz por parte do operador de
+
+7 Segundo o Regulamento, “Por «lucro razoável» entende-se uma taxa de remuneração do capital que seja habitual no setor
+num determinado Estado-Membro, e que deve ter em conta o risco, ou a inexistência de risco, incorrido pelo operador de serviço
+público devido à intervenção da autoridade pública”.
+
+serviço público, que possa ser apreciada objetivamente, e uma prestação de serviços
+de transporte de passageiros com um nível de qualidade suficientemente elevado”.
+b) O Caderno de Encargos
+56. O contrato a celebrar com o operador selecionado assumirá a natureza de contrato de
+concessão de serviço público de transporte de passageiros, nos termos do disposto
+na Lei n.º 52/2015, de 9 de junho, cujo contrato a celebrar terá a duração de 10 anos,
+com o período de transição definido na Cláusula 9.ª.
+57. Período de transição esse que, tem por objetivo garantir que a saída dos operadores que
+atualmente asseguram os serviços que serão objeto do contrato e o início da operação
+objeto deste contrato, se processará sem disrupções, permitindo ao adjudicatário do
+concurso preparar adequadamente o início da operação, enquanto o serviço ainda é
+assegurado pelos operadores atuais.
+58. No entanto, tal período de transição não parece claro, e como tal, deverá ser clarificado,
+considerando que se trata de um elemento fundamental para os concorrentes
+apresentarem as suas propostas, sendo, por isso, essencial estar devidamente definido
+– Período de Transição Inicial – para qualquer um dos serviços, seja o municipal, seja o
+urbano.
+59. Atendendo ao valor do contrato, deverão ser salvaguardadas todas as regras
+decorrentes do controlo financeiro preconizado pelo Tribunal de Contas.
+60. Vejamos agora o clausulado do C.E. mais detalhadamente.
+61. A Cláusula 18.ª estabelece que o serviço público está sujeito às obrigações de serviço
+público (OSP) expressamente impostas, designadamente, a obrigação de operar a
+Rede, assegurar um serviço de transporte de qualidade, segurança, fiabilidade, sem
+qualquer interrupção ou quebra, a obrigação de disponibilizar os títulos de transporte e
+aplicar as tarifas previstas, a obrigação de prestar a informação aos passageiros, bem
+como as referentes ao Livro de Reclamações.
+62. A Cláusula 19.ª estabelece, ainda, Obrigações de Serviço Público Adicionais.
+63. A Cláusula 21.ª define claramente o Plano de Rede e Oferta, bem como a Capacidade
+de Transporte.
+64. A Cláusula 22.ª obriga à Concessionária a elaboração anual de uma proposta de Plano
+de Rede e Oferta para os 12 meses subsequentes, com eventuais propostas de
+adaptação.
+
+65. A cláusula 28.ª prevê todo um conjunto de regras (exaustivas) sobre o relacionamento
+com os passageiros e respetivas reclamações.
+66. A Cláusula 31.ª estabelece as condições para a subcontratação da prestação de
+serviços, incluindo os respetivos limites, resultantes do Regulamento.
+67. A Cláusula 45.ª estabelece o dever da Concessionária em explorar o Serviço Público de
+acordo com os Títulos e Tarifas definidos no Anexo 7, nomeadamente no que se refere
+aos valores máximos a praticar e respetivas regras de atualização.
+68. A Cláusula 47.ª obriga à implementação em toda a frota de veículos utilizada na
+exploração do Serviço Público, de sistemas de bilhética com requisitos devidamente
+definidos.
+69. A Cláusula 49.ª estabelece que os proveitos diretos das atividades da concessão
+revertem a favor da Concessionária.
+70. A Cláusula 50.ª define as regras pelas compensações devidas pelo Concedente por
+Obrigações de Serviço Público, estabelecendo a Cláusula 51.ª a forma como serão feitos
+tais pagamentos.
+71. O direito à Reposição do Equilíbrio Financeiro está consagrado na Cláusula 55.ª, onde
+se estabelece, expressamente, as condições em que tal será devido.
+72. De forma a que nunca haja qualquer disrupção na prestação dos serviços de transporte,
+as cláusulas 56.ª e 58.ª, estabelecem os períodos de transição inicial e final,
+respetivamente.
+73. Quanto ao período de exploração – período durante o qual a Concessionária se obriga
+a explorar o Serviço Púbico e demais atividades objeto do contrato de concessão – é
+estabelecido na Cláusula 57.ª em 10 anos.
+74. Quanto aos poderes de direção do Concedente, ao dever geral de informação ao
+Concedente, à fiscalização e respetiva monitorização, estão descritos com grande
+detalhe nas Cláusulas 61.ª, 62.ª e 63, o que potencia a execução do contrato de acordo
+com o interesse público subjacente.
+75. Mais, a Concessionária está obrigada a realização de uma auditoria externa anual,
+conforme resulta da Cláusula 64.ª, o que permite a análise da execução contratual, e se
+for caso disso, a correção de situações pontuais, bem como, ajustamentos pontuais à
+sua execução.
+76. Quanto às obrigações de monitorização e reporte, destaca-se a prevista na Cláusula
+66.º, onde se obriga a Concessionária a remeter, anualmente, ao Concedente e em
+
+suporte informático, a versão do Modelo Financeiro atualizado com base em toda a
+informação histórica – devidamente certificada pelo ROC.
+77. Não obstante o Caderno de Encargos integrar uma cláusula – 70.ª – relativa às multas
+contratuais – tipificada, porém, de forma minimalista no Anexo 10, uma vez que as
+restringe, exclusivamente, ao não cumprimento dos indicadores de desempenho – não
+estabelece qualquer graduação em função da sua gravidade, conforme dispõe o artigo
+45.º do RJSPTP.
+78. Os incumprimentos tipificados na cláusula 70.ª n.º 1 do Caderno de Encargos, deveriam
+estar graduados em leves, graves e muito graves, com o correspondente valor mínimo e
+máximo de multa a aplicar a cada um, em função dos índices de gravidade, podendo o
+incumprimento, em última análise, gerar, ainda, a resolução unilateral do contrato.
+Vejamos.
+79. O n.º 1 do artigo 70.º do Caderno de Encargos determina a aplicação de uma multa –
+com montante a variar entre um mínimo de 5€ e um máximo de 100.000€, cujo intervalo
+se considera desproporcional - pelo incumprimento, mora e/ou cumprimento defeituoso
+imputável à Concessionária, de quaisquer obrigações emergentes do contrato, ou de
+determinações do Concedente, independentemente de qualquer classificação dos
+deveres violados e respetiva graduação.
+80. Quanto à graduação, e não obstante o n.º 7 da Cláusula 69.ª elencar todo um conjunto
+de situações (obrigações), classificando-as, em caso de incumprimento, como uma
+grave violação, não determina, contudo, o montante mínimo e máximo do valor da multa
+a aplicar.
+81. Também não é feita qualquer tipificação das obrigações cujos incumprimentos se
+consideram leves e muito graves, e respetivos valores das multas (mínimos e máximos).
+82. A título de exemplo, tipificam-se algumas infrações relevantes que deveriam ser
+tipificadas na cláusula multas contratuais, de forma graduada – com os montantes
+mínimo e máximo da multa a aplicar – e em função da sua gravidade:
+INFRAÇÕES CONSIDERADAS LEVES
+➢ Não manter em perfeitas condições de higiene e limpeza todos os
+equipamentos móveis afetos ao serviço;
+➢ A ausência ou incorreção na higiene ou decoro dos funcionários do prestador
+que tenham contacto direto com os utentes;
+
+➢ A falta de consideração, respeito ou amabilidade, para com o público por parte
+dos citados funcionários;
+➢ O atraso atribuído ao prestador no fornecimento de dados de estudo solicitados
+pela entidade adjudicante;
+➢ A verificação de que num veículo em serviço, algum passageiro carece de
+bilhete ou título de transporte válido, salvo quando isso se deva a uma
+circunstância extraordinária ou causa justificada e não à negligência do
+prestador;
+➢ O consentir que ocorram desvios ao itinerário estabelecido, sem causa
+justificada e sem reiteração por cada veículo, no mesmo dia.
+INFRAÇÕES CONSIDERADAS GRAVES
+➢ Cometer três ou mais faltas leves que sejam da mesma natureza;
+➢ Incumprimento do disposto no plano de manutenção, a apresentar pelo
+prestador, referente à manutenção da frota;
+➢ A falta de observação do disposto quanto a livros de reclamações;
+➢ Qualquer obstrução do prestador ao trabalho de inspeção da entidade
+adjudicante;
+➢ Incumprimento do disposto na cláusula relativa aos horários de passagem nos
+termos e percentagens aí previstas;
+➢ A diminuição do serviço estabelecido para cada carreira que se mantenha
+durante mais de três horas consecutivas, por causa atribuível ao prestador;
+➢ Atrasos atribuíveis à empresa, no início de um serviço ou conclusão do mesmo,
+superiores a dez minutos por cada veículo, durante dois dias seguidos.
+Considerar-se-á igualmente como falta grave se a situação descrita ocorrer em
+três dias interpolados dentro da mesma semana;
+➢ Adiantamentos, atribuíveis à empresa, no início de um serviço ou conclusão do
+mesmo, durante dois dias seguidos por cada veículo. Considerar-se-á
+igualmente como falta grave se a situação descrita ocorrer em três dias
+interpolados dentro da mesma semana;
+➢ Ocorrência de desvios do itinerário estabelecido, sem causa justificada, por
+cada veículo, em dois dias seguidos. Considerar-se-á igualmente como falta
+
+grave se a situação descrita ocorrer em três dias interpolados dentro da mesma
+semana;
+➢ Todas as demais situações que sejam resultantes de um comportamento
+negligente, reiterado, por parte do concessionário, seu funcionário ou agente;
+➢ O incumprimento, total ou parcial, pelo prestador, das proibições estipuladas
+no Código dos Contratos Públicos, assim como a omissão de ações que sejam
+obrigatórias nos termos desse Código;
+➢ O atraso, por parte do prestador, no cumprimento dos prazos expressamente
+estabelecidos no presente caderno de encargos ou impostos por qualquer
+disposição legal ou regulamentar, ou decisão administrativa, quando tal atraso
+se prolongue por mais de metade do prazo estabelecido para o cumprimento.
+INFRAÇÕES CONSIDERADAS MUITO GRAVES
+➢ A Afetação dos veículos a outras atividades alheias ao objeto do contrato sem
+consentimento do prestador;
+➢ A cobrança de preços ou tarifas diferentes das definidas;
+➢ Não admissão ao gozo do serviço de qualquer utente que reúna as condições
+regulamentares;
+➢ Trespasse ou cedência da totalidade, ou parte, dos serviços objeto do contrato
+a terceiros, sem o consentimento da entidade adjudicante;
+➢ Cessação de algum modo do serviço, salvo causa de força maior;
+➢ Desobediência das ordens de alteração do serviço, nos termos determinados
+pela entidade adjudicante;
+➢ Adulteração, atribuível ao prestador, do número de quilómetros realizados ou
+de passageiros transportados, bem como de qualquer outra informação que
+deva facultar à entidade adjudicante;
+➢ Emissão de bilhetes ou títulos de transporte não autorizados pela entidade
+adjudicante;
+➢ Adulteração da documentação económica que o prestador deva proporcionar;
+➢ Utilização, no serviço, de um veículo que não cumpra as licenças necessárias
+ou as características técnicas definidas e contratualizadas;
+➢ Não iniciar os serviços contratados dentro do prazo estipulado para o efeito;
+➢ Fraude na execução do serviço;
+
+➢ Falta de comunicação pelo prestador das alterações e anomalias, que ponham
+em causa o regular e bom funcionamento do serviço;
+➢ Atrasos atribuíveis à empresa, no início de um serviço ou conclusão do mesmo,
+superiores a dez minutos por cada veículo, sempre que essa infração se
+cometa durante três dias, consecutivos, durante a mesma semana;
+➢ Adiantamentos atribuíveis à empresa, no início de um serviço ou conclusão do
+mesmo, sempre que essa infração se cometa durante três dias consecutivos,
+durante a mesma semana;
+➢ Ocorrência de desvios do itinerário estabelecido, sem causa justificada, por
+cada veículo, durante três dias consecutivos, durante a mesma semana;
+➢ Obstrução reiterada do prestador ao trabalho de inspeção da entidade
+adjudicante.
+83. A Cláusula 72.ª do Caderno de Encargos estabelece, com detalhe, as circunstâncias
+consideradas de força maior e que, como tal, justificam incumprimentos por parte da
+Concessionária.
+84. As regras de modificação e extinção do contrato estão devidamente previstas nas
+cláusulas 73.ª (Resgate), 74.ª (Modificação do contrato), 75.ª (Sequestro), 76.º, 77.ª e
+78.ª (resolução por qualquer uma das partes e caducidade) e 79.ª (Reversão).
+Em suma,
+85. Afigura-se que, do ponto de vista formal e de enquadramento institucional, nada
+haverá a apontar quanto à iniciativa da promoção de um procedimento concursal
+pelo município enquanto Autoridade de Transportes, uma vez que, sem prejuízo das
+atribuições e competências próprias da AMT, enquanto regulador económico
+independente, caberá às próprias Autoridades de Transportes criar e implementar as
+condições legais e contratuais de base que permitam a disponibilização de serviços de
+transportes enquadrados em termos equitativos, concorrenciais e organizativos8.
+86. O artigo 23.º do RJSPTP estabelece, por seu turno, que "as autoridades de transportes
+competentes podem impor obrigações de serviço público 9 ao operador de serviço
+
+8 A título de exemplo, o artigo 13.º do RJSPTP estabelece que o planeamento e a coordenação do serviço público de transporte
+de passageiros, por cada autoridade de transportes, devem ser articulados com o serviço público de transporte de passageiros
+existente ou planeado na respetiva área geográfica e pressupor a articulação e otimização da exploração, visando a eficiência e
+eficácia do serviço público de transporte de passageiros no seu conjunto, independentemente da sua finalidade, natureza ou tipo
+de exploração.
+9 Tal como referem as Orientações da Comissão "Conforme dispõe o artigo 14.º do TFUE, «a União e os seus Estados-Membros,
+dentro do limite das respetivas competências e no âmbito de aplicação dos Tratados, zelarão por que esses serviços [de interesse
+económico geral] funcionem com base em condições, nomeadamente económicas e financeiras, que lhes permitam cumprir as
+suas missões»". De acordo com o Protocolo n.º 26, as autoridades nacionais, regionais e locais têm um papel essencial e gozam
+de um amplo poder de apreciação na prestação, execução e organização de serviços de interesse económico geral de uma
+
+público, as quais devem ser formuladas de forma expressa e detalhada, por referência a
+elementos específicos, objetivos e quantificáveis".
+87. Por outro lado, o artigo 24.º do RJSPTP estabelece que "o cumprimento de obrigações
+de serviço público pode conferir o direito a uma compensação por obrigação de serviço
+público, a atribuir pela autoridade de transportes competente ao operador de serviço
+público respetivo”, nos termos do anexo ao Regulamento e do Decreto-Lei n.º 167/2008,
+de 26 de agosto, alterado pela Lei n.º 64/2013, de 27 de agosto.
+88. Acresce que, segundo o Artigo 20.º do RJSPTP, o contrato de serviço público pode
+assumir a natureza de contrato de concessão de serviço público de transporte de
+passageiros e de contrato de prestação de serviço público de transporte de passageiros,
+sendo que:
+➢ “Considera-se contrato de concessão de serviço público de transporte de
+passageiros aquele em que o operador de serviço público se obriga a explorar
+o serviço público de transporte de passageiros, em condições e por um período
+determinados pela autoridade de transportes competente, em nome próprio e
+sob sua responsabilidade, sendo remunerado, total ou parcialmente, pelas
+tarifas cobradas aos passageiros;
+➢ Considera-se contrato de prestação de serviço público de transporte de
+passageiros aquele em que o operador de serviço público se obriga a prestar
+o serviço público de transporte de passageiros em condições e por um período
+determinados pela autoridade de transportes competente, mediante o
+pagamento de uma determinada remuneração por parte da mesma".
+89. O artigo 21.º do RJSPTP estabelece que o contrato de serviço público é obrigatoriamente
+reduzido a escrito, dele devendo constar de forma clara os direitos e obrigações de cada
+uma das partes e as características do serviço público de transporte a prestar,
+designadamente, e quando aplicável, o modelo de remuneração do operador de serviço
+público, incluindo a eventual compensação por obrigações de serviço público previstas
+no contrato e os critérios para a sua determinação, quando sejam impostas.
+90. A distinção entre o tipo de contratos supra referidos assenta na dicotomia entre contratos
+"gross cost" e "net cost", em que nos primeiros:
+
+forma que atenda tanto quanto possível às necessidades dos utilizadores (…). Assim, no quadro definido pelo regulamento (CE)
+n º 1370/2007, os Estados-Membros beneficiam de uma ampla margem de discricionariedade na definição das obrigações de
+serviço público em sintonia com as necessidades dos utentes.
+
+➢ A retribuição do operador é baseada (principalmente) no nível de produção
+realizado, designadamente o número de veículos/km anuais;
+➢ A autoridade de transportes mantém a totalidade ou a maioria do risco
+comercial, ficando com a receita tarifária;
+➢ A autoridade de transportes realiza o planeamento, a definição e a atualização
+da rede, da oferta e dos tarifários e a sua integração com outros operadores;
+➢ Os operadores, não tendo que suportar o risco comercial (que não controlam),
+tendem a requerer um nível de remuneração mais reduzido do que no "net
+cost";
+➢ O maior incentivo do operador é a otimização da eficiência e dos custos de
+produção, em que a remuneração do operador é indiferente da rentabilidade
+de cada linha;
+➢ Pode minimizar efeitos negativos resultantes assimetrias de informação entre
+o operador e a autoridade de transportes, no que concerne às contas da
+prestação de serviços.
+91. Quanto a este propósito, refere a Comunicação da Comissão, quanto à implementação
+do Regulamento 10:
+➢ "Segundo o artigo 5.º, ponto 1, alínea b) da Diretiva 2014/23/UE, «concessão
+de serviços» é um contrato a título oneroso celebrado por escrito, mediante o
+qual uma ou mais autoridades ou entidades adjudicantes confiam a um ou mais
+operadores económicos a prestação e a gestão de serviços distintos da
+execução de obras a que se refere a alínea a) do mesmo artigo e cuja
+contrapartida consiste, quer unicamente no direito de exploração dos serviços
+que constituem o objeto do contrato, quer nesse direito acompanhado de um
+pagamento. A mesma disposição precisa ainda que a adjudicação de uma
+concessão de obras ou de serviços envolve a transferência para o
+concessionário de um risco de exploração dessas obras ou serviços que se
+traduz num risco ligado à procura, à oferta, ou a ambas, que se considera que
+o concessionário assume o risco de exploração quando, em condições normais
+de exploração, não há garantia de que recupere os investimentos efetuados ou
+as despesas suportadas com a exploração das obras ou serviços que são
+objeto da concessão e que a parte do risco transferido para o concessionário
+
+10 http ://ec.europa.eu/transport/sites/transport/files/themes/passengers/news/doc/2015-07-03-stricter-enforcement-pax
+rights/guidelines pt.pdf
+
+deve envolver a exposição real à imprevisibilidade do mercado, o que implica
+que quaisquer perdas potenciais incorridas pelo concessionário não sejam
+meramente nominais ou insignificantes;
+➢ Esta distinção entre contratos (públicos) de serviços e concessões é importante
+dado que, de acordo com o artigo 10.º n.º 3 da Diretiva 2014/23/UE, esta não
+se aplica às concessões de serviços públicos de transporte de passageiros na
+aceção do Regulamento (CE) n.º 1370/2007. A adjudicação de concessões de
+serviços para a prestação destes serviços públicos rege-se, exclusivamente,
+pelo regulamento (CE) n.º 1370/2007;
+➢ A organização de um concurso aberto a todos os operadores, transparente e
+sem discriminações, na aceção do artigo 5.º n.º 3, permitirá normalmente
+minimizar a compensação que as autoridades competentes terão de pagar ao
+prestador de serviços para obterem o nível de serviço público imposto pelo
+caderno de encargos, obviando assim à sobrecompensação. Neste caso, não
+há necessidade de aplicar as regras relativas à compensação previstas no
+anexo do regulamento.”
+92. Nesse sentido, na generalidade, a distinção entre uma concessão de serviço público
+e a prestação de serviços11 assenta, sobretudo, na distribuição do risco e na detenção
+da receita tarifária, sendo que na prestação de serviços a autoridade é responsável por
+ambos, salvaguardando a sua posição pela obtenção do melhor preço através de um
+procedimento concursal, aberto, transparente não discriminatório.
+93. No caso em apreço, e não obstante haver lugar ao pagamento de compensações
+financeiras, a Concessionária, nos termos do disposto na cláusula 49.ª do Caderno de
+Encargos, será remunerada, pelo valor resultante da cobrança dos tarifários, o que
+significa que o modelo escolhido é o de “net cost”.
+94. Considerando os dados disponibilizados pelo Município – valor do contrato e critérios de
+adjudicação –, à partida, estamos perante o permitido pelo direito e pela jurisprudência
+europeia, existindo obrigações contratuais clara e objetivamente definidas, afigurandose não se conferir vantagem económica suscetível de favorecer a empresa beneficiária
+em relação a empresas concorrentes em igualdade de circunstâncias (desde logo porque
+o benefício — compensação e direito de exploração – não é atribuído diretamente ou
+imposto mas na sequência de procedimento concursal), e perante remunerações que
+não ultrapassam o necessário para cobrir os custos ocasionados com o serviço público,
+
+11 Comunicação interpretativa da Comissão sobre a aplicação do direito comunitário em matéria de contratos públicos e de
+concessões às parcerias público-privadas institucionalizadas (PPPI). (Texto relevante para efeitos do EEE) (2008/C 91102).
+
+incentivando o operador a procurar a eficiência na prestação de serviços, diminuindo os
+custos, potenciando receitas indiretas e evitando o pagamento de penalizações.
+95. Por outro lado, considera-se que as obrigações contratuais estando, à partida, definidas
+com clareza, sendo estabelecidos antecipadamente e de modo objetivo e transparente
+os parâmetros correspondentes à remuneração da Concessionária pela prestação de
+serviços, bem como, os termos concretos que permitem aplicar sanções ou penalidades
+pelo incumprimento de obrigações contratuais, sem prejuízo da desejável tipificação dos
+incumprimentos em função da gravidade e respetivos montantes, mínimos e máximos,
+das multas a aplicar.
+c) Outras considerações
+96. Acresce que, de forma a garantir um procedimento equitativo, aberto e transparente, e
+ainda que o município se comprometa nesse sentido, reforça-se que os concorrentes
+deverão ter uma noção genérica da performance e de custos e receitas envolvidos na
+exploração deste serviço de transporte, para poderem formular a sua proposta. É certo
+que não se poderá colocar em desvantagem concorrencial o atual operador (que poderá
+ser um concorrente) mas terá de existir informação suficiente a todos os concorrentes,
+se estes assim o desejarem12.
+97. Nesse sentido, o município deve monitorizar adequadamente o procedimento concursal
+bem como o tratamento equitativo de todos os concorrentes, de forma a evitar a
+apresentação de apenas uma proposta (tal como refere a Comissão nas suas
+orientações à aplicação do Regulamento13).
+98. Por outro lado, na execução contrato, deve existir uma adequada monitorização, de
+todos os pressupostos e variáveis necessárias ao cálculo de indicadores de performance
+e suas penalizações, não só para poder melhor preparar futuros procedimentos
+concursais, como também para avaliar a existência de necessários incentivos a uma
+gestão eficaz por parte do operador e garantir um nível de qualidade suficientemente
+elevada14.
+
+12 Tal como referem as Orientações da Comissão já citadas "Para tornar o processo de concurso mais transparente, as
+autoridades competentes deverão fornecer aos concorrentes potenciais todos os dados técnicos e financeiros pertinentes,
+incluindo as informações sobre a repartição de custos e receitas, para os ajudar a prepararem as suas propostas."
+13 "As autoridades competentes deverão, pois, ser particularmente vigilantes quando haja indícios claros de concorrência
+falseada, por exemplo se apenas for apresentada uma proposta. A Comissão também estaria, em tais casos, mais inclinada a
+averiguar as circunstâncias concretas do processo de concurso".
+14 Segundo as Orientações da Comissão, já citadas, "As autoridades competentes são obrigadas a verificar a observância das
+condições contratuais durante a vigência dos contratos de serviço público. Para ajudar a efetuar estas verificações de forma
+normalizada, poderão criar-se ferramentas informáticas".
+
+99. Por outro lado, sugere-se, ainda, a inclusão de diversos indicadores de monitorização e
+supervisão, tal como consta da Informação às Autoridades de Transportes de 27 de
+setembro de 201815, uma vez que se entende que poderão auxiliar na supervisão e
+fiscalização de contratos de serviço público, naturalmente adaptando aos modos e aos
+diversos circunstancialismos locais, podendo tal ser relevante para a potenciação das
+respetivas funções organizativas da Autoridade de Transportes.
+100. Por outro lado, considera-se vantajosa a introdução de mecanismos periódicos da
+aferição de incumprimentos, ou seja, além da definição dos períodos (mensal, trimestral
+etc) da recolha de informação quanto à execução contratual, será de ponderar que a
+aferição do incumprimento de obrigações contratuais seja efetuada paralelamente e não
+apenas anualmente, sob pena de que largos períodos de incumprimento permanente ou
+interpolado possam ser diluídos numa aferição baseada num prazo mais alargado.
+d) Racionalidades basilares da regulação económica independente
+101. O Caderno de Encargos e o Programa de Concurso estão devidamente enquadrados na
+legislação nacional e europeia e, à partida, dão resposta favorável a cada uma das
+racionalidades basilares e estruturantes da metodologia de regulação económica
+independente da AMT (investidores; profissionais/utilizadores/utentes/consumidores
+elou cidadãos; contribuintes).
+102. Quanto a investidores, tendo em conta os elementos disponibilizados, afigura-se que
+estão criadas as condições para a manutenção do desenvolvimento do serviço de
+transporte de passageiros, criando as condições de estabilidade necessárias ao
+investimento na rede de transportes.
+103. Por outro lado, o facto de se clarificarem e especificarem as condições de exploração de
+um operador de transportes e, consequentemente, com as Autoridades de Transportes,
+confere um quadro de transparência, estabilidade e previsibilidade, estando acautelado
+o adequado relacionamento com outros operadores de transportes no mesmo mercado,
+o efetivo cumprimento das regras contratuais e legais, nacionais e europeias, e um
+exercício de regulação, supervisão e organização de sistema atento a eventuais
+distorções concorrenciais.
+104. No que se refere a utilizadores/utentes/consumidores elou cidadãos, o facto de o
+sistema ser gerido em articulação com entidades com maior proximidade, com regras
+claras e submetidas à concorrência, poderá potenciar a oferta de um melhor serviço,
+adequando a oferta à procura de forma mais profícua, dinâmica e eficaz. Naturalmente
+
+15 https://www.amt-autoridade.pt/media/1777/csite_indicadores_monitorizacao_supervisao_at.pdf
+
+que a existência ou crescimento dos benefícios decorrerá do acompanhamento da
+execução contratual.
+105. Ademais, o exercício dos poderes regulatórios da AMT em articulação com os poderes
+organizacionais do município, cada qual no âmbito das respetivas competências, poderá
+permitir, potencialmente, uma melhor promoção dos direitos e interesses dos
+consumidores, utilizadores do transporte público, mas também, indiretamente, daqueles
+que possam beneficiar da existência de uma rede de transportes públicos eficiente no
+município.
+106. Também no interesse daqueles, como dos contribuintes, a prestação do serviço público
+de transporte de passageiros, com base numa definição transparente e objetiva das
+obrigações contratuais, bem como sustentada em obrigações de reporte de informação,
+e de mecanismos de fiscalização e sancionamento, poderá potenciar uma melhor gestão
+dos dinheiros públicos e, consequentemente, assegurar a sustentabilidade da oferta de
+transportes à população.
+
+IV) DAS DETERMINAÇÕES / RECOMENDAÇÕES
+107. Assim, considerando-se a análise de compliance, bem como a ponderação das
+racionalidades basilares supra referidas, a AMT determina o seguinte:
+i) Considerando que a celebração do acordo interadministrativo visa o
+estabelecimento das regras sobre o exercício coordenado das competências das
+Partes enquanto Autoridades de Transportes, nos termos do RJSPTP,
+relativamente aos serviços públicos de transporte de passageiros objeto do
+procedimento concursal, com o período de exploração de 10 anos, naturalmente,
+o prazo de vigência do referido acordo também deveria ser de 10 anos, por forma
+a minimizar riscos de disrupção na prestação dos serviços, o que se determina.
+ii) Tendo em conta que o Contrato a celebrar tem duas fases (como já referido, uma
+primeira fase, em que o Adjudicatário apenas presta Serviços de âmbito Municipal,
+não incluídos no contrato de concessão celebrado entre o Município de Guimarães
+e os TUG, passando a prestar, também, a partir da segunda fase, Serviços
+Urbanos, com efeitos à data do termo desse contrato, i.e. a partir de 2 de março
+de 2021), considera-se que deverá ser explicitado, tanto na fundamentação, como
+nas Peças do Procedimento, quais as obrigações inerentes a cada uma fases do
+Contrato;
+iii) No que se refere ao valor global do contrato de €91.898.474 (noventa e um milhões,
+oitocentos e noventa e oito mil, quatrocentos e setenta e quatro euros), conforme
+
+cláusula 49ª, deverão ser desagregadas (quantificadas) as suas várias
+componentes (i) compensação OSP; (ii) proveitos relativos às atividades objeto da
+Concessão, nomeadamente, as receitas resultantes da cobrança dos Tarifários;
+(iii) proveitos das atividades acessórias e (iv) outras compensações, atribuídas
+pelo Estado ou por qualquer outra entidade pública relativas às atividades
+concessionadas;
+iv) Deverá existir uma estimativa da receita, com fundamentação na procura de
+transporte público de passageiros, para cada uma das fases;
+v) Deverá ser clarificado o Anexo ao Caderno de Encargos da caraterização da Rede
+e identificação das Linhas e respetivos veículos quilometro, para cada uma das
+fases;
+vi) Deverá ser considerada a desagregação da remuneração (Euros/Vkm) para cada
+uma das fases;
+vii) Uma vez que, na fundamentação apresentada foram evidenciados dois cenários,
+um “Moderado” e outro “Pessimista” (e tendo-se optado por este último),
+determina-se que seja reforçado o racional subjacente a tal opção, tendo em conta
+a sua relevância para o cálculo de compensação OSP, explicitando, ainda, quais
+os pressupostos em termos de procura, tendo em conta as duas fases contratuais;
+viii) Determina-se a inclusão de uma Cláusula que vise prevenir situações de
+sobrecompensação, tal como existe para a situação de reposição do equilíbrio
+financeiro da concessão, para evitar a subcompensação, o que colocaria em risco
+a qualidade do serviço, o cumprimento das obrigações contratadas e, no limite, a
+subsistência do próprio contrato;
+ix) Quanto ao período de transição previsto na Cláusula 9.ª, considera-se que tal
+período não parece claro, e como tal, deverá ser clarificado, considerando que se
+trata de um elemento fundamental para os concorrentes apresentarem as suas
+propostas, sendo, por isso, essencial, estar devidamente definido – Período de
+Transição Inicial – para qualquer um dos serviços, seja o municipal, seja o urbano;
+x) A cláusula referente às multas apresenta-se elencada de forma minimalista, (não
+obstante o Anexo 10 estabelecer uma graduação da gravidade dos
+incumprimentos, restringe-os às penalidades aplicáveis aos atrasos ou à não
+realização do serviço), determinando-se, por isso, que se faça uma lista mais
+exaustiva da tipificação de incumprimentos suscetíveis de se aplicar uma
+penalidade. Também se verifica que que as multas não estão graduadas, de
+forma objetiva, em função da gravidade – leve, grave e muito grave – do
+incumprimento e da respetiva aplicação da sanção/multa, razão pela qual se
+sugere que a Cláusula do Caderno de Encargos relativa às multas seja revisto em
+
+conformidade com o modelo proposto (cfr. sugestões constantes dos pontos 7277 do presente Parecer), com a ponderação da gravidade da infração a que se
+refere o n.º 7 do artigo 45.º do RJSPTP; e por último,
+xi) Recomenda-se que seja efetuado um acompanhamento rigoroso no sentido de
+aferir, a todo o tempo, incluindo no desenvolvimento do procedimento concursal, a
+compliance com as normas legais nacionais e europeias, bem como das
+disposições contratuais, sem prejuízo da avaliação prévia à celebração contratual,
+nos termos da Lei n.º 19/2012, de 8 de maio.
+
+V) DAS CONCLUSÕES
+A) No que concerne ao objeto específico deste parecer, afigura-se, à partida, que as
+peças procedimentais relativas ao procedimento concursal a lançar pelo Município
+de Guimarães estão em compliance com enquadramentos legais em vigor, de
+acordo com a informação prestada, de modo a ser dada a continuidade do serviço
+público de transporte de passageiros;
+B) De referir, igualmente, que a referida compliance afere-se não apenas na definição
+inicial dos termos daqueles instrumentos legais e contratuais, mas também na sua
+preparação no âmbito do desenvolvimento do procedimento concursal, na sua
+efetiva execução, implementação e eventual revisão (mesmo que programada e
+periódica), designadamente, na monitorização do cumprimento de obrigações
+contratuais, na fiscalização e sancionamento das mesmas;
+C) Sem prejuízo das atribuições e competências próprias da AMT, enquanto
+regulador económico independente, cabe às autoridades de transportes criar e
+implementar as condições legais e contratuais de base que permitam a
+disponibilização de serviços de transportes enquadradas em termos equitativos
+em termos concorrenciais, organizativos e institucionais;
+D) Acresce que a AMT, no âmbito das atribuições e competências que lhe estão
+legalmente cometidas pelos Estatutos, prosseguirá uma articulação expedita e
+eficiente com o Município, designadamente através de uma adequada
+transmissão de informação relevante, no âmbito da execução deste contrato, com
+especial incidência na verificação regular da conformidade legal, nacional e
+europeia com as regras e princípios de âmbito tarifário (de âmbito nacional,
+regional e local) e relativas aos direitos e interesses dos consumidores e que
+assumem impacto concorrencial;
+
+E) Quanto à análise das diferentes racionalidades plurais: a dos investidores; a dos
+profissionais/utilizadores/utentes/consumidores elou cidadãos; e a dos
+contribuintes, de acordo com a informação prestada e sujeita a confirmação e
+manutenção na execução contratual, é de parecer favorável porquanto e entre
+outros argumentos, pode contribuir para a sustentabilidade económica e de
+funcionamento do mercado da mobilidade, assegurando uma mobilidade eficiente
+e sustentável e permite a manutenção da cobertura da oferta de transportes na
+região;
+F) Em suma, o parecer prévio vinculativo da AMT quanto ao lançamento do
+procedimento concursal é positivo, condicionado ao efetivo cumprimento das
+Determinações, que serão objeto de monitorização e acompanhamento por parte
+desta Autoridade;
+G) De referir que o Parecer é convolado em negativo, caso exista incumprimento
+não devidamente fundamentado das Determinações.
+
+Lisboa, 03 de fevereiro de 2020.
+
+O Presidente do Conselho de Administração
+
+João Carvalho

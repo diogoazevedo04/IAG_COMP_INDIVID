@@ -1,0 +1,16 @@
+# Configuracao A: 500 tokens, overlap 50, pesquisa densa
+nome: A
+chunk_tokens: 500
+overlap_tokens: 50
+search: dense          # dense | hybrid
+vector_store: chroma  # chroma | numpy (usa numpy se o chromadb nao instalar)
+fetch: 20           # candidatos de cada pesquisa (so na hibrida)
+rrf_k: 60
+bm25: {k1: 1.5, b: 0.75, strip_accents: false}
+top_k_llm: 5        # excertos dados ao LLM (e Recall@5)
+top_k_metric: 10    # guardados em respostas.jsonl (MRR@10)
+embedding_model: qwen3-embedding:0.6b
+tokenizer: Qwen/Qwen3-Embedding-0.6B
+query_instruction: "Instruct: Given a question from a resident of Guimarães, retrieve passages that answer it\nQuery: "
+llm: {model: "gemma4:12b", temperature: 0, seed: 42, num_ctx: 8192, num_predict: 512, think: false}
+judge: {model: "openai/gpt-oss-120b", temperature: 0, pause_s: 45, max_retries: 5}
