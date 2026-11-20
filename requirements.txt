@@ -1,7 +1,5 @@
 # Instalar com: python -m pip install -r requirements.txt
-# Opcionais (se falharem, o projeto funciona sem eles):
-#   pymupdf   -> melhor extracao de PDF (senao usa pypdf)
-#   chromadb  -> base vetorial (senao usa vector_store: numpy nos config)
+
 pypdf
 trafilatura
 beautifulsoup4
